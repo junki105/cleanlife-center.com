@@ -1,0 +1,210 @@
+.l-main.flow {
+  padding-top: 65px; 
+}
+
+.l-main.flow section.dongha {
+  margin-top: 15px;
+  padding: 0 35px;
+}
+.flow-container {
+  margin-bottom: 40px;
+  /* box-shadow: 0 0 7px rgb(0 0 0 / 12%);  */
+  filter: drop-shadow( 0 0 7px rgb(0 0 0 / 12%));
+}
+.flow-information {
+  padding: 0 40px 0px 40px;
+  background-color: #f6fbff;
+}
+.flow-header {
+  background-color: #183494;
+  width: 100%;
+  font-weight: bold;
+  color: white;
+  padding-left: 25px;
+  height: 55px;
+  display: flex;
+  border-radius: 4px 4px 0 0;
+}
+.flow-header div:last-child {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-weight:bold;
+  font-size: 1.3rem;
+}
+.flow-num {
+  position: relative;
+  margin-top: -9px;
+  margin-right: 15px;
+  color: #183494;
+  background-color: white;
+  border: none;
+  width: 52px;
+  height: 52px;
+  font-size: 31px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flow-num::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 100%;
+  border-left: 4px solid #b2b2b2;
+  border-top: 9px solid transparent;
+}
+.flow-detail {
+  padding: 25px 28px;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  align-items: flex-start;
+  position: relative;
+}
+.flow-detail img {
+  width: 220px;
+  height: auto;
+}
+.flow-text {
+  font-size: 16px;
+  width: 420px;
+}
+.flow-detail::after {
+  content: "";
+  position: absolute;
+  bottom: -15px;
+  left: 47%;
+  width: 35px;
+  height: 30px;
+  background-color: white;
+  transform: rotate(57deg) skew(27deg);
+  /* border-right: 1px solid red;
+  border-bottom: 1px solid red; */
+
+  /* transform: translateX(-50%);
+  border-top: 30px solid white;
+  border-right: 18px solid transparent;
+  border-left: 18px solid transparent; */
+}
+.flow-container:last-child .flow-detail::after {
+  display: none !important;
+}
+.flow-container:last-child .flow-detail {
+  margin-bottom: 80px !important;
+}
+@media (max-width: 1200px) {
+  .l-aside {
+    display: none;
+  }
+  .l-main.flow section.dongha {
+    margin-top: 15px;
+    padding: 0 30px;
+  }
+}
+@media (max-width: 615px) {
+  .flow-information {
+    padding: 0 15px 0px 15px;
+  }
+  .l-main.flow {
+    padding-top: 57px;
+  }
+}
+@media (max-width: 768px) {
+  .l-main.flow section.dongha {
+    margin-top: 15px;
+    padding: 0 20px;
+  }
+}
+@media (max-width: 800px) {
+  ._pc {
+    display: none;
+  } 
+  .flow-detail img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-right: calc(2000vw / 640);
+    margin-bottom: 0;
+    width: calc(21000vw / 640);
+    height: auto;
+  }
+  .flow-text {
+    width: 100%;
+    font-size: 18.8px;
+    font-size: calc(1880vw / 640);
+  }
+  .flow-detail {
+    display: block;
+    border: 2px solid #183494;
+    padding: calc(2500vw / 640);
+  }
+  .flow-header {
+    border-radius: 4px 4px 0 0;
+  }
+  .flow-num {
+    border: 2px solid #183494;
+  }
+  .flow-num::after {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: calc(100% + 2px);
+    border-left: 4px solid #03185f;;
+    border-top: 9px solid transparent;
+  }
+  .flow-detail::after {
+    border-right: 2px solid #183494;
+    border-bottom: 2px solid #183494; 
+    bottom: -17px;
+    left: 45%;
+  }
+  .flow-header {
+    height: 40px;
+    font-size: 14px;
+  }
+  .flow-num {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+  }
+}
+/*  */
+
+/* CTA style start */
+
+@media (max-width: 600px) {
+
+	.note-tel-main a {
+		white-space: nowrap!important;
+	}
+	.coupon-tel-main01 a {
+		white-space: nowrap!important;
+	}
+	.note-tel-main a span {
+		font-size: 31px!important;
+	}
+	.coupon-tel-main01 a span {
+		font-size: 29px!important;
+	}
+}
+@media (max-width: 500px) {
+	.coupon-tel-main01 a span {
+		font-size: 27px!important;
+	}
+	.note-tel-main a span {
+		font-size: 27px!important;
+	}
+}
+@media (max-width: 400px) {
+
+	.coupon-tel-main01 a span {
+		font-size: 25px!important;
+	}
+	.note-tel-main a span {
+		font-size: 26px!important;
+	}
+
+}
+/* CTA style end */

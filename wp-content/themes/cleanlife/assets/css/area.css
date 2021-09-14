@@ -1,0 +1,238 @@
+.l-main.area {
+  padding: 36px 0 0;
+}
+
+.l-main.area section.dongha {
+  margin-top: 15px;
+  padding: 0 35px;
+}
+
+.sec-ttl {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 22px 11px 22px 29px;
+  background-color: #183494;
+  color: white;
+  border-radius: 4px;
+  height: 61px;
+  cursor: pointer;
+}
+
+.sec-ttl .ttl-txt {
+  font-size: 19px;
+}
+
+.ttl-accordion-btn::before {
+  cursor: pointer;
+  content: "\f067";
+  font-family: "Font Awesome 5 Free";
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.ttl-accordion-btn.toggle::before {
+  content: "\f068";
+}
+
+.sec-content {
+  padding: 29px 0 0 0;
+}
+
+.area-inner {
+  padding-bottom: 15px;
+}
+
+.area-ttl {
+  font-size: 17px;
+  color: #183494;
+  margin-bottom: 5px;
+}
+
+.area-content {
+  font-size: 14px;
+  padding-left: 5px;
+  line-height: 27px;
+}
+
+.sec-content.hide {
+  display: none;
+}
+
+.content-area {
+  width: 100%;
+}
+
+.dongha:nth-child(6) {
+  margin-bottom: 50px;
+}
+
+
+
+@media (max-width: 1200px) {
+  .l-aside {
+    display: none;
+  }
+  /* .l-main.area {
+    width: 100%;
+  } */
+  .l-main.area section.dongha {
+    margin-top: 15px;
+    padding: 0 30px;
+  }
+}
+@media (max-width: 768px) {
+  .l-main.area section.dongha {
+    margin-top: 15px;
+    padding: 0 20px;
+  }
+  
+}
+
+@media (max-width: 500px) {
+  
+  .sec-ttl {
+    height: 50px;
+  }
+
+  .sec-ttl .ttl-txt {
+    font-size: 17px;
+  }
+
+  .ttl-accordion-btn::before {
+    font-size: 22px;
+  }
+
+  .sec-content {
+    padding: 20px 0 0 0;
+  }
+  
+}
+
+.area-section {
+	padding: 10px 0 50px;
+}
+.area-box-container {
+    font-family: Source Han Sans JP;
+	padding: 0 40px;
+}
+.area-box {
+    padding: 0;
+    margin-bottom: 10px;
+}
+.area-q {
+    font-size: 22px;
+    color: white;
+	background-color: #183494;
+	border-radius: 5px;
+    font-weight: bold;
+    position: relative;
+    line-height: 1;
+    padding: 27px 25px 25px 25px;
+    cursor: pointer;
+}
+.area-q-icon {
+    position: absolute;
+    right: 25px;
+    top: 34px;
+}
+.area-q-icon div {
+    width: 23px;
+    height: 5px;
+    background-color: white;
+    position: relative;
+}
+.area-q-icon div div {
+    height: 23px;
+    width: 5px;
+    background-color: white;
+    position: absolute;
+    left: 9px;
+    top: -9px;
+    opacity: 1;
+    transition: opacity .4s ease;
+}
+.area-show .area-q-icon div div {
+    opacity: 0!important;
+}
+.area-a {
+    padding: 25px;
+    display: none;
+    transition: height .4s ease;
+    overflow: hidden;
+    line-height: 2;
+}
+.area-a div {
+    font-weight: bold;
+    margin-left: -5px;
+	color: #183494;
+}
+.area-show .area-a {
+    display: block;
+}
+@media (max-width: 640px) {
+	.area-box-container {
+		padding: 0 30px;
+	}
+}
+@media (max-width: 500px) {
+	.area-box-container {
+		padding: 0 20px;
+	}
+    .area-q {
+        padding: 20px;
+        font-size: 20px;
+    }
+    .area-q-icon {
+        right: 20px;
+		top: 28px;
+    }
+    .area-q-icon div {
+        width: 21px;
+        height: 3px;
+    }
+    .area-q-icon div div {
+        width: 3px;
+        height: 21px;
+    }
+    .area-a {
+        font-size: 13px;
+		padding: 20px;
+    }
+}
+/* CTA style start */
+
+@media (max-width: 600px) {
+
+	.note-tel-main a {
+		white-space: nowrap!important;
+	}
+	.coupon-tel-main01 a {
+		white-space: nowrap!important;
+	}
+	.note-tel-main a span {
+		font-size: 31px!important;
+	}
+	.coupon-tel-main01 a span {
+		font-size: 29px!important;
+	}
+}
+@media (max-width: 500px) {
+	.coupon-tel-main01 a span {
+		font-size: 27px!important;
+	}
+	.note-tel-main a span {
+		font-size: 27px!important;
+	}
+}
+@media (max-width: 400px) {
+
+	.coupon-tel-main01 a span {
+		font-size: 25px!important;
+	}
+	.note-tel-main a span {
+		font-size: 26px!important;
+	}
+
+}
+/* CTA style end */

@@ -1,0 +1,1312 @@
+# Translation of Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-10 12:57:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release)\n"
+
+#: backend/menupage/dashboard.php:302
+msgid "Custom Links"
+msgstr "Özel bağlantılar"
+
+#: backend/menupage/dashboard.php:301
+msgid "Taxonomies"
+msgstr "Sınıflandırmalar"
+
+#: backend/menupage/dashboard.php:300
+msgid "Posts and Pages"
+msgstr "Yazılar ve sayfalar"
+
+#: backend/menupage/dashboard.php:299
+msgid "Filter type"
+msgstr "Süzgeç tipi"
+
+#: backend/menupage/dashboard.php:298
+msgid "No matching records found"
+msgstr "Hiçbir eşleşen kayıt bulunamadı"
+
+#: backend/menupage/dashboard.php:297
+msgid "Search:"
+msgstr "Ara:"
+
+#: backend/menupage/dashboard.php:296
+msgid "Processing..."
+msgstr "İşleme"
+
+#: backend/menupage/dashboard.php:295
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: backend/menupage/dashboard.php:294
+msgid "Show _MENU_ entries"
+msgstr "_MENU_ girişlerini göster"
+
+#: backend/menupage/dashboard.php:293
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(toplam _MAX_ girişten süzüldü)"
+
+#: backend/menupage/dashboard.php:292
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Görüntülenecek giriş yok"
+
+#: backend/menupage/dashboard.php:291
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "_TOTAL_ kayıttan _START_ ile _END_ arası gösteriliyor"
+
+#: backend/menupage/dashboard.php:290
+msgid "No data available in table"
+msgstr "Tabloda veri yok"
+
+#: backend/menupage/dashboard.php:289
+msgid "Previous"
+msgstr "Önceki"
+
+#: backend/menupage/dashboard.php:288
+msgid "Next"
+msgstr "Sonraki"
+
+#: backend/menupage/dashboard.php:287
+msgid "Last"
+msgstr "Son"
+
+#: backend/menupage/dashboard.php:286
+msgid "First"
+msgstr "İlk"
+
+#: backend/menupage/dashboard.php:285
+msgid ": activate to sort column descending"
+msgstr ": sütunu azalan sıralamak için etkinleştir"
+
+#: backend/menupage/dashboard.php:284
+msgid ": activate to sort column ascending"
+msgstr ": sütunu artan sıralamak için etkinleştir"
+
+#: backend/menupage/dashboard.php:282
+msgid "Outgoing links from"
+msgstr "Şuradan giden bağlantılar"
+
+#: backend/menupage/dashboard.php:281
+msgid "Incoming links to"
+msgstr "Şuraya gelen bağlantılar"
+
+#: backend/menupage/dashboard.php:250
+msgid "The additional index modes are part of our Pro version"
+msgstr "Ek indeksleme modları, Pro sürümümüzün bir parçasıdır"
+
+#: backend/menupage/dashboard.php:235
+msgid "We recommend a switch to the WP-CLI mode through a cronjob."
+msgstr "Bir cronjob aracılığıyla WP-CLI moduna geçiş yapmanızı öneririz."
+
+#: backend/menupage/dashboard.php:234
+msgid "We recommend a switch to the manual index mode."
+msgstr "Elle indeks moduna geçiş yapmanızı öneririz."
+
+#: backend/menupage/dashboard.php:233
+msgid "Read more in our documentation"
+msgstr "Belgelerimizde daha fazlasını okuyun"
+
+#: backend/menupage/dashboard.php:227
+msgid "The size of your link index is growing. This means that more time is needed to build the index."
+msgstr "Bağlantı dizininizin boyutu büyüyor. Bu, dizini oluşturmak için daha fazla zamana ihtiyaç olduğu anlamına gelir."
+
+#: backend/menupage/dashboard.php:161
+msgid "Anchor text statistics"
+msgstr "Bağlantı metni istatistikleri"
+
+#: backend/menupage/dashboard.php:160
+msgid "Link statistics"
+msgstr "Bağlantı istatistikleri"
+
+#: helper/ajax.php:222
+msgid "The detail view for anchor texts is part of the Pro version."
+msgstr "Bağlantı metinlerinin ayrıntılı görünümü, Pro sürümünün bir parçasıdır."
+
+#: helper/ajax.php:197 helper/ajax.php:223
+msgid "Upgrade to Pro and view all"
+msgstr "Pro'ya yükseltin ve tümünü görüntüleyin"
+
+#: helper/ajax.php:196
+msgid "With the free basic version you can view the first 3 links in the detail view."
+msgstr "Ücretsiz temel sürüm ile ilk 3 bağlantıyı detay görünümünde görüntüleyebilirsiniz."
+
+#: helper/ajax.php:160
+msgid "Source"
+msgstr "Kaynak"
+
+#: helper/ajax.php:158
+msgid "Target"
+msgstr "Hedef"
+
+#: helper/ajax.php:129
+msgid "Show usage"
+msgstr "Kullanımı göster"
+
+#: helper/ajax.php:122
+msgid "Frequency"
+msgstr "Sıklık"
+
+#: helper/ajax.php:122
+msgid "Word count"
+msgstr "Kelime sayısı"
+
+#: helper/ajax.php:122
+msgid "Character count"
+msgstr "Karakter sayısı"
+
+#: helper/ajax.php:122 helper/ajax.php:163 backend/menupage/dashboard.php:283
+msgid "Anchor text"
+msgstr "Bağlantı metni"
+
+#: helper/ajax.php:97
+msgid "Show outgoing links"
+msgstr "Giden bağlantıları göster"
+
+#: helper/ajax.php:96
+msgid "Show incoming links"
+msgstr "Gelen bağlantıları göster"
+
+#: helper/ajax.php:87
+msgid "Outgoing links"
+msgstr "Giden bağlantılar"
+
+#: helper/ajax.php:87
+msgid "Incoming links"
+msgstr "Gelen bağlantılar"
+
+#: helper/ajax.php:87 helper/ajax.php:163
+msgid "Type"
+msgstr "Tip"
+
+#: helper/ajax.php:87
+msgid "Title"
+msgstr "Başlık"
+
+#: core/compat.php:196 core/compat.php:204
+msgid "RankMath focus keywords"
+msgstr "RankMath odak anahtar kelimeleri"
+
+#: core/compat.php:165 core/compat.php:173
+msgid "Yoast focus keywords"
+msgstr "Yoast odak anahtar kelimeleri"
+
+#: helper/ajax.php:353
+msgid "Nothing to import or no data for import found."
+msgstr "İçe aktarılacak hiçbir şey yok veya içe aktarılacak veri bulunamadı."
+
+#: helper/ajax.php:338
+msgid "Timeout. Please try to upload again."
+msgstr "Zaman aşımı. Lütfen tekrar yüklemeyi deneyin."
+
+#: helper/ajax.php:298
+msgid "Your web host does not allow file uploads. Please fix the problem and try again."
+msgstr "Web barındırıcınız dosya yüklemelerine izin vermiyor. Lütfen sorunu giderin ve tekrar deneyin."
+
+#: backend/menupage/tools.php:249
+msgid "Term titles"
+msgstr "Terim başlıkları"
+
+#: backend/menupage/tools.php:235
+msgid "Import for Taxonomies from internal ressources"
+msgstr "İç kaynaklardan sınıflandırmaları içe aktar"
+
+#: backend/menupage/tools.php:227 backend/menupage/tools.php:252
+msgid "Import"
+msgstr "İçe aktar"
+
+#: backend/menupage/tools.php:224
+msgid "Post titles"
+msgstr "Yazı başlıkları"
+
+#: backend/menupage/tools.php:222 backend/menupage/tools.php:247
+msgid "Sources"
+msgstr "Kaynaklar"
+
+#: backend/menupage/tools.php:214 backend/menupage/tools.php:239
+msgid "Types to apply import"
+msgstr "İç aktarmanın uygulanacağı türler"
+
+#: backend/menupage/tools.php:210
+msgid "Import for Posts and Pages from internal ressources"
+msgstr "Dahili kaynaklardan gelen yazılar ve sayfalar için içe aktarma"
+
+#: backend/menupage/tools.php:187
+msgid "Export empty configurations"
+msgstr "Boş yapılandırmaları dışa aktar"
+
+#: backend/menupage/tools.php:184
+msgid "With this feature all linkable content can be exported."
+msgstr "Bu özellik sayesinde tüm bağlanabilir içerik dışa aktarılabilir."
+
+#: backend/menupage/tools.php:183
+msgid "Export Keyword Configurations as CSV File"
+msgstr "Anahtar kelime yapılandırmalarını CSV dosyası olarak dışa aktar"
+
+#: backend/menupage/tools.php:177 backend/menupage/tools.php:193
+msgid "Export"
+msgstr "Dışa aktar"
+
+#: backend/menupage/tools.php:176
+msgid "Export Plugin Settings"
+msgstr "Eklenti ayarlarını dışa aktar"
+
+#: backend/menupage/tools.php:156
+msgid "The column order and format of the CSV file must correspond to the format of our export."
+msgstr "CSV dosyasının sütun sırası ve biçimi dışa aktarma biçimimize uygun olmalıdır."
+
+#: backend/menupage/tools.php:154
+msgid "Import Keyword Configuration from CSV-File"
+msgstr "Anahtar kelime yapılandırmalarını CSV dosyasından içe aktar"
+
+#: backend/menupage/tools.php:146 backend/menupage/tools.php:158
+msgid "Upload file"
+msgstr "Bir dosya yükle"
+
+#: backend/menupage/tools.php:144
+msgid "Only valid .json files, as generated from our export, are allowed."
+msgstr "Dışa aktarma işlemimizden oluşturulan yalnızca geçerli .json dosyalarına izin verilir."
+
+#: backend/menupage/tools.php:142
+msgid "Import Plugin Settings"
+msgstr "Eklenti ayarlarını içe aktar"
+
+#: backend/menupage/tools.php:121
+msgid "Import Keyword Configurations from WordPress"
+msgstr "Anahtar kelime yapılandırmalarını WordPress'ten içe aktar"
+
+#: backend/menupage/tools.php:110
+msgid "File Export"
+msgstr "Dosya dışa aktarma"
+
+#: backend/menupage/tools.php:105
+msgid "File Import"
+msgstr "Dosya içe aktarma"
+
+#: backend/menupage/tools.php:101
+msgid "Tools for data import and export"
+msgstr "Veri içe ve dışa aktarma araçları"
+
+#: backend/menupage/tools.php:87
+msgid "The upload exceeds the maximum allowed file size."
+msgstr "Yükleme, izin verilen azami dosya boyutunu aşıyor."
+
+#: backend/menupage/tools.php:86
+msgid "Import completed successfully."
+msgstr "İçe aktarma başarıyla tamamlandı."
+
+#: backend/menupage/tools.php:85
+msgid "The upload was successful. You can now start importing the uploaded data."
+msgstr "Yükleme başarılı oldu. Artık yüklenen verileri içe aktarmaya başlayabilirsiniz."
+
+#: backend/menupage/tools.php:84
+msgid "Cancel"
+msgstr "Vazgeç"
+
+#: backend/menupage/tools.php:83
+msgid "Start import"
+msgstr "İçe aktarmayı başlat"
+
+#: backend/menupage/tools.php:82
+msgid "Close"
+msgstr "Kapat"
+
+#: backend/menupage/tools.php:81
+msgid "An error occured. Please try again."
+msgstr "Bir hata oluştu. Lütfen tekrar deneyin."
+
+#: backend/menupage/tools.php:80
+msgid "Loading"
+msgstr "Yükleniyor"
+
+#: backend/menupage/tools.php:35
+msgid "Import / Export"
+msgstr "İçe/Dışa aktar"
+
+#: backend/ratingnotifier.php:62
+msgid "Please remind me later"
+msgstr "Lütfen daha sonra hatırlat"
+
+#: backend/ratingnotifier.php:62
+msgid "Of course, you deserve it"
+msgstr "Tabii ki hak ediyorsunuz"
+
+#: backend/ratingnotifier.php:61
+msgid "Thanks!"
+msgstr "Teşekkürler"
+
+#: backend/ratingnotifier.php:61
+msgid "Could you do us a big favor and <strong>give us your review on WordPress.org</strong>? This will help us to increase our visibility and to develop even <strong>more features for you</strong>."
+msgstr "Bize büyük bir iyilik yapabilir ve <strong>WordPress.org'da yorumunuzu yapabilir misiniz</strong>? Bu, görünürlüğümüzü artırmamıza ve <strong>sizin için daha fazla özellik</strong> geliştirmemize yardımcı olacaktır."
+
+#: backend/ratingnotifier.php:61
+msgid "you have been using the Internal Link Juicer for a while now - that's great!"
+msgstr "Internal Link Juicer'ı bir süredir kullanıyorsunuz, bu harika!"
+
+#: backend/ratingnotifier.php:61
+msgid "Hey"
+msgstr "Hey"
+
+#: core/options/linkoutputinternal.php:49
+msgid "Template for the link output (keyword links)"
+msgstr "Bağlantı çıktısı için şablon (anahtar kelime bağlantıları)"
+
+#: core/options/whitelist.php:35
+msgid "Whitelist of post types, that should be used for linking"
+msgstr "Bağlantılama için kullanılması gereken yazı türlerinin beyaz listesi"
+
+#: core/options/blacklist.php:43
+msgid "Posts that get configured here do not link to others automatically."
+msgstr "Burada yapılandırılan yazılar otomatik olarak başkalarına bağlantılanmaz."
+
+#: core/options/blacklist.php:35
+msgid "Blacklist of posts that should not be used for linking"
+msgstr "Bağlantılama için kullanılmaması gereken yazıların kara listesi"
+
+#: core/options/nolinktags.php:57
+msgid "Pro feature"
+msgstr "Pro özelliği"
+
+#: core/options/respectexistinglinks.php:67
+msgid "<small><strong>Attention: activation may have a negative effect on the index building time</strong></small>"
+msgstr "<small><strong>Dikkat: Etkinleştirmenin dizin oluşturma süresi üzerinde olumsuz etkisi olabilir</strong></small>"
+
+#: core/options/respectexistinglinks.php:59
+msgid "Prevents links to URLs that are already linked in the content"
+msgstr "İçerikte zaten bağlı olan web adreslerinin bağlantılarını önler"
+
+#: core/options/respectexistinglinks.php:59
+msgid "Do not link already manually built link targets"
+msgstr "Önceden elle oluşturulmuş bağlantı hedeflerini bağlama"
+
+#: core/options/respectexistinglinks.php:51
+msgid "Consideration of existing or manually created links"
+msgstr "Mevcut veya elle oluşturulan bağlantıların dikkate alınması"
+
+#: core/options/taxonomywhitelist.php:59
+msgid "All terms within the allowed taxonomies can link to other posts or terms automatically."
+msgstr "İzin verilen sınıflandırmalardaki tüm terimler diğer yazılara veya terimlere otomatik olarak bağlanabilir."
+
+#: core/options/editorrole.php:52
+msgid "The minimum required capability to edit keywords."
+msgstr "Anahtar kelimeleri düzenlemek için gereken asgari yetkinlik."
+
+#: core/options/editorrole.php:44
+msgid "Minimum required user role for editing keywords"
+msgstr "Anahtar kelimeleri düzenlemek için gereken asgari kullanıcı rolü"
+
+#: core/options/indexgeneration.php:66
+msgid "Any change affecting the index automatically updates the index."
+msgstr "Dizini etkileyen herhangi bir değişiklik dizini otomatik olarak günceller."
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:80
+msgid "Automatic"
+msgstr "Otomatik"
+
+#: core/options/indexgeneration.php:66
+msgid "You are notified when changes are made in connection with the index and can decide when the index should get updated."
+msgstr "Dizinle bağlı değişiklik yapıldığında bilgilendirilirsiniz ve dizinin ne zaman güncellenmesi gerektiğine karar verebilirsiniz."
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:79
+msgid "Manually"
+msgstr "Elle"
+
+#: core/options/indexgeneration.php:66
+msgid "manual"
+msgstr "elle"
+
+#: core/options/indexgeneration.php:61
+msgid "The index is not created by the plugin (you should set up a cronjob). Read more in our"
+msgstr "Dizin, eklenti tarafından oluşturulmadı (bir zamanlanmış görev kurmalısınız). Daha fazlasını şuradan okuyun"
+
+#: core/options/indexgeneration.php:61 core/options/indexgeneration.php:78
+msgid "None"
+msgstr "Hiç biri"
+
+#: core/options/indexgeneration.php:53
+msgid "Choose your preferred approach for generating the index."
+msgstr "Dizini oluşturmak için tercih ettiğiniz yaklaşımı seçin."
+
+#: core/options/indexgeneration.php:45
+msgid "Index generation mode"
+msgstr "Dizin oluşturma modu"
+
+#: core/options/keepsettings.php:44
+msgid "If activated, all your configured keywords and your plugin settings will remain saved - if not, everything from Internal Link Juicer gets deleted when you deactivate the plugin."
+msgstr "Eğer etkinleştirilirse, tüm yapılandırılmış anahtar kelimeleriniz ve eklenti ayarlarınız kaydedilmiş olarak kalır; yoksa, eklentiyi devre dışı bıraktığınızda Internal Link Juicer eklentisinden gelen her şey silinir."
+
+#: core/options/keepsettings.php:36
+msgid "Keep configured keywords and plugin settings after plugin deactivation"
+msgstr "Eklentiyi devre dışı bıraktıktan sonra yapılandırılmış anahtar kelimeleri ve eklenti ayarlarını koru"
+
+#: helper/options.php:29 backend/menupage/tools.php:119
+msgid "This feature is part of the Pro version"
+msgstr "Bu özellik Pro sürümünün bir parçasıdır"
+
+#: backend/column.php:27
+msgid "Configured keywords for internal linking"
+msgstr "Dahili bağlantılama için yapılandırılmış anahtar kelimeler"
+
+#: backend/editor.php:201
+msgid "Click here to open"
+msgstr "Açmak için buraya tıklayın"
+
+#: backend/editor.php:196
+msgid "Configure the gap dimension. It represents the number of keywords that appear between your other keywords dynamically. Learn more in our documentation:"
+msgstr "Boşluk boyutunu yapılandırın. Diğer anahtar kelimeleriniz arasında dinamik olarak görünen anahtar kelime sayısını temsil eder. Belgelerimizden daha fazla bilgi edinin:"
+
+#: backend/editor.php:194
+msgid "Keywords get used <strong>case insensitive</strong>"
+msgstr "Anahtar kelimeler <strong>büyük/küçük harfe duyarsız</strong> kullanılır"
+
+#: backend/menupage/dashboard.php:203
+msgid "Amount of configured keywords"
+msgstr "Yapılandırılmış anahtar kelime miktarı"
+
+#: backend/menupage/dashboard.php:250 backend/menupage/includes/sidebar.php:68
+msgid "Upgrade Now!"
+msgstr "Şimdi yükselt!"
+
+#: backend/menupage/settings.php:162
+msgid "You are going to overwrite the existing settings in this section with the defaults."
+msgstr "Bu bölümdeki mevcut ayarların üzerine varsayılan değerleri yazacaksınız."
+
+#: backend/menupage/settings.php:162
+msgid "Reset Options"
+msgstr "Ayarları sıfırla"
+
+#: backend/menupage/settings.php:133 backend/menupage/tools.php:116
+msgid "Upgrade to Pro now - unlock all features"
+msgstr "Pro'ya şimdi yükseltin - tüm özelliklerin kilidini açın"
+
+#: backend/menupage/settings.php:42
+msgid "General"
+msgstr "Genel"
+
+#: core/options.php:320
+msgid "All settings related to the use of the plugin."
+msgstr "Eklentinin kullanımı ile ilgili tüm ayarlar."
+
+#: core/options.php:319
+msgid "General Settings Section"
+msgstr "Genel ayarlar bölümü"
+
+#: backend/menupage/includes/sidebar.php:58 backend/ratingnotifier.php:62
+msgid "Hide this information forever"
+msgstr "Bu bilgileri sonsuza kadar gizle"
+
+#: core/options/nolinktags.php:43
+msgid "Content within the HTML tags that are configured here do not get used for linking."
+msgstr "Burada yapılandırılan HTML etiketlerindeki içerik, bağlantılama için kullanılmaz."
+
+#: core/options/nolinktags.php:35
+msgid "Exclude HTML areas from linking"
+msgstr "HTML alanlarını bağlantılamadan hariç tut"
+
+#: enumeration/tagexclusion.php:67
+msgid "Sourcecode"
+msgstr "Kaynak kod"
+
+#: enumeration/tagexclusion.php:65
+msgid "Inline quotes"
+msgstr "Satır içi alıntılar"
+
+#: enumeration/tagexclusion.php:63
+msgid "Italic text"
+msgstr "İtalik metin"
+
+#: enumeration/tagexclusion.php:61
+msgid "Blockquotes"
+msgstr "Blok alıntılar"
+
+#: enumeration/tagexclusion.php:59
+msgid "Unordered lists"
+msgstr "Sırasız listeler"
+
+#: enumeration/tagexclusion.php:57
+msgid "Ordered lists"
+msgstr "Sıralı listeler"
+
+#: enumeration/tagexclusion.php:55
+msgid "Image captions"
+msgstr "Resim altyazıları"
+
+#: enumeration/tagexclusion.php:53
+msgid "Tables"
+msgstr "Tablolar"
+
+#: enumeration/tagexclusion.php:51
+msgid "Div container"
+msgstr "Div kapsayıcı"
+
+#: enumeration/tagexclusion.php:49
+msgid "Strong text"
+msgstr "Kalın metin"
+
+#: enumeration/tagexclusion.php:47
+msgid "Headlines"
+msgstr "Başlıklar"
+
+#: backend/menupage/tour/pro.php:71
+msgid "Get these features (and many more) by <strong>unlocking</strong> our <strong>PRO version here</strong>"
+msgstr "Buradan <strong>PRO sürümümüzün</strong> <strong>kilidini açarak</strong>, bu özellikleri (ve daha fazlasını) edinin"
+
+#: backend/menupage/dashboard.php:194
+msgid "learn how it works"
+msgstr "nasıl çalıştığını öğrenin"
+
+#: backend/menupage/dashboard.php:194
+msgid "Start to set some keywords to your posts"
+msgstr "Yazılarınızda bazı anahtar kelimeleri belirlemeye başlayın"
+
+#: backend/menupage/includes/sidebar.php:66
+msgid "Unlimited possibilities by linking even from and to <strong>categories and tags</strong>."
+msgstr "Hem <strong>kategorilerden ve etiketlerden</strong> hem de bunlara bağlantılama ile sınırsız olasılık."
+
+#: backend/menupage/includes/sidebar.php:66
+msgid "Activate taxonomies"
+msgstr "Sınıflandırmaları etkinleştir"
+
+#: backend/menupage/includes/sidebar.php:65
+msgid "Maximize your results with the comprehensive <strong>Statistics Dashboard</strong>."
+msgstr "Kapsamlı <strong>istatistikler panosu</strong> ile sonuçlarınızı en üst düzeye çıkarın."
+
+#: backend/menupage/includes/sidebar.php:65
+msgid "Focused optimization"
+msgstr "Odaklanmış optimizasyon"
+
+#: backend/menupage/includes/sidebar.php:64
+msgid "<strong>Shortcode</strong> and <strong>settings</strong> to <strong>exclude</strong> specific areas of content <strong>from link creation</strong>."
+msgstr "Belirli içerik alanlarını <strong>bağlantı oluşturmadan</strong> <strong>hariç tutmak</strong> için <strong>kısa kod</strong> ve <strong>ayarlar</strong>."
+
+#: backend/menupage/includes/sidebar.php:64
+msgid "Maximum control"
+msgstr "Azami kontrol"
+
+#: backend/menupage/includes/sidebar.php:63
+msgid "More flexible linking with your own <strong>individual URLs</strong> as link targets."
+msgstr "Bağlantı hedefleri olarak kendi <strong>tekil URL'leriniz</strong> ile daha esnek bağlantılama."
+
+#: backend/menupage/includes/sidebar.php:63
+msgid "Individual Links"
+msgstr "Tekil bağlantılar"
+
+#: backend/menupage/includes/sidebar.php:61
+msgid "Achieve even more with Internal Link Juicer Pro:"
+msgstr "Internal Link Juicer Pro ile daha da fazlasını elde edin:"
+
+#: backend/menupage/includes/sidebar.php:59
+msgid "Activate pro version"
+msgstr "Pro sürümü etkinleştir"
+
+#: backend/menupage/tour/settings.php:75
+msgid "In the video, you can see how the individual settings impact linking behavior."
+msgstr "Tekil ayarların bağlantı davranışını nasıl etkilediğini videoda görebilirsiniz."
+
+#: backend/menupage/tour/settings.php:73
+msgid "<strong>Lowest word count first</strong>: Phrases with the lowest word count are preferred for linking."
+msgstr "<strong>Önce, en düşük kelime sayısı</strong>: Bağlantılama için en düşük kelime sayısına sahip ifadeler tercih edilir."
+
+#: backend/menupage/tour/settings.php:71
+msgid "<strong>Highest word count first</strong>: Phrases with the highest word count are preferred for linking."
+msgstr "<strong>Önce, en yüksek kelime sayısı</strong>: Bağlantılama için en fazla kelime sayısına sahip ifadeler tercih edilir."
+
+#: backend/menupage/tour/settings.php:69
+msgid "<strong>First configured keyword links first</strong>: Keywords are used in the order you entered them into the Keyword Editor."
+msgstr "<strong>Önce, ilk yapılandırılan anahtar kelime bağlantıları</strong>: Anahtar kelimeler, anahtar kelime düzenleyicisine girdiğiniz sırayla kullanılır."
+
+#: backend/menupage/tour/settings.php:67
+msgid "There are a total of 3 different settings available:"
+msgstr "Toplam 3 farklı ayar mevcuttur:"
+
+#: backend/menupage/tour/settings.php:65
+msgid "You can find the order settings in the Internal Link Juicer under the \"Content\" tab, just below the whitelist."
+msgstr "Internal Link Juicer içinde, beyaz listenin hemen altındaki \"İçerik\" sekmesi altında sıralama ayarlarını bulabilirsiniz."
+
+#: backend/menupage/tour/settings.php:63
+msgid "Configure the order in which you want to use your configured keywords for linking. This gives you even more influence on <strong>whether longer or shorter phrases</strong> are linked."
+msgstr "Bağlatılama için yapılandırılmış anahtar kelimelerinizi kullanmak istediğiniz sırayı yapılandırın. Bu, <strong>daha uzun veya daha kısa kelimelerin bağlı olup olmadığı</strong> üzerinde daha da fazla etki sağlar."
+
+#: backend/menupage/tour/settings.php:61
+msgid "Determine the order of configured keywords for linking"
+msgstr "Bağlantı için yapılandırılmış anahtar kelimelerin sırasını belirle"
+
+#: backend/menupage/tour/settings.php:56
+msgid "In the video, you can see a model configuration of the whitelist and its effect on linking behavior."
+msgstr "Beyaz listenin model yapılandırmasını ve bağlantılama davranışına etkisini videoda görebilirsiniz."
+
+#: backend/menupage/tour/settings.php:54
+msgid "The input field for the whitelist opens a list with all available post and page types. Select all types that you want to allow linking for. After saving, the setting will be active."
+msgstr "Beyaz liste için giriş alanı, kullanılabilir tüm yazı ve sayfa tiplerini içeren bir liste açar. Bağlatılamaya izin vermek istediğiniz tüm tipleri seçin. Kaydettikten sonra ayar etkin olacaktır."
+
+#: backend/menupage/tour/settings.php:52
+msgid "You can find the whitelist in the Internal Link Juicer settings under the “Content” tab. The whitelist setting is right under the blacklist setting."
+msgstr "Beyaz listeyi Internal Link Juicer ayarlarında, “İçerik” sekmesi altında bulabilirsiniz. Beyaz liste ayarı, kara liste ayarının hemen altındadır."
+
+#: backend/menupage/tour/settings.php:50
+msgid "With the whitelist, you can <strong>include post and page types</strong> that you always want <strong>to be linked</strong>. This allows you to exclude complete post types from linking beyond the blacklist."
+msgstr "Beyaz listeyle, <strong>her zaman bağlanmasını</strong> istediğiniz <strong>yazı ve sayfa tiplerini</strong> ekleyebilirsiniz. Bu, kara listenin dışında tüm yazı tiplerini bağlantılamadan hariç tutmanıza olanak tanır."
+
+#: backend/menupage/tour/settings.php:47
+msgid "Whitelist: Define content types that should always be linked"
+msgstr "Beyaz liste: Her zaman bağlanması gereken içerik türlerini tanımlayın"
+
+#: backend/menupage/tour/settings.php:42
+msgid "In the video, you can see how the blacklist is configured and what effects this setting has on the link."
+msgstr "Kara listenin nasıl yapılandırıldığını ve bu ayarın bağlantı üzerinde ne gibi etkileri olduğunu videoda görebilirsiniz."
+
+#: backend/menupage/tour/settings.php:40
+msgid "As a result, this article will no longer display auto-generated internal links."
+msgstr "Sonuç olarak, bu makale artık otomatik olarak oluşturulan dahili bağlantıları görüntülemeyecektir."
+
+#: backend/menupage/tour/settings.php:38
+msgid "Save"
+msgstr "Kaydet"
+
+#: backend/menupage/tour/settings.php:36
+msgid "Add it by clicking on the blacklist."
+msgstr "Tıklayarak kara listeye ekleyin."
+
+#: backend/menupage/tour/settings.php:34
+msgid "Find the desired post (or page)."
+msgstr "İstediğiniz yazıyı (veya sayfayı) bulun."
+
+#: backend/menupage/tour/settings.php:32
+msgid "The input field works like a keyword search. To <strong>exclude one or more posts from linking</strong>, follow this procedure:"
+msgstr "Giriş alanı bir anahtar kelime araması gibi çalışır. <strong>Bir veya daha fazla yazıyı bağlantılama dışında bırakmak</strong> için şu yolu izleyin:"
+
+#: backend/menupage/tour/settings.php:30
+msgid "You can find the blacklist in the Internal Link Juicer settings under the \"Content\" tab."
+msgstr "Kara listeyi, Internal Link Juicer ayarlarında \"İçerik\" sekmesinin altında bulabilirsiniz."
+
+#: backend/menupage/tour/settings.php:28
+msgid "To <strong>prevent unwanted linking</strong>, you can take advantage of the blacklist feature. This feature excludes specific content from link building and gives you full control over link behavior at all times."
+msgstr "<strong>İstenmeyen bağlantılamayı engellemek</strong> için kara liste özelliğinden yararlanabilirsiniz. Bu özellik, belirli içeriği bağlantı oluşturma işleminden hariç tutar ve bağlantı davranışı üzerinde her zaman tam kontrol sağlar."
+
+#: backend/menupage/tour/settings.php:25
+msgid "Blacklist: Exclude any content from linking"
+msgstr "Kara liste: Herhangi bir içeriği bağlantılamadan hariç tut"
+
+#: backend/menupage/tour/settings.php:21
+msgid "Brief introduction to the most important settings"
+msgstr "En önemli ayarlara kısa bir giriş"
+
+#: backend/menupage/tour/links.php:53
+msgid "Watch the video and you will see this feature demonstrated in depth."
+msgstr "Videoyu izleyin ve bu özelliğin ayrıntılı olarak gösterildiğini göreceksiniz."
+
+#: backend/menupage/tour/links.php:53
+msgid "Check the “<strong>link as often as possible</strong>” box. If you activate this setting, there will be no consideration for the maximum number of links or maximum frequency of identical target URLs. Wherever a link is possible, this setting will create a link."
+msgstr "“<strong>Olabildiğince sık bağlantı</strong>” kutusunu işaretleyin. Bu ayarı etkinleştirirseniz, azami bağlantı sayısı veya aynı hedef URL'lerin azami sıklığı dikkate alınmaz. Bir bağlantının mümkün olduğu her yerde, bu ayar bir bağlantı oluşturur."
+
+#: backend/menupage/tour/links.php:53
+msgid "Set the “<strong>maximum frequency per post</strong>” of how much a post can link to a single destination URL. Here, the value \"0\" also allows linking the maximum destination URLs, even if they are identical."
+msgstr "Bir yazının tek bir hedef URL'ye ne kadar bağlantı verebileceğini \"<strong>yazı başına azami sıklık</strong>\" olarak ayarlayın. Burada \"0\" değeri, aynı olsalar bile azami hedef URL'lerin bağlanmasına izin verir."
+
+#: backend/menupage/tour/links.php:53
+msgid "Set the “<strong>maximum number of links per post</strong>” within a single content. With the value \"0,\" you link all possible keywords."
+msgstr "Tek bir içerikte \"<strong>yazı başına azami bağlantı sayısı</strong>\"nı ayarlayın. \"0\" değeriyle tüm olası anahtar kelimeleri bağlarsınız."
+
+#: backend/menupage/tour/links.php:53
+msgid "Overall, you have the following options available, which cover all use cases:"
+msgstr "Genel olarak, tüm kullanım durumlarını kapsayan aşağıdaki seçeneklere sahipsiniz:"
+
+#: backend/menupage/tour/links.php:53
+msgid "These settings can be found in the Internal Link Juicer settings under the \"Content\" tab."
+msgstr "Bu ayarlar Internal Link Juicer ayarlarındaki \"İçerik\" sekmesi altında bulunabilir."
+
+#: backend/menupage/tour/links.php:53
+msgid "With this feature, you can actively control link frequencies. You can limit the maximum number of links built, or allow multiple linking of the same destination URL from the same content."
+msgstr "Bu özellik sayesinde bağlantı frekanslarını aktif olarak kontrol edebilirsiniz. Oluşturulan azami bağlantı sayısını sınırlayabilir veya aynı içerikten aynı hedef URL'nin birden fazla bağlantılamasına izin verebilirsiniz."
+
+#: backend/menupage/tour/links.php:52
+msgid "Individually control link frequencies according to your needs"
+msgstr "İhtiyaçlarınıza göre bağlantı frekanslarını ayrı ayrı kontrol edin"
+
+#: backend/menupage/tour/links.php:47
+msgid "The video shows you one example of how to mask the built links using JavaScript."
+msgstr "Video, JavaScript kullanarak yerleşik bağlantıların nasıl maskeleneceğine dair bir örnek gösterir."
+
+#: backend/menupage/tour/links.php:45
+msgid "There you can update the output of a link using your own HTML code. The template tags <code>{{url}}</code> and <code>{{anchor}}</code> are available. In your content, these placeholders will later be replaced by the corresponding parameters (link target and anchor text)."
+msgstr "Burada, kendi HTML kodunuzu kullanarak bir bağlantınızın çıktısını güncelleyebilirsiniz. <code>{{url}}</code> ve <code>{{anchor}}</code> şablon etiketleri kullanılabilir. Bu yer tutucular daha sonra ilgili parametrelerle (bağlantı hedefi ve bağlantı metni) içeriğinizde değiştirilecektir."
+
+#: backend/menupage/tour/links.php:43
+msgid "You can find the link template settings within the plugin settings under the \"Links\" tab."
+msgstr "Bağlantı şablonu ayarlarını eklenti ayarlarında \"Bağlantılar\" sekmesinde bulabilirsiniz."
+
+#: backend/menupage/tour/links.php:41
+msgid "With the help of the template feature, you can <strong>change and individualize the output</strong> of internal links."
+msgstr "Şablon özelliğinin yardımıyla dahili bağlantıların <strong>çıktısını değiştirebilir ve kişiselleştirebilirsiniz</strong>."
+
+#: backend/menupage/tour/links.php:38
+msgid "Easily customize outputs using templates"
+msgstr "Şablonları kullanarak çıktıları kolayca özelleştirin"
+
+#: backend/menupage/tour/links.php:33
+msgid "The video shows an example of two different posts getting linked."
+msgstr "Video, bağlanan iki farklı yazının bir örneğini gösterir."
+
+#: backend/menupage/tour/links.php:31
+msgid "The plugin works with its <strong>own index</strong> for internal links. It <strong>updates automatically</strong> after you edit content or keywords. This won’t affect your website’s <strong>quick loading times</strong>. This aspect makes the Internal Link Juicer <strong>distinct from other plugins</strong> with similar functionality."
+msgstr "Eklenti, dahili bağlantılar için <strong>kendi dizini</strong> ile çalışır. İçeriği veya anahtar kelimeleri düzenledikten sonra <strong>otomatik olarak güncellenir</strong>. Bu, web sitenizin <strong>hızlı yükleme sürelerini</strong> etkilemez. Bu özellik, Internal Link Juicer'ı benzer işlevselliğe sahip <strong>diğer eklentilerden farklı</strong> yapar."
+
+#: backend/menupage/tour/links.php:29
+msgid "As soon as you save keywords for your content, the internal links are activated."
+msgstr "İçeriğiniz için anahtar kelimeler kaydettiğiniz anda, dahili bağlantılar etkinleştirilir."
+
+#: backend/menupage/tour/links.php:25
+msgid "Auto-generate link outputs"
+msgstr "Bağlantı çıktılarını otomatik oluştur"
+
+#: backend/menupage/tour/links.php:21
+msgid "Learn how to influence the linking behavior"
+msgstr "Bağlantılama davranışını nasıl etkileyeceğinizi öğrenin"
+
+#: backend/menupage/tour/editor.php:67
+msgid "In the video, you can see an example of how to configure gaps."
+msgstr "Videoda boşlukların nasıl yapılandırılacağına dair bir örnek görebilirsiniz."
+
+#: backend/menupage/tour/editor.php:65
+msgid "The adjacent words are constant and included in the link. The gap keywords are variable."
+msgstr "Bitişik kelimeler sabittir ve bağlantıya eklenir. Boşluk anahtar kelimeleri değişkendir."
+
+#: backend/menupage/tour/editor.php:63
+msgid "<strong>\"Maximum\" Type</strong>: A phrase is linked if there are at least 3 or more words between the adjacent words."
+msgstr "<strong>\"Azami\" tür</strong>: Bitişik kelimeler arasında en az 3 veya daha fazla kelime varsa bir kelime öbeği bağlanır."
+
+#: backend/menupage/tour/editor.php:62
+msgid "<strong>\"Exact\" Type</strong>:  A phrase is linked if there are exactly 3 words between the adjacent words."
+msgstr "<strong>\"Tam\" tür</strong>: Bitişik kelimeler arasında tam olarak 3 kelime varsa bir kelime öbeği bağlanır."
+
+#: backend/menupage/tour/editor.php:61
+msgid "<strong>\"Minimal\" Type</strong>: A phrase is linked if there are one to three words between the adjacent words."
+msgstr "<strong>\"Asgari\" tür</strong>: Bitişik kelimeler arasında bir ila üç kelime varsa bir kelime öbeği bağlanır."
+
+#: backend/menupage/tour/editor.php:59
+msgid "You have 3 options to define gaps. Assuming the configured gap value is 3, it behaves in the following ways, depending on the gap type:"
+msgstr "Boşlukları tanımlamak için 3 seçeneğiniz var. Yapılandırılmış boşluk değerinin 3 olduğunu varsayarsak, boşluk türüne bağlı olarak aşağıdaki şekillerde davranır:"
+
+#: backend/menupage/tour/editor.php:58
+msgid "The gap feature can be activated by clicking on the link in the Keyword Editor (below the input field)."
+msgstr "Boşluk özelliği, anahtar kelime düzenleyicideki (giriş alanının altında) bağlantıya tıklayarak etkinleştirilebilir."
+
+#: backend/menupage/tour/editor.php:56
+msgid "That’s because you no longer just link to well-defined keywords or phrases. This feature makes it possible to define constant words of a phrase and to <strong>freely create variations</strong> in the gap between them."
+msgstr "Bunun nedeni, artık yalnızca iyi tanımlanmış anahtar kelimelere veya kelime öbeklerine bağlantı vermemenizdir. Bu özellik, bir cümlenin sabit kelimelerini tanımlamayı ve aralarındaki boşlukta <strong>özgürce varyasyonlar oluşturmayı</strong> mümkün kılar."
+
+#: backend/menupage/tour/editor.php:54
+msgid "With the help of the intelligent gap feature, you can <strong>diversify your anchor texts</strong> even better. You can get a more organic link profile and <strong>cover a wider range</strong> of possible links."
+msgstr "Akıllı boşluk özelliğinin yardımıyla <strong>bağlantı metinlerinizi çeşitliliğini</strong> daha da iyileştirebilirsiniz. Daha organik bir bağlantı profili edinebilir ve olası bağlantıların <strong>daha geniş bir aralığını kapsayabilirsiniz</strong>."
+
+#: backend/menupage/tour/editor.php:51
+msgid "Create smart links with the gap feature"
+msgstr "Boşluk özelliğiyle akıllı bağlantılar oluşturun"
+
+#: backend/menupage/tour/editor.php:46
+msgid "The video shows an example of how to assign a keyword to a post."
+msgstr "Video, bir yazıya nasıl anahtar kelime atanacağına ilişkin bir örnek gösterir."
+
+#: backend/menupage/tour/editor.php:44
+msgid "You can add your desired keywords one by one or by seperating them with commas."
+msgstr "İstediğiniz anahtar kelimeleri tek tek veya virgülle ayırarak ekleyebilirsiniz."
+
+#: backend/menupage/tour/editor.php:42
+msgid "Add your desired keyword to the appropriate input field and confirm using the Enter key (or by clicking the button)."
+msgstr "İstediğiniz anahtar kelimeyi uygun giriş alanına ekleyiniz ve Enter tuşunu kullanarak (veya düğmeye tıklayarak) onaylayın."
+
+#: backend/menupage/tour/editor.php:40
+msgid "With the help of the Keyword Editor, you can <strong>assign keywords to a post</strong>, which it will then use for internal links."
+msgstr "Anahtar kelime düzenleyicinin yardımıyla bir yazıya, daha sonra dahili bağlantılar için kullanılmak üzere, <strong>anahtar kelimeler atayabilirsiniz</strong>."
+
+#: backend/menupage/tour/editor.php:37
+msgid "Add keywords to your content"
+msgstr "İçeriğinize anahtar kelimeler ekleyin"
+
+#: backend/menupage/tour/editor.php:32
+msgid "In the video, we'll show you how to get to the Keyword Editor of a post or page."
+msgstr "Videoda, size bir yazının veya sayfanın anahtar kelime düzenleyicisine nasıl ulaşacağınızı göstereceğiz."
+
+#: backend/menupage/tour/editor.php:30
+msgid "You can find the Keyword Editor anytime you edit content (whether pages or posts). It’s located on the <strong>right-hand sidebar</strong> within the editor window."
+msgstr "Anahtar kelime düzenleyiciyi içeriği her düzenlediğinizde (sayfalar veya yazılar) bulabilirsiniz. Düzenleyici penceresindeki <strong>sağ kenar çubuğunda</strong> konumlanmıştır."
+
+#: backend/menupage/tour/editor.php:28
+msgid "The <strong>Keyword Editor</strong> is the heart of the Internal Link Juicer. With its help, you can <strong>configure keywords</strong> for your posts, which will later form the link text for each post."
+msgstr "<strong>Anahtar kelime düzenleyici</strong>, Internal Link Juicer'ın kalbidir. Yardımı ile, daha sonra her yazı için bağlantı metni oluşturacak <strong>anahtar kelimeleri yapılandırabilirsiniz</strong>."
+
+#: backend/menupage/tour/editor.php:25
+msgid "Find the Keyword Editor"
+msgstr "Anahtar kelime düzenleyiciyi bul"
+
+#: backend/menupage/tour/editor.php:21
+msgid "Begin with setting up keywords for your posts and pages"
+msgstr "Yazılarınız ve sayfalarınız için anahtar kelimeler ayarlayarak başlayın"
+
+#: backend/menupage/tour/intro.php:27
+msgid "We show you the most important functions of the Internal Link Juicer in a few minutes. With that you are able to start immediately and get the maximum out of your internal links."
+msgstr "Internal Link Juicer'ın en önemli işlevlerini birkaç dakika içinde size gösteriyoruz. Bununla hemen başlayabilir ve dahili bağlantılarından azami düzeyde yararlanabilirsiniz."
+
+#: backend/menupage/tour/intro.php:26
+msgid "Start the tour through the plugin"
+msgstr "Eklentiyi kullanarak tura başlayın"
+
+#: backend/menupage/tour/pro.php:58
+msgid "The video shows you everything you need to know about the Statistics Dashboard."
+msgstr "Video, size istatistikler kontrol paneli hakkında bilmeniz gereken her şeyi gösterir."
+
+#: backend/menupage/tour/pro.php:56
+msgid "You can find the advanced statistics directly in the Statistics Dashboard for the plugin. Here you can <strong>sort and filter</strong> as you like. You can also get information about the links when clicking on the corresponding content or anchor text."
+msgstr "Gelişmiş istatistikleri doğrudan eklentinin istatistikler panosunda bulabilirsiniz. Burada istediğiniz gibi <strong>sıralayabilir ve filtreleyebilirsiniz</strong>. Ayrıca ilgili içeriğe veya bağlantı metnine tıkladığınızda bağlantılar hakkında bilgi alabilirsiniz."
+
+#: backend/menupage/tour/pro.php:54
+msgid "With the <strong>extended Statistics Dashboard</strong>, you can <strong>analyze</strong> your automated internal links to the maximum. This feature identifies pages that have too many or few inbound/outbound links. You can use this information to <strong>proactively improve internal linking</strong> optimization."
+msgstr "<strong>Genişletilmiş istatistik panosu</strong> ile, otomatik dahili bağlantılarınızı azamide <strong>analiz edebilirsiniz</strong>. Bu özellik, çok fazla veya çok az gelen/giden bağlantısı olan sayfaları tanımlar. Bu bilgileri, <strong>dahili bağlantılamayı erken davranarak iyileştirme</strong>optimizasyonunda kullanabilirsiniz."
+
+#: backend/menupage/tour/pro.php:52
+msgid "Optimize links to the max with extensive statistical insight"
+msgstr "Kapsamlı istatistiksel bilgilerle bağlantıları azami ölçüde optimize edin"
+
+#: backend/menupage/tour/pro.php:47
+msgid "The video shows you how to link a post from a category description. In the same example, the article links from its own content back to the category page."
+msgstr "Video, kategori açıklamasından bir yazıyı nasıl bağlayacağınızı gösterir. Aynı örnekte, makale kendi içeriğinden kategori sayfasına geri bağlantı vermektedir."
+
+#: backend/menupage/tour/pro.php:45
+msgid "For taxonomies, you’ll find your own blacklist and whitelist. After activating the Pro version, the Keyword Editor includes taxonomies and allows you to assign keywords for them. From then on, even <strong>taxonmy descriptions</strong> are used as linkable content."
+msgstr "Sınıflandırmalar için kendi kara listenizi ve beyaz listenizi bulacaksınız. Pro sürümünü etkinleştirdikten sonra anahtar kelime düzenleyici sınıflandırmaları içerir ve bunlar için anahtar kelimeler atamanıza olanak tanır. O andan itibaren, <strong>sınıflandırma açıklamaları</strong> bile bağlanabilir içerik olarak kullanılır."
+
+#: backend/menupage/tour/pro.php:43
+msgid "In our Pro version, you will not only set links for posts and pages, but also <strong>taxonomies such as categories and tags</strong>. This gives you even more flexibility when creating internal links."
+msgstr "Pro sürümümüzde yalnızca yazılar ve sayfalar için bağlantılar ayarlamakla kalmayacak, aynı zamanda <strong>kategoriler ve etiketler gibi sınıflandırmalar</strong> da ayarlayacaksınız. Bu, dahili bağlantılar oluştururken size daha fazla esneklik sağlar."
+
+#: backend/menupage/tour/pro.php:40
+msgid "Automatically link categories and tags for even wider coverage"
+msgstr "Daha da geniş kapsam için kategorileri ve etiketleri otomatik olarak bağla"
+
+#: backend/menupage/tour/pro.php:35
+msgid "In the video, you see one example of linking to an external Wikipedia article."
+msgstr "Videoda, harici bir Wikipedia makalesine bağlantı oluşturmanın bir örneğini görüyorsunuz."
+
+#: backend/menupage/tour/pro.php:33
+msgid "Like ordinary posts, these links are equipped with the Keyword Editor. To create a new custom link, you can add the <strong>destination URL</strong>, as well as any <strong>related keywords</strong>. The configuration takes effect immediately."
+msgstr "Sıradan yazılar gibi, bu bağlantılar da anahtar kelime düzenleyici ile donatılmıştır. Yeni bir özel bağlantı oluşturmak için <strong>hedef URL'yi</strong> ve <strong>ilgili anahtar kelimeleri</strong> ekleyebilirsiniz. Yapılandırma hemen etkisini gösterir."
+
+#: backend/menupage/tour/pro.php:31
+msgid "Settings for this feature can be found in the Internal Link Juicer menu under \"Custom Links”, where you can list current links and create new individual links in no time."
+msgstr "Bu özelliğe ilişkin ayarlar Internal Link Juicer menüsünde, \"Özel bağlantılar\" altında bulunabilir; burada geçerli bağlantıları hızlı bir şekilde listeleyebilir ve yeni tekil bağlantılar oluşturabilirsiniz."
+
+#: backend/menupage/tour/pro.php:29
+msgid "With the custom links feature, you assign <strong>keywords to any URLs</strong> for automatic linking. In this way, you can create <strong>affiliate links</strong> or add <strong>content from foreign domains</strong>."
+msgstr "Özel bağlantılar özelliğiyle, otomatik bağlantı için <strong>herhangi bir URL'ye anahtar kelime</strong> atarsınız. Bu şekilde, <strong>satış ortağı bağlantıları</strong> oluşturabilir veya <strong>yabancı alan adlarından içerik</strong> ekleyebilirsiniz."
+
+#: backend/menupage/tour/pro.php:26
+msgid "Enjoy maximum freedom with custom links"
+msgstr "Özel bağlantılarla azami özgürlüğün tadını çıkarın"
+
+#: backend/menupage/tour/pro.php:22
+msgid "Reach even more with Pro!"
+msgstr "Pro ile daha da fazlasına ulaşın!"
+
+#: backend/menupage/tour.php:199
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: backend/menupage/tour.php:189
+msgid "Back to dashboard"
+msgstr "Panoya dön"
+
+#: backend/menupage/tour.php:189
+msgid "Skip interactive tour"
+msgstr "Etkileşimli turu atla"
+
+#: backend/menupage/tour.php:188
+msgid "Next page"
+msgstr "Sonraki sayfa"
+
+#: backend/menupage/tour.php:188
+msgid "Finish tutorial"
+msgstr "Öğreticiyi bitir"
+
+#: backend/menupage/tour.php:188
+msgid "Start the tutorial now"
+msgstr "Öğreticiye şimdi başlat"
+
+#: backend/menupage/tour.php:171
+msgid "Interactive tutorial"
+msgstr "Etkileşimli öğretim"
+
+#: backend/menupage/tour.php:62
+msgid "Advanced linking with pro version"
+msgstr "Pro sürümle gelişmiş bağlantılama"
+
+#: backend/menupage/tour.php:57
+msgid "Discover the most important settings"
+msgstr "En önemli ayarları keşfet"
+
+#: backend/menupage/tour.php:52
+msgid "Adjust the link behavior"
+msgstr "Bağlantı davranışını ayarla"
+
+#: helper/ajax.php:95 backend/menupage/dashboard.php:333
+msgid "Open"
+msgstr "Aç"
+
+#: helper/ajax.php:94 backend/menupage/dashboard.php:332
+msgid "Edit"
+msgstr "Düzenle"
+
+#: helper/ajax.php:87 backend/menupage/dashboard.php:318
+msgid "Action"
+msgstr "Eylem"
+
+#: backend/menupage/dashboard.php:318
+msgid "Page"
+msgstr "Sayfa"
+
+#: backend/menupage/dashboard.php:141
+msgid "Get help through our forum"
+msgstr "Forumumuz aracılığıyla yardım alın"
+
+#: backend/menupage/dashboard.php:141
+msgid "Request support"
+msgstr "Destek talep edin"
+
+#: backend/menupage/dashboard.php:137
+msgid "A quick guided tutorial"
+msgstr "Hızlı rehberli öğretim"
+
+#: backend/menupage/dashboard.php:137 backend/menupage/tour.php:72
+msgid "Interactive Tour"
+msgstr "İnteraktif tur"
+
+#: backend/menupage/dashboard.php:133
+msgid "Learn how to use the plugin"
+msgstr "Eklentiyi nasıl kullanacağınızı öğrenin"
+
+#: backend/menupage/dashboard.php:133
+msgid "Docs & How To"
+msgstr "Belgeler ve nasıl yapılır"
+
+#: backend/menupage/dashboard.php:81
+msgid "Installed version"
+msgstr "Kurulu sürüm"
+
+#: enumeration/keywordorder.php:44
+msgid "Lowest word count gets linked first"
+msgstr "Önce, en düşük kelime sayısı bağlanır"
+
+#: enumeration/keywordorder.php:42
+msgid "Highest word count gets linked first"
+msgstr "Önce, en yüksek kelime sayısı bağlanır"
+
+#: enumeration/keywordorder.php:40
+msgid "First configured keyword gets linked first"
+msgstr "Önce, ilk yapılandırılan anahtar kelime bağlanır"
+
+#: core/options/keywordorder.php:43
+msgid "Set the order of how your set keywords get used for building links."
+msgstr "Belirlenen anahtar kelimelerinizin bağlantı oluşturmak için nasıl kullanılacağının sırasını belirleyin."
+
+#: core/options/keywordorder.php:35
+msgid "Order for configured keywords while linking"
+msgstr "Bağlantılama sırasında yapılandırılmış anahtar kelimeler için sıralama"
+
+#: backend/editor.php:210
+msgid "Maximum amount of keywords within the gap."
+msgstr "Boşluktaki azami anahtar kelime miktarı."
+
+#: backend/menupage/includes/sidebar.php:43
+msgid "Thank you for using the Internal Link Juicer!"
+msgstr "Internal Link Juicer'ı kullandığınız için teşekkür ederiz!"
+
+#: backend/menupage/includes/sidebar.php:38
+msgid "Give us your review"
+msgstr "Bize görüşünüzü belirtin"
+
+#: backend/menupage/includes/sidebar.php:36
+msgid "Do you like the plugin? Then <strong>please rate us</strong> or <strong>tell your friends</strong> about the Internal Link Juicer."
+msgstr "Eklentiyi beğendiniz mi? O zaman <strong>lütfen bizi değerlendirin</strong> veya Internal Link Juicer hakkında <strong>arkadaşlarınıza bilgi verin</strong>."
+
+#: backend/menupage/includes/sidebar.php:42
+msgid "Get in touch with us"
+msgstr "Bizimle iletişime geçin"
+
+#: backend/menupage/includes/sidebar.php:40
+msgid "Are you looking for a <strong>new feature</strong> or have <strong>suggestions for improvement</strong>? Have you <strong>found a bug</strong>? Please tell us about."
+msgstr "<strong>Yeni bir özellik</strong> mi arıyorsunuz veya <strong>iyileştirme önerileriniz</strong> mi var? Bir <strong>hata mı buldunuz</strong>? Lütfen bize anlatın."
+
+#: backend/menupage/includes/sidebar.php:33
+msgid "Support us"
+msgstr "Bizi destekleyin"
+
+#: helper/help.php:66 backend/editor.php:221
+#: backend/menupage/includes/postbox.php:37
+msgid "Get help"
+msgstr "Yardım al"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://internallinkjuicer.com"
+msgstr "https://internallinkjuicer.com"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Internal Link Juicer"
+msgstr "Internal Link Juicer"
+
+#. Description of the plugin
+msgid "A performant solution for high class internal linkbuilding automation."
+msgstr "Yüksek sınıf dahili bağlantı kurma otomasyonu için performans çözümü."
+
+#: core/options/internalnofollow.php:43
+msgid "Sets the <code>rel=\"nofollow\"</code> attribute for keyword links (<strong>not recommended</strong>)."
+msgstr "Anahtar kelime bağlantıları için <code>rel=\"nofollow\"</code> niteliğini ayarlar (<strong>önerilmez</strong>)."
+
+#: core/options/internalnofollow.php:35
+msgid "NoFollow for internal keyword links"
+msgstr "Dahili anahtar kelime bağlantıları için NoFollow"
+
+#: core/options/linkoutputcustom.php:59 core/options/linkoutputinternal.php:73
+msgid "You can use the placeholders <code>{{url}}</code> for the target and <code>{{anchor}}</code> for the generated anchor text."
+msgstr "Hedef için <code>{{url}}</code> yer tutucularını ve oluşturulan bağlantı metni için <code>{{anchor}}</code> yer tutucularını kullanabilirsiniz."
+
+#: core/options/linkoutputinternal.php:57
+msgid "Markup for the output of generated internal links."
+msgstr "Oluşturulan dahili bağlantıların çıktısı için işaretleme."
+
+#: core/options/linkoutputcustom.php:51
+msgid "Template for the link output (custom links)"
+msgstr "Bağlantı çıktısı için şablon (özel bağlantılar)"
+
+#: core/options/multiplekeywords.php:44
+msgid "Deactivates all other restrictions"
+msgstr "Diğer tüm kısıtlamaları devre dışı bırakır"
+
+#: core/options/multiplekeywords.php:44
+msgid "Allows posts and keywords to get linked as often as possible."
+msgstr "Yazıların ve anahtar kelimelerin mümkün olduğunca sık bağlanmasına izin verir."
+
+#: core/options/multiplekeywords.php:36
+msgid "Link as often as possible"
+msgstr "Mümkün olduğunca sık bağlantı"
+
+#: core/options/linkspertarget.php:37
+msgid "Maximum frequency of how often a post gets linked within another one"
+msgstr "Bir yazının başka bir yazıya ne sıklıkta bağlandığının azami sıklığı"
+
+#: core/options/linkspertarget.php:45 core/options/linksperpage.php:45
+msgid "For an unlimited number of links, set this value to <code>0</code> ."
+msgstr "Sınırsız sayıda bağlantı için bu değeri <code>0</code> olarak ayarlayın."
+
+#: core/options/linksperpage.php:37
+msgid "Maximum amount of links per post"
+msgstr "Yazı başına azami bağlantı miktarı"
+
+#: core/options/whitelist.php:43
+msgid "All posts within the allowed post types can link to other posts automatically."
+msgstr "İzin verilen yazı tiplerindeki tüm yazılar otomatik olarak diğer yazılara bağlanabilir."
+
+#: core/options/taxonomywhitelist.php:51
+msgid "Whitelist of taxonomies, that should be used for linking"
+msgstr "Bağlantılama için kullanılması gereken sınıflandırmaların beyaz listesi"
+
+#: core/options/termblacklist.php:59
+msgid "Terms that get configured here do not link to others automatically."
+msgstr "Burada yapılandırılan terimler başkalarına otomatik olarak bağlanmaz."
+
+#: core/options/termblacklist.php:51
+msgid "Blacklist of terms that should not be used for linking"
+msgstr "Bağlantılama için kullanılmaması gereken terimlerin kara listesi"
+
+#: core/options.php:328
+msgid "Setting options for the output of the generated links."
+msgstr "Oluşturulan bağlantıların çıktısı için ayar seçenekleri."
+
+#: core/options.php:327
+msgid "Links Settings Section"
+msgstr "Bağlantı ayarları bölümü"
+
+#: core/options.php:324
+msgid "Configure how the plugin should behave regarding the internal linking."
+msgstr "Eklentinin dahili bağlantılamayla ilgili olarak nasıl davranması gerektiğini yapılandırın."
+
+#: core/options.php:323
+msgid "Content Settings Section"
+msgstr "İçerik ayarları bölümü"
+
+#: backend/menupage/settings.php:58
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: backend/menupage/settings.php:50
+msgid "Content"
+msgstr "İçerik"
+
+#: backend/menupage/settings.php:81
+msgid "Searching…"
+msgstr "Aranıyor…"
+
+#: backend/menupage/settings.php:80
+msgid "No results found"
+msgstr "Sonuç bulunamadı"
+
+#: backend/menupage/settings.php:79
+msgid "Loading more results…"
+msgstr "Daha fazla sonuç yükleniyor…"
+
+#: backend/menupage/settings.php:78
+msgid "Minimum characters to start search"
+msgstr "Aramayı başlatmak için azami karakterler"
+
+#: backend/menupage/settings.php:77
+msgid "The results could not be loaded."
+msgstr "Sonuçlar yüklenemedi."
+
+#: core/app.php:275 backend/menupage/settings.php:37
+#: backend/menupage/settings.php:123
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: backend/menupage/dashboard.php:318 backend/menupage/dashboard.php:350
+msgid "Count"
+msgstr "Toplam"
+
+#: backend/menupage/dashboard.php:205
+msgid "seconds"
+msgstr "saniye"
+
+#: backend/menupage/dashboard.php:205
+msgid "Duration for construction"
+msgstr "Yapım süresi"
+
+#: backend/menupage/dashboard.php:204
+msgid "at"
+msgstr " "
+
+#: backend/menupage/dashboard.php:204
+msgid "Last built"
+msgstr "Son yapım"
+
+#: backend/menupage/dashboard.php:202
+msgid "Amount of links in the index"
+msgstr "Dizindeki bağlantı sayısı"
+
+#: backend/menupage/dashboard.php:193
+msgid "Index has no entries yet"
+msgstr "Dizinde henüz hiç girdi yok"
+
+#: helper/ajax.php:82
+msgid "There are no statistics to display"
+msgstr "Görüntülenecek istatistik yok"
+
+#: backend/menupage/dashboard.php:93
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: backend/menupage/dashboard.php:88
+msgid "Linkindex info"
+msgstr "Bağlantı dizin bilgisi"
+
+#: backend/menupage/dashboard.php:84
+msgid "Plugin related"
+msgstr "Eklenti ile ilgili"
+
+#: backend/menupage/dashboard.php:29 backend/menupage/dashboard.php:78
+msgid "Dashboard"
+msgstr "Pano"
+
+#: backend/editor.php:220
+msgid "Minimum keyword gap:"
+msgstr "Asgari anahtar kelime boşluğu:"
+
+#: backend/editor.php:219
+msgid "Maximum keyword gap:"
+msgstr "Azami anahtar kelime boşluğu:"
+
+#: backend/editor.php:218
+msgid "Exact keyword gap:"
+msgstr "Tam anahtar kelime boşluğu:"
+
+#: backend/editor.php:217
+msgid "No keywords configured."
+msgstr "Hiçbir anahtar kelime yapılandırılmadı."
+
+#: backend/editor.php:216
+msgid "Multiple consecutive placeholders are not allowed."
+msgstr "Birden fazla ardışık yer tutucusuna izin verilmez."
+
+#: backend/editor.php:215
+msgid "Length of given keyword not valid."
+msgstr "Belirtilen anahtar kelimenin uzunluğu geçerli değil."
+
+#: backend/editor.php:214
+msgid "No keyword defined."
+msgstr "Hiçbir anahtar kelime tanımlanmadı."
+
+#: backend/editor.php:213
+msgid "This keyword already exists."
+msgstr "Bu anahtar kelime zaten var."
+
+#: helper/ajax.php:87 backend/editor.php:212
+msgid "Configured keywords"
+msgstr "Yapılandırılmış anahtar kelimeler"
+
+#: backend/editor.php:211
+msgid "Insert gaps between keywords"
+msgstr "Anahtar kelimeler arasına boşluk ekleyin"
+
+#: backend/editor.php:209
+msgid "Exact amount of keywords within the gap."
+msgstr "Boşluktaki anahtar kelimelerin tam miktarı."
+
+#: backend/editor.php:208
+msgid "Minimum amount of keywords within the gap. No upper limits."
+msgstr "Boşluktaki asgari anahtar kelime miktarı. Üst sınır yok."
+
+#: backend/editor.php:207
+msgid "Maximum"
+msgstr "Azami"
+
+#: backend/editor.php:206
+msgid "Exact"
+msgstr "Kesin"
+
+#: backend/editor.php:205
+msgid "Minimum"
+msgstr "Asgari"
+
+#: backend/editor.php:204
+msgid "Gap type"
+msgstr "Boşluk türü"
+
+#: backend/editor.php:203
+msgid "Add gap"
+msgstr "Boşluk ekle"
+
+#: backend/editor.php:202
+msgid "Keyword gaps"
+msgstr "Anahtar kelime boşlukları"
+
+#: backend/editor.php:195
+msgid "Separate multiple keywords by commas"
+msgstr "Birden fazla anahtar kelimeyi virgülle ayırın"
+
+#: backend/editor.php:193 backend/menupage/dashboard.php:350
+msgid "Keyword"
+msgstr "Kelime"
+
+#: backend/editor.php:192
+msgid "Add Keyword"
+msgstr "Anahtar kelime ekle"
+
+#: backend/editor.php:60
+msgid "The keywords"
+msgstr "Anahtar kelimeler"
+
+#: backend/editor.php:38 backend/adminmenu.php:46 backend/adminmenu.php:47
+msgid "Internal Links"
+msgstr "Dahili bağlantılar"

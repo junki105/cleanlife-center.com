@@ -1,0 +1,11 @@
+/* BBQ - Admin CSS */
+
+.wp-admin h1 { 
+	margin: 0 0 8px 0; padding: 8px 0 8px 55px; text-shadow: 1px 1px 1px rgba(255,255,255,0.5); 
+	background-image: url(bbq-icon-88x88.png); background-repeat: no-repeat; background-position: left center; background-size: 44px 44px;
+	}
+.wp-admin .bbq-pro { margin: 25px 0; }
+.wp-admin .bbq-pro a { box-shadow: 0 20px 25px -20px rgba(0,0,0,0.7); }
+.wp-admin .bbq-pro a, 
+.wp-admin .bbq-pro a:hover, 
+.wp-admin .bbq-pro a img { display: block; width: 480px; height: 125px; margin: 0; padding: 0; border: 0; text-decoration: none; }

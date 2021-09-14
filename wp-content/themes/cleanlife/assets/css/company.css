@@ -1,0 +1,152 @@
+.l-main.company {
+  padding: 36px 0 0;
+}
+
+.l-main.company section.dongha {
+  margin-top: 15px;
+  padding: 0 35px;
+}
+
+.company-information {
+  padding: 0 35px;
+  background-color: #f6fbff;
+}
+.com-infor-container {
+  display: flex;
+  align-items: center;
+}
+.com-text {
+  padding: 20px;
+  font-size: 15px;
+  background-color: #d9efff;
+  width: 30%;
+}
+.com-map {
+  width: 70%;
+  padding: 20px;
+  font-size: 15px;
+  background-color: white;
+}
+.shitei-number {
+  width: 50%;
+  padding: 10px;
+  font-size: 15px;
+  background-color: white;
+  text-align:center;
+}
+.shitei-number-text {
+  padding: 10px;
+  font-size: 15px;
+  background-color: #d9efff;
+  width: 50%;
+  text-align:center;
+}
+.com-map iframe {
+  height: 232px;
+  width: 100%;
+}
+.company-information table {
+  width: 100%;
+  border-collapse: collapse;
+  vertical-align: top;
+  margin-bottom: 60px;
+}
+.company-information table td {
+  vertical-align: top;
+}
+.company-information table td:first-child {
+  border-right: 3px solid #f6fbff;
+  border-bottom: 3px solid #f6fbff;
+}
+.company-information table td:last-child {
+  border-bottom: 3px solid #f6fbff;
+}
+.company-information table td a {
+  color: #0336cf;
+  text-decoration: underline;
+}
+@media (max-width: 1200px) {
+  .l-aside {
+    display: none;
+  }
+
+  .l-main.company section.dongha {
+    margin-top: 15px;
+    padding: 0 30px;
+  }
+  .com-map, .com-text {
+    font-size: 18px;
+    letter-spacing: 0.1rem;
+  }
+  .com-text {
+    width: 20%;
+  }
+  .com-map {
+    width: 80%;
+  }
+}
+@media (max-width: 615px) {
+  .com-map, .com-text {
+    font-size: 12px;
+    padding: 5px;
+    letter-spacing: 0;
+  }
+  .company-information {
+    padding: 0 15px;
+  }
+  .l-main.company {
+    padding-top: 45px;
+  }
+  .com-map iframe {
+    height: 150px;
+  }
+  .com-text {
+    width: 18%;
+  }
+  .com-map {
+    width: 82%;
+  }
+}
+@media (max-width: 768px) {
+  .l-main.company section.dongha {
+    margin-top: 15px;
+    padding: 0 20px;
+  }
+}
+
+/* CTA style start */
+
+@media (max-width: 600px) {
+
+	.note-tel-main a {
+		white-space: nowrap!important;
+	}
+	.coupon-tel-main01 a {
+		white-space: nowrap!important;
+	}
+	.note-tel-main a span {
+		font-size: 31px!important;
+	}
+	.coupon-tel-main01 a span {
+		font-size: 29px!important;
+	}
+}
+@media (max-width: 500px) {
+	.coupon-tel-main01 a span {
+		font-size: 27px!important;
+	}
+	.note-tel-main a span {
+		font-size: 27px!important;
+	}
+}
+@media (max-width: 400px) {
+
+	.coupon-tel-main01 a span {
+		font-size: 25px!important;
+	}
+	.note-tel-main a span {
+		font-size: 26px!important;
+	}
+
+}
+/* CTA style end */

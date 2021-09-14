@@ -1,0 +1,491 @@
+# Translation of Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) in Romanian
+# This file is distributed under the same license as the Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-04 08:22:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && n % 100 <= 19) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ro\n"
+"Project-Id-Version: Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release)\n"
+
+#: backend/menupage/dashboard.php:302
+msgid "Custom Links"
+msgstr "Legături personalizate"
+
+#: backend/menupage/dashboard.php:301
+msgid "Taxonomies"
+msgstr "Taxonomii"
+
+#: backend/menupage/dashboard.php:300
+msgid "Posts and Pages"
+msgstr "Articole și pagini"
+
+#: backend/menupage/dashboard.php:297
+msgid "Search:"
+msgstr "Caută:"
+
+#: backend/menupage/dashboard.php:296
+msgid "Processing..."
+msgstr "Procesez..."
+
+#: backend/menupage/dashboard.php:295
+msgid "Loading..."
+msgstr "Încarc..."
+
+#: backend/menupage/dashboard.php:289
+msgid "Previous"
+msgstr "Anterior"
+
+#: backend/menupage/dashboard.php:288
+msgid "Next"
+msgstr "Următor"
+
+#: backend/menupage/dashboard.php:287
+msgid "Last"
+msgstr "Ultimul"
+
+#: backend/menupage/dashboard.php:286
+msgid "First"
+msgstr "Primul"
+
+#: backend/menupage/dashboard.php:282
+msgid "Outgoing links from"
+msgstr "Legături de ieșire de la"
+
+#: helper/ajax.php:160
+msgid "Source"
+msgstr "Sursă"
+
+#: helper/ajax.php:122
+msgid "Frequency"
+msgstr "Frecvență"
+
+#: helper/ajax.php:122
+msgid "Word count"
+msgstr "Număr de cuvinte"
+
+#: helper/ajax.php:122
+msgid "Character count"
+msgstr "Număr de caractere"
+
+#: helper/ajax.php:122 helper/ajax.php:163 backend/menupage/dashboard.php:283
+msgid "Anchor text"
+msgstr "Text ancoră"
+
+#: helper/ajax.php:87
+msgid "Outgoing links"
+msgstr "Legături de ieșire"
+
+#: helper/ajax.php:87
+msgid "Incoming links"
+msgstr "Legături de intrare"
+
+#: helper/ajax.php:87 helper/ajax.php:163
+msgid "Type"
+msgstr "Tip"
+
+#: helper/ajax.php:87
+msgid "Title"
+msgstr "Titlu"
+
+#: backend/menupage/dashboard.php:299
+msgid "Filter type"
+msgstr "Tip de filtru"
+
+#: backend/menupage/dashboard.php:290
+msgid "No data available in table"
+msgstr "Nu sunt disponibile date în tabel"
+
+#: backend/menupage/dashboard.php:298
+msgid "No matching records found"
+msgstr "Nu am găsit înregistrări care să se potrivească"
+
+#: backend/ratingnotifier.php:61
+msgid "Thanks!"
+msgstr "Mulțumim!"
+
+#: backend/ratingnotifier.php:62
+msgid "Of course, you deserve it"
+msgstr "Desigur, meriți asta"
+
+#: backend/ratingnotifier.php:62
+msgid "Please remind me later"
+msgstr "Te rog reamintește-mi mai târziu"
+
+#: backend/menupage/tools.php:82
+msgid "Close"
+msgstr "Închide"
+
+#: backend/menupage/tools.php:84
+msgid "Cancel"
+msgstr "Anulează"
+
+#: backend/menupage/tools.php:86
+msgid "Import completed successfully."
+msgstr "Importul a fost finalizat cu succes."
+
+#: backend/menupage/tools.php:101
+msgid "Tools for data import and export"
+msgstr "Instrumente pentru import și export de date"
+
+#: backend/menupage/tools.php:222 backend/menupage/tools.php:247
+msgid "Sources"
+msgstr "Surse"
+
+#: backend/menupage/tools.php:224
+msgid "Post titles"
+msgstr "Titluri articole"
+
+#: backend/menupage/tools.php:227 backend/menupage/tools.php:252
+msgid "Import"
+msgstr "Importă"
+
+#: backend/menupage/tools.php:249
+msgid "Term titles"
+msgstr "Titluri termeni"
+
+#: backend/menupage/tools.php:83
+msgid "Start import"
+msgstr "Începe importul"
+
+#: backend/menupage/tools.php:80
+msgid "Loading"
+msgstr "Încarc"
+
+#: backend/menupage/tools.php:35
+msgid "Import / Export"
+msgstr "Import/export"
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:80
+msgid "Automatic"
+msgstr "Automat"
+
+#: core/options/indexgeneration.php:66
+msgid "You are notified when changes are made in connection with the index and can decide when the index should get updated."
+msgstr "Ești notificat când sunt făcute modificări în legătură cu indexul și poți decide când indexul ar trebui să fie actualizat."
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:79
+msgid "Manually"
+msgstr "Manual"
+
+#: core/options/indexgeneration.php:66
+msgid "manual"
+msgstr "manual"
+
+#: core/options/indexgeneration.php:61
+msgid "The index is not created by the plugin (you should set up a cronjob). Read more in our"
+msgstr "Indexul nu este creat de modul (ar trebui să configurezi un cronjob). Citește mai multe în"
+
+#: core/options/indexgeneration.php:61 core/options/indexgeneration.php:78
+msgid "None"
+msgstr "Niciuna"
+
+#: core/options/indexgeneration.php:53
+msgid "Choose your preferred approach for generating the index."
+msgstr "Alege abordarea preferată pentru generarea indexului."
+
+#: core/options/indexgeneration.php:45
+msgid "Index generation mode"
+msgstr "Mod generare index"
+
+#: backend/editor.php:196
+msgid "Configure the gap dimension. It represents the number of keywords that appear between your other keywords dynamically. Learn more in our documentation:"
+msgstr "Configurează dimensiunea decalajului. Reprezintă numărul de cuvinte cheie care apar în mod dinamic între celelalte cuvinte cheie. Află mai multe în documentația noastră:"
+
+#: backend/menupage/dashboard.php:250 backend/menupage/includes/sidebar.php:68
+msgid "Upgrade Now!"
+msgstr "Actualizează acum!"
+
+#: backend/menupage/settings.php:162
+msgid "Reset Options"
+msgstr "Resetează opțiunile"
+
+#: core/options.php:320
+msgid "All settings related to the use of the plugin."
+msgstr "Toate setările legate de utilizarea modulului."
+
+#: core/options.php:319
+msgid "General Settings Section"
+msgstr "Secțiunea Setări generale"
+
+#: backend/menupage/settings.php:133 backend/menupage/tools.php:116
+msgid "Upgrade to Pro now - unlock all features"
+msgstr "Actualizează la Pro - deblochezi toate funcționalitățile"
+
+#: backend/menupage/settings.php:42
+msgid "General"
+msgstr "Generale"
+
+#: backend/menupage/includes/sidebar.php:58 backend/ratingnotifier.php:62
+msgid "Hide this information forever"
+msgstr "Ascunde definitiv aceste informații"
+
+#: enumeration/tagexclusion.php:59
+msgid "Unordered lists"
+msgstr "Liste neordonate"
+
+#: enumeration/tagexclusion.php:57
+msgid "Ordered lists"
+msgstr "Liste ordonate"
+
+#: enumeration/tagexclusion.php:47
+msgid "Headlines"
+msgstr "Titluri"
+
+#: backend/menupage/dashboard.php:194
+msgid "learn how it works"
+msgstr "află cum funcționează"
+
+#: backend/menupage/includes/sidebar.php:64
+msgid "Maximum control"
+msgstr "Control maxim"
+
+#: backend/menupage/includes/sidebar.php:63
+msgid "Individual Links"
+msgstr "Legături individuale"
+
+#: enumeration/tagexclusion.php:63
+msgid "Italic text"
+msgstr "Text cursiv"
+
+#: backend/menupage/includes/sidebar.php:66
+msgid "Activate taxonomies"
+msgstr "Activează taxonomiile"
+
+#: backend/menupage/tour/settings.php:40
+msgid "As a result, this article will no longer display auto-generated internal links."
+msgstr "Ca urmare, acest articol nu va mai afișa legături interne generate automat."
+
+#: backend/menupage/tour/settings.php:38
+msgid "Save"
+msgstr "Salvează"
+
+#: backend/menupage/tour/links.php:53
+msgid "Overall, you have the following options available, which cover all use cases:"
+msgstr "În general, ai la dispoziție următoarele opțiuni, care acoperă toate cazurile de utilizare:"
+
+#: backend/menupage/tour/links.php:52
+msgid "Individually control link frequencies according to your needs"
+msgstr "Controlează individual frecvențele legăturilor în funcție de nevoile tale"
+
+#: backend/menupage/tour/links.php:31
+msgid "The plugin works with its <strong>own index</strong> for internal links. It <strong>updates automatically</strong> after you edit content or keywords. This won’t affect your website’s <strong>quick loading times</strong>. This aspect makes the Internal Link Juicer <strong>distinct from other plugins</strong> with similar functionality."
+msgstr "Modulul funcționează cu <strong>propriul index</strong> pentru legături interne. Se <strong>actualizează automat</strong> după ce editezi conținut sau cuvinte cheie. Acest lucru nu va afecta <strong>timpul de încărcare rapidă al sitului tău web</strong>. Acest aspect face ca Internal Link Juicer să fie <strong>distinct de alte module</strong> cu funcționalități similare."
+
+#: backend/menupage/tour/editor.php:25
+msgid "Find the Keyword Editor"
+msgstr "Găsește Editorul de cuvinte cheie"
+
+#: backend/menupage/tour/editor.php:21
+msgid "Begin with setting up keywords for your posts and pages"
+msgstr "Începe cu configurarea cuvintelor cheie pentru articolele și paginile tale."
+
+#: backend/menupage/tour/intro.php:26
+msgid "Start the tour through the plugin"
+msgstr "Începe turul prin modul"
+
+#: backend/menupage/tour.php:199
+msgid "Previous page"
+msgstr "Pagina anterioară"
+
+#: backend/menupage/tour.php:188
+msgid "Next page"
+msgstr "Pagina următoare"
+
+#: backend/menupage/tour.php:188
+msgid "Finish tutorial"
+msgstr "Finalizează tutorialul"
+
+#: backend/menupage/tour.php:171
+msgid "Interactive tutorial"
+msgstr "Tutorial interactiv"
+
+#: backend/menupage/tour.php:57
+msgid "Discover the most important settings"
+msgstr "Descoperă cele mai importante setări"
+
+#: backend/menupage/tour.php:52
+msgid "Adjust the link behavior"
+msgstr "Ajustează comportamentul legăturii"
+
+#: backend/menupage/tour/links.php:53
+msgid "These settings can be found in the Internal Link Juicer settings under the \"Content\" tab."
+msgstr "Aceste setări pot fi găsite în setările Internal Link Juicer în fila „Conținut”."
+
+#: backend/menupage/tour.php:188
+msgid "Start the tutorial now"
+msgstr "Începe tutorialul acum"
+
+#: helper/ajax.php:94 backend/menupage/dashboard.php:332
+msgid "Edit"
+msgstr "Editează"
+
+#: helper/ajax.php:87 backend/menupage/dashboard.php:318
+msgid "Action"
+msgstr "Acțiune"
+
+#: backend/menupage/dashboard.php:318
+msgid "Page"
+msgstr "Pagină"
+
+#: backend/menupage/dashboard.php:137 backend/menupage/tour.php:72
+msgid "Interactive Tour"
+msgstr "Tur interactiv"
+
+#: backend/menupage/dashboard.php:81
+msgid "Installed version"
+msgstr "Versiunea instalată"
+
+#: helper/ajax.php:95 backend/menupage/dashboard.php:333
+msgid "Open"
+msgstr "Deschide"
+
+#: backend/menupage/dashboard.php:133
+msgid "Learn how to use the plugin"
+msgstr "Învață cum să folosești modulul"
+
+#: backend/menupage/includes/sidebar.php:42
+msgid "Get in touch with us"
+msgstr "Contactează-ne"
+
+#: backend/menupage/includes/sidebar.php:33
+msgid "Support us"
+msgstr "Ajută-ne"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://internallinkjuicer.com"
+msgstr "https://internallinkjuicer.com"
+
+#: backend/menupage/includes/sidebar.php:43
+msgid "Thank you for using the Internal Link Juicer!"
+msgstr "Îți mulțumim că folosești Internal Link Juicer!"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Internal Link Juicer"
+msgstr "Internal Link Juicer"
+
+#: core/options/linkoutputinternal.php:57
+msgid "Markup for the output of generated internal links."
+msgstr "Markup pentru ieșirea legăturilor interne generate."
+
+#: core/options/multiplekeywords.php:44
+msgid "Deactivates all other restrictions"
+msgstr "Dezactivează toate celelalte restricții"
+
+#: core/options/linkspertarget.php:45 core/options/linksperpage.php:45
+msgid "For an unlimited number of links, set this value to <code>0</code> ."
+msgstr "Pentru un număr nelimitat de legături, setează această valoare la <code>0</code>."
+
+#: backend/menupage/settings.php:58
+msgid "Links"
+msgstr "Legături"
+
+#: backend/menupage/settings.php:50
+msgid "Content"
+msgstr "Conținut"
+
+#: backend/menupage/settings.php:77
+msgid "The results could not be loaded."
+msgstr "Rezultatele nu au putut fi încărcate."
+
+#: core/app.php:275 backend/menupage/settings.php:37
+#: backend/menupage/settings.php:123
+msgid "Settings"
+msgstr "Setări"
+
+#: backend/menupage/dashboard.php:318 backend/menupage/dashboard.php:350
+msgid "Count"
+msgstr "Număr"
+
+#: backend/menupage/dashboard.php:205
+msgid "seconds"
+msgstr "secunde"
+
+#: backend/menupage/dashboard.php:204
+msgid "at"
+msgstr "la"
+
+#: core/options.php:327
+msgid "Links Settings Section"
+msgstr "Secțiune Setări legături"
+
+#: core/options.php:323
+msgid "Content Settings Section"
+msgstr "Secțiune Setări conținut"
+
+#: backend/menupage/settings.php:81
+msgid "Searching…"
+msgstr "Caut..."
+
+#: backend/menupage/settings.php:80
+msgid "No results found"
+msgstr "Niciun rezultat găsit"
+
+#: backend/menupage/settings.php:79
+msgid "Loading more results…"
+msgstr "Încarc mai multe rezultate..."
+
+#: helper/ajax.php:82
+msgid "There are no statistics to display"
+msgstr "Nu există statistici de afișat"
+
+#: backend/menupage/dashboard.php:93
+msgid "Statistics"
+msgstr "Statistici"
+
+#: backend/menupage/dashboard.php:84
+msgid "Plugin related"
+msgstr "Modul similar"
+
+#: backend/menupage/dashboard.php:29 backend/menupage/dashboard.php:78
+msgid "Dashboard"
+msgstr "Panou control"
+
+#: backend/editor.php:217
+msgid "No keywords configured."
+msgstr "Nu sunt configurate cuvinte cheie."
+
+#: backend/editor.php:213
+msgid "This keyword already exists."
+msgstr "Acest cuvânt cheie există deja."
+
+#: helper/ajax.php:87 backend/editor.php:212
+msgid "Configured keywords"
+msgstr "Cuvinte cheie configurate"
+
+#: backend/editor.php:207
+msgid "Maximum"
+msgstr "Maxim"
+
+#: backend/editor.php:206
+msgid "Exact"
+msgstr "Exact"
+
+#: backend/editor.php:205
+msgid "Minimum"
+msgstr "Minim"
+
+#: backend/editor.php:193 backend/menupage/dashboard.php:350
+msgid "Keyword"
+msgstr "Cuvânt cheie"
+
+#: backend/editor.php:192
+msgid "Add Keyword"
+msgstr "Adăugă cuvânt cheie"
+
+#: backend/editor.php:60
+msgid "The keywords"
+msgstr "Cuvintele cheie"
+
+#: backend/editor.php:38 backend/adminmenu.php:46 backend/adminmenu.php:47
+msgid "Internal Links"
+msgstr "Legături interne"
+
+#: backend/editor.php:214
+msgid "No keyword defined."
+msgstr "Nu este definit niciun cuvânt cheie."

@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-19 23:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: bbq-settings.php:33
+msgid "and try again."
+msgstr ""
+
+#. Name of the plugin
+#: bbq-settings.php:73 bbq-settings.php:167 bbq-settings.php:178
+msgid "BBQ Firewall"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"BBQ is a super fast firewall that automatically protects WordPress against a "
+"wide range of threats."
+msgstr ""
+
+#: bbq-settings.php:82
+msgid "BBQ Pro: Advanced WordPress Firewall"
+msgstr ""
+
+#: bbq-settings.php:55
+msgid "BBQ Version"
+msgstr ""
+
+#: bbq-settings.php:153
+msgid "Click here to rate and review this plugin at WordPress.org"
+msgstr ""
+
+#: bbq-settings.php:30
+msgid "Free and Pro versions of BBQ cannot be activated at the same time. "
+msgstr ""
+
+#: bbq-settings.php:87
+msgid "Get BBQ Pro &raquo;"
+msgstr ""
+
+#: bbq-settings.php:127
+msgid "Get BBQ Pro for advanced protection"
+msgstr ""
+
+#: bbq-settings.php:128
+msgid "Go&nbsp;Pro"
+msgstr ""
+
+#: bbq-settings.php:148
+msgid "Homepage"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://perishablepress.com/block-bad-queries/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://plugin-planet.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jeff Starr"
+msgstr ""
+
+#: bbq-settings.php:31
+msgid "Please return to the "
+msgstr ""
+
+#: bbq-settings.php:147
+msgid "Plugin Homepage"
+msgstr ""
+
+#: bbq-settings.php:52
+msgid "Plugin Information"
+msgstr ""
+
+#: bbq-settings.php:154
+msgid "Rate this plugin&nbsp;&raquo;"
+msgstr ""
+
+#: bbq-settings.php:116
+msgid "Settings"
+msgstr ""
+
+#: bbq-settings.php:72
+msgid "Thanks for using the free version of "
+msgstr ""
+
+#: bbq-settings.php:74
+msgid ""
+"The free version is completely plug-&amp;-play, protecting your site "
+"automatically with no settings required."
+msgstr ""
+
+#: bbq-settings.php:57
+msgid "Upgrade to BBQ Pro"
+msgstr ""
+
+#: bbq-settings.php:81
+msgid ""
+"Upgrade your site security with advanced protection and complete control. "
+msgstr ""
+
+#: bbq-settings.php:115
+msgid "Visit the BBQ plugin page"
+msgstr ""
+
+#: bbq-settings.php:29
+msgid "Warning:"
+msgstr ""
+
+#: bbq-settings.php:32
+msgid "WordPress Admin Area"
+msgstr ""

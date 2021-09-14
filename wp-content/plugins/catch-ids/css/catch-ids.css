@@ -1,0 +1,750 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Typography
+# Layout
+# Clearing
+# Lists
+# Media
+# Links
+# Header
+# Content
+# Toggle Switch
+# Other Products
+# Footer
+# Media Queries
+  ## >= 320px
+  ## >= 768px
+  ## >= 1024px
+  ## >= 1280px
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+.catchids-main,
+.catchids-main button,
+.catchids-main input,
+.catchids-main selcatchids,
+.catchids-main textarea,
+.catchids-main p {
+  color: #1a1a1a;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  word-wrap: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+.catchids-main h1 {
+  font-size: 24px;
+  font-size: 1.5rem;
+}
+
+.catchids-main h2 {
+  font-size: 20px;
+  font-size: 1.25rem;
+}
+
+.catchids-main h3 {
+  font-size: 18px;
+  font-size: 1.125rem;
+}
+
+.catchids-main h4 {
+  font-size: 16px;
+  font-size: 1rem;
+}
+
+.catchids-main h5 {
+  font-size: 14px;
+  font-size: 0.875rem;
+}
+
+.catchids-main h6 {
+  font-size: 13px;
+  font-size: 0.8125rem;
+}
+
+.catchids-main p {
+  margin:  0 0 1.5em;
+}
+
+/*--------------------------------------------------------------
+# Layout
+--------------------------------------------------------------*/
+
+.catchids-main  {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.catchids-main *,
+.catchids-main *:before,
+.catchids-main *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+.catchids-main {
+  background-color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Clearing
+--------------------------------------------------------------*/
+
+.catchids-main .clear:before,
+.catchids-main .clear:after {
+  content: "";
+  display: table;
+}
+
+.catchids-main .clear:after {
+  clear: both;
+}
+
+/*--------------------------------------------------------------
+# Lists
+--------------------------------------------------------------*/
+.catchids-main .ul,
+.catchids-main ol {
+  margin: 0 0 1.5em 2em;
+  padding: 0;
+}
+
+.catchids-main li {
+  margin: 0;
+}
+
+.catchids-main ul {
+  list-style: disc;
+}
+
+.catchids-main ol {
+  list-style: decimal;
+}
+
+.catchids-main li > ul,
+.catchids-main li > ol {
+  margin-top: 0.55em;
+  margin-left: 1.5em;
+  margin-bottom: 0;
+}
+
+.catchids-main li {
+  margin-bottom: 0.55em;
+}
+
+.catchids-main dt {
+  font-weight: 700;
+}
+
+.catchids-main dd {
+  margin: 0 1.5em 1.5em;
+}
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/
+.catchids-main img {
+  height: auto; /* Make sure images are scaled corrcatchidsly. */
+  max-width: 100%; /* Adhere to container width. */
+  vertical-align: middle;
+}
+
+/*--------------------------------------------------------------
+# Links
+--------------------------------------------------------------*/
+
+.catchids-main a {
+  color: #0085c3;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.catchids-main a:hover,
+.catchids-main a:focus,
+.catchids-main a:active {
+  color: #444;
+  text-decoration: underline;
+}
+
+.catchids-main a:focus {
+  outline: thin dotted;
+}
+
+.catchids-main a:hover,
+.catchids-main a:active {
+  outline: 0;
+}
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+
+.catchids-main #masthead {
+  background: #00618d;
+  background: -webkit-radial-gradient(circle farthest-side at center bottom, #0085c3, #00618d 110%);
+  background: -o-radial-gradient(circle farthest-side at center bottom, #0085c3, #00618d 110%);
+  background: -moz-radial-gradient(circle farthest-side at center bottom, #0085c3, #00618d 110%);
+  background: radial-gradient(circle farthest-side at center bottom, #0085c3, #00618d 110%);
+}
+
+.catchids-main #masthead .wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: column wrap;
+  flex-flow : column wrap;
+}
+
+.catchids-main #plugin-description {
+  margin: 0 auto;
+  max-width: 960px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.catchids-main #plugin-description p:last-child {
+  margin-bottom: 0;
+}
+
+.catchids-main #site-branding {
+  display: block;
+  order: 1;
+  padding: 30px 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.catchids-main .site-title {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-transform: capitalize;
+}
+
+.catchids-main .site-title a {
+  color: #fff;
+}
+
+.catchids-main .site-title a:hover,
+.catchids-main .site-title a:focus {
+  text-decoration: none;
+}
+
+.catchids-main .site-title-additional {
+  color: #006ea4;
+}
+
+.catchids-main .setting {
+  padding: 0 7px;
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Content
+--------------------------------------------------------------*/
+
+.catchids-main .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 680px;
+}
+
+.catchids-main .module-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  -webkit-box-pack: flex-start;
+  -ms-flex-pack: flex-start;
+  justify-content:flex-start;
+}
+
+.cwt .catch-ids-options {
+  border-top:  1px solid #dfdfdf;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+#module-status {
+  margin-bottom: 0;
+}
+
+#module-status .module-header {
+  background-color: transparent;
+  padding-top: 0;
+  padding-bottom: 0;
+  justify-content: flex-start;
+}
+
+#module-status .module-header h3 {
+  margin-right: 90px;
+}
+
+#module-status .loader {
+  right: inherit;
+  left: 170px;
+}
+
+.catchids-main .module-header {
+  background-color: #f3f3f3;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  padding: 11px 18px;
+  position: relative;
+ }
+
+.catchids-main .module-header.active {
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.catchids-main .module-header.inactive {
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.catchids-main .module-title,
+.catchids-main .other-catchthemes-products .module-content {
+  color: #23282d;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+.catchids-main .catch-modules {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  margin-bottom: 20px;
+}
+
+.catchids-main #module-disabled {
+  margin-bottom: 0;
+}
+
+.catchids-main #module-disabled.catch-modules {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 1 100%;
+  flex: 0 1 100%
+}
+
+.catchids-main .catch-module-long {
+  background-color: #f9f9f9;
+  border-radius: 3px;
+  border: 2px solid #ccc;
+  border-top: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: column wrap;
+  flex-flow:column wrap;
+}
+
+.catchids-main .module-content p:last-child {
+  margin-bottom: 0;
+}
+
+.catchids-main #main-nav .dashicons {
+  line-height: 2.7;
+}
+
+/*--------------------------------------------------------------
+# Toggle Switch
+--------------------------------------------------------------*/
+
+.catchids-main .switch {
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -moz-box-flex: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  position: relative;
+  float: none;
+  right: 0;
+  top: 2px;
+}
+
+.catchids-main .module-title.active {
+  background-color: #0085c3;
+}
+
+.catchids-main .switch label {
+  background-color: #48a348;
+  border-radius: 11px;
+  cursor: pointer;
+  height: 16px;
+  right:0;
+  position: absolute;
+  top: 3px;
+  width: 30px;
+}
+
+.catchids-main .inactive .switch label {
+  background-color: #ccc;
+}
+
+.catchids-main .switch input[type="checkbox"] {
+  visibility: hidden;
+  display: none;
+}
+
+.catchids-main .switch label:after {
+  background-color: #fff;
+  border-radius: 100%;
+  content: '';
+  height: 12px;
+  left: 2px;
+  position: absolute;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  top: 2px;
+  width: 12px;
+}
+
+.catchids-main .switch input[type="checkbox"]:checked + label:after {
+  left: 16px;
+  background-color: #fff;
+}
+
+.catchids-main .loader {
+  border: 5px solid #48a348;
+  border-radius: 50%;
+  border-top: 2px solid transparent;
+  width: 20px;
+  height: 20px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+  position: absolute;
+  right: 60px;
+  display: none;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Catch Themes & Plugins switch */
+#ctp-switch .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    top: 7px;
+}
+
+#ctp-switch.catchids-main .module-header {
+    background-color: transparent;
+}
+
+/*--------------------------------------------------------------
+# Other Products
+--------------------------------------------------------------*/
+
+.catchids-main .other-catchthemes-products {
+  background-color: #f9f9f9;
+  clear: both;
+  display: block;
+}
+
+.catchids-main .other-catchthemes-products .module-content {
+  border: none;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.catchids-main .other-catchthemes-products .catch-modules {
+  background-color: #fff;
+  border: 1px solid #dedede;
+}
+
+.catchids-main .other-catchthemes-products .catch-modules a {
+  color: #444;
+  display: block;
+  padding: 1em;
+}
+
+.catchids-main .other-catchthemes-products .catch-modules a:hover,
+.catchids-main .other-catchthemes-products .catch-modules a:focus {
+  color: #0085c3;
+  text-decoration: none;
+}
+
+.catchids-main .other-catchthemes-products .catch-modules .more-details {
+  background-color: #00618d;
+  color: #fff;
+  padding: 16px;
+  position: absolute;
+  left: 25%;
+  font-size: 15px;
+  font-size: 0.9375rem;
+  right: 25%;
+  text-align: center;
+  top: 35%;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  opacity: 0;
+  -webkit-transition: opacity 0.1s ease-in-out;
+  transition:         opacity 0.1s ease-in-out;
+}
+
+.catchids-main .other-catchthemes-products .module-content:hover .more-details,
+.catchids-main .other-catchthemes-products .module-content:focus .more-details {
+  color: #fff;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  opacity: 1;
+  text-decoration: none;
+}
+
+.catchids-main .other-catchthemes-products .catch-modules .modules-thumbnail {
+  padding: 0;
+}
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+
+.catchids-main .footer-navigation {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.catchids-main .menu-footer-container {
+  padding: 10px 20px 30px;
+}
+
+.catchids-main .footer-navigation ul {
+  list-style: none;
+}
+
+.catchids-main .footer-navigation a {
+  color: #444;
+  text-transform: capitalize;
+  padding: 10px 8px 10px 6px;
+  display: block;
+}
+
+.catchids-main .footer-navigation a:hover,
+.catchids-main .footer-navigation a:focus {
+  color: #0085c3;
+  text-decoration: none;
+}
+
+.catchids-main .site-footer .menu-footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.catchids-main .site-footer .menu-footer li {
+  margin: 0;
+}
+
+.catch-ids-options.module-container .catch-modules {
+    border: none;
+}
+
+/*--------------------------------------------------------------
+# Media Queries
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+## >= 320px
+--------------------------------------------------------------*/
+
+@media screen and (min-width: 20em) {
+  .catchids-main .module-header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-box-pack: space-between;
+    -ms-flex-pack: space-between;
+    justify-content: space-between;
+  }
+
+  .catchids-main .module-title {
+    margin-bottom: 0;
+  }
+}
+
+/*--------------------------------------------------------------
+## >= 768px
+--------------------------------------------------------------*/
+@media screen and (min-width: 48em) {
+  .catchids-main .container {
+    max-width: 100%;
+  }
+
+  .catchids-main .module-container {
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-box-pack: space-between;
+    -ms-flex-pack: space-between;
+    justify-content: space-between;
+  }
+
+  .catchids-main #plugin-description {
+    padding-bottom: 30px;
+  }
+
+  .catchids-main .catch-modules {
+      -webkit-box-flex: 0;
+      -ms-flex: 0 1 50%;
+      flex: 0 1 50%
+  }
+
+  .catch-ids-options .catch-modules {
+      padding-right: 21px;
+  }
+
+  .catch-ids-options .catch-modules:nth-child(2n) {
+      padding-right: 0;
+  }
+
+  .catchids-main .menu-footer-container {
+    padding: 10px 40px 30px;
+  }
+}
+
+/*--------------------------------------------------------------
+## >= 1024px
+--------------------------------------------------------------*/
+
+@media screen and (min-width: 64em) {
+  .catchids-main h1 {
+    font-size: 32px;
+    font-size: 2rem;
+  }
+
+  .catchids-main h2 {
+    font-size: 22px;
+    font-size: 1.375rem;
+  }
+
+  .catchids-main #site-branding {
+    padding: 40px;
+  }
+
+  .catchids-main .module-container {
+    -webkit-box-pack: flex-start;
+    -ms-flex-pack: flex-start;
+    justify-content: flex-start;
+  }
+
+  .catchids-main .module-container .wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap:wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: flex-start;
+    -ms-flex-pack: flex-start;
+    justify-content: flex-start;
+  }
+
+  .catchids-main .menu-footer-container {
+    padding: 25px 40px;
+  }
+
+  .catchids-main .footer-navigation a {
+    padding: 10px;
+  }
+}
+
+/*--------------------------------------------------------------
+## >= 1280px
+--------------------------------------------------------------*/
+
+@media screen and (min-width: 80em) {
+  .catchids-main,
+  .catchids-main button,
+  .catchids-main input,
+  .catchids-main selcatchids,
+  .catchids-main textarea,
+  .catchids-main p {
+    font-size: 18px;
+    font-size: 1.1875rem;
+  }
+
+  .catchids-main h1 {
+    font-size: 48px;
+    font-size: 3rem;
+  }
+
+  .catchids-main h2 {
+    font-size: 24px;
+    font-size: 1.5rem;
+  }
+
+  .catchids-main #plugin-description {
+    padding-bottom: 40px;
+  }
+
+  .catchids-main #site-branding {
+    padding: 50px;
+  }
+
+  .catchids-main .footer-navigation a {
+    padding: 10px 10px 10px 13px;
+  }
+
+   .catchids-main .catch-modules {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 33.33%;
+    flex: 0 1 33.33%
+  }
+
+  .catch-ids-options .catch-modules:nth-child(2n) {
+      padding-right: 21px;
+  }
+
+  .catch-ids-options .catch-modules:nth-child(3n) {
+      padding-right: 0;
+  }
+}

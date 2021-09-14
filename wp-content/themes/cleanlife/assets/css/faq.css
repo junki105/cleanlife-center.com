@@ -1,0 +1,157 @@
+.faq {
+    padding: 50px 40px;
+}
+.faq-box {
+    background-color: white;
+    padding: 0;
+    box-shadow: 0 0 16px rgba(0, 0, 0, .07);
+    margin-bottom: 10px;
+    border: 1px solid #183494;
+}
+.faq-q {
+    font-size: 22px;
+    color: #183494;
+    font-weight: bold;
+    position: relative;
+    line-height: 1.2;
+    padding: 30px 60px 30px 30px;
+    cursor: pointer;
+}
+.faq-q-icon {
+    position: absolute;
+    right: 30px;
+    top: 40px;
+}
+.faq-q-icon div {
+    width: 23px;
+    height: 5px;
+    background-color: #183494;
+    position: relative;
+}
+.faq-q-icon div div {
+    height: 23px;
+    width: 5px;
+    background-color: #183494;
+    position: absolute;
+    left: 9px;
+    top: -9px;
+    opacity: 1;
+    transition: opacity .4s ease;
+}
+.faq-show .faq-q-icon div div {
+    opacity: 0!important;
+}
+.faq-a {
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: none;
+	padding: 0 30px 30px;
+    transition: all .4s ease;
+    overflow: hidden;
+}
+.faq-a div:first-child {
+    font-weight: bold;
+    margin-right: 7px;
+}
+.faq-show .faq-a {
+    display: flex;
+}
+.faq-box-container .case-link-container a {
+    color: #183494;
+    background-color: white;
+    border: 3px solid white;
+}
+.faq-box-container .case-link-container a:hover {
+    background-color: #183494;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .faq {
+        padding: 50px 30px;
+    }
+    .faq-q {
+        font-size: 22px;
+        padding-right: 55px;
+    }
+    .faq-a {
+        font-size: 19px;
+    }
+}
+@media (max-width: 640px) {
+    .faq {
+        padding: 50px 20px;
+    }
+}
+@media (max-width: 600px) {
+    .faq-q {
+        padding: 20px;
+        font-size: 17px;
+		padding-right: 45px;
+    }
+	.faq-q-icon {
+		right: 20px;
+		top: 29px;
+	}
+    .faq-q-icon div {
+        width: 19px;
+        height: 3px;
+    }
+    .faq-q-icon div div {
+        width: 3px;
+        height: 19px;
+        left: 8px;
+        top: -8px;
+    }
+    .faq-a {
+        font-size: 16px;
+		padding: 0 20px 20px;
+    }
+}
+@media (max-width: 400px) {
+    .faq-q {
+        font-size: 16px;
+    }
+	.faq-q-icon {
+		top: 28px;
+	}
+    .faq-a {
+        font-size: 14px;
+    }
+}
+/* CTA style start */
+
+@media (max-width: 600px) {
+
+	.note-tel-main a {
+		white-space: nowrap!important;
+	}
+	.coupon-tel-main01 a {
+		white-space: nowrap!important;
+	}
+	.note-tel-main a span {
+		font-size: 31px!important;
+	}
+	.coupon-tel-main01 a span {
+		font-size: 29px!important;
+	}
+}
+@media (max-width: 500px) {
+	.coupon-tel-main01 a span {
+		font-size: 27px!important;
+	}
+	.note-tel-main a span {
+		font-size: 27px!important;
+	}
+}
+@media (max-width: 400px) {
+
+	.coupon-tel-main01 a span {
+		font-size: 25px!important;
+	}
+	.note-tel-main a span {
+		font-size: 26px!important;
+	}
+
+}
+/* CTA style end */

@@ -1,0 +1,102 @@
+.l-main.privacy {
+  padding-top: 50px; 
+}
+
+.l-main.privacy section.dongha {
+  margin-top: 15px;
+  padding: 0 35px;
+}
+
+.privacy-information {
+  padding: 0 40px 80px 40px;
+  background-color: #f6fbff;
+}
+.privacy-header {
+  padding: 20px 30px;
+  font-size: 19px;
+  color: white;
+  background-color: #183494;
+  width: 100%;
+  border-radius: 4px;
+  vertical-align: middle;
+}
+.privacy-detail {
+  font-size: 16px;
+  padding-top: 25px; 
+}
+.privacy-information div:nth-child(2) {
+  margin-bottom: 60px;
+}
+.privacy-subtitle {
+  font-size: 21px;
+  color: #183494;
+  font-weight: bold;
+  border-left: 6px solid #183494;
+  padding-left: 8px;
+  line-height: 1;
+  margin-top: 45px;
+}
+@media (max-width: 1200px) {
+  .l-aside {
+    display: none;
+  }
+  .l-main.privacy {
+    width: 100%;
+  }
+  .l-main.privacy section.dongha {
+    margin-top: 15px;
+    padding: 0 30px;
+  }
+}
+@media (max-width: 615px) {
+  .privacy-information {
+    padding: 0 15px 30px 15px;
+  }
+  .l-main.privacy {
+    padding-top: 57px;
+  }
+
+}
+@media (max-width: 768px) {
+  .l-main.privacy section.dongha {
+    margin-top: 15px;
+    padding: 0 20px;
+  }
+}
+
+/* CTA style start */
+
+@media (max-width: 600px) {
+
+	.note-tel-main a {
+		white-space: nowrap!important;
+	}
+	.coupon-tel-main01 a {
+		white-space: nowrap!important;
+	}
+	.note-tel-main a span {
+		font-size: 31px!important;
+	}
+	.coupon-tel-main01 a span {
+		font-size: 29px!important;
+	}
+}
+@media (max-width: 500px) {
+	.coupon-tel-main01 a span {
+		font-size: 27px!important;
+	}
+	.note-tel-main a span {
+		font-size: 27px!important;
+	}
+}
+@media (max-width: 400px) {
+
+	.coupon-tel-main01 a span {
+		font-size: 25px!important;
+	}
+	.note-tel-main a span {
+		font-size: 26px!important;
+	}
+
+}
+/* CTA style end */

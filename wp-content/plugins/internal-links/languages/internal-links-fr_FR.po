@@ -1,0 +1,1312 @@
+# Translation of Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-10 12:56:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release)\n"
+
+#: backend/menupage/dashboard.php:302
+msgid "Custom Links"
+msgstr "Liens personnalisés"
+
+#: backend/menupage/dashboard.php:301
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: backend/menupage/dashboard.php:300
+msgid "Posts and Pages"
+msgstr "Articles et pages"
+
+#: backend/menupage/dashboard.php:299
+msgid "Filter type"
+msgstr "Type de filtre"
+
+#: backend/menupage/dashboard.php:298
+msgid "No matching records found"
+msgstr "Aucune donnée correspondante trouvée"
+
+#: backend/menupage/dashboard.php:297
+msgid "Search:"
+msgstr "Recherche :"
+
+#: backend/menupage/dashboard.php:296
+msgid "Processing..."
+msgstr "Traitement en cours..."
+
+#: backend/menupage/dashboard.php:295
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: backend/menupage/dashboard.php:294
+msgid "Show _MENU_ entries"
+msgstr "Afficher _MENU_ éléments"
+
+#: backend/menupage/dashboard.php:293
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtré de _MAX_ éléments au total)"
+
+#: backend/menupage/dashboard.php:292
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Affichage de l’élément 0 à 0 sur 0 élément"
+
+#: backend/menupage/dashboard.php:291
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Affichage de _START_ à _END_ sur _TOTAL_ éléments"
+
+#: backend/menupage/dashboard.php:290
+msgid "No data available in table"
+msgstr "Aucune donnée disponible dans le tableau"
+
+#: backend/menupage/dashboard.php:289
+msgid "Previous"
+msgstr "Précédent"
+
+#: backend/menupage/dashboard.php:288
+msgid "Next"
+msgstr "Suivant"
+
+#: backend/menupage/dashboard.php:287
+msgid "Last"
+msgstr "Dernier"
+
+#: backend/menupage/dashboard.php:286
+msgid "First"
+msgstr "Premier"
+
+#: backend/menupage/dashboard.php:285
+msgid ": activate to sort column descending"
+msgstr ": activer pour trier la colonne par ordre décroissant"
+
+#: backend/menupage/dashboard.php:284
+msgid ": activate to sort column ascending"
+msgstr ": activer pour trier la colonne par ordre croissant"
+
+#: backend/menupage/dashboard.php:282
+msgid "Outgoing links from"
+msgstr "Liens sortants depuis"
+
+#: backend/menupage/dashboard.php:281
+msgid "Incoming links to"
+msgstr "Liens entrants vers"
+
+#: backend/menupage/dashboard.php:250
+msgid "The additional index modes are part of our Pro version"
+msgstr "Les modes d'indexation supplémentaires font partie de notre version Pro"
+
+#: backend/menupage/dashboard.php:235
+msgid "We recommend a switch to the WP-CLI mode through a cronjob."
+msgstr "Nous recommandons de passer au mode WP-CLI via un cronjob."
+
+#: backend/menupage/dashboard.php:234
+msgid "We recommend a switch to the manual index mode."
+msgstr "Nous recommandons de passer en mode d’indexation manuelle."
+
+#: backend/menupage/dashboard.php:233
+msgid "Read more in our documentation"
+msgstr "Lire la suite dans notre documentation."
+
+#: backend/menupage/dashboard.php:227
+msgid "The size of your link index is growing. This means that more time is needed to build the index."
+msgstr "La taille de l’index de vos liens est en augmentation. Cela signifie qu’il faut plus de temps pour construire l’index."
+
+#: backend/menupage/dashboard.php:161
+msgid "Anchor text statistics"
+msgstr "Statistiques des ancres de texte"
+
+#: backend/menupage/dashboard.php:160
+msgid "Link statistics"
+msgstr "Statistiques des liens"
+
+#: helper/ajax.php:222
+msgid "The detail view for anchor texts is part of the Pro version."
+msgstr "La vue détaillée pour les textes des ancres fait partie de la version Pro."
+
+#: helper/ajax.php:197 helper/ajax.php:223
+msgid "Upgrade to Pro and view all"
+msgstr "Passez à la version Pro et visualisez tout"
+
+#: helper/ajax.php:196
+msgid "With the free basic version you can view the first 3 links in the detail view."
+msgstr "Avec la version de base gratuite, vous pouvez consulter les 3 premiers liens dans la vue détaillée."
+
+#: helper/ajax.php:160
+msgid "Source"
+msgstr "Source"
+
+#: helper/ajax.php:158
+msgid "Target"
+msgstr "Cible"
+
+#: helper/ajax.php:129
+msgid "Show usage"
+msgstr "Afficher l’utilisation"
+
+#: helper/ajax.php:122
+msgid "Frequency"
+msgstr "Fréquence"
+
+#: helper/ajax.php:122
+msgid "Word count"
+msgstr "Nombre de mots"
+
+#: helper/ajax.php:122
+msgid "Character count"
+msgstr "Nombre de caractères"
+
+#: helper/ajax.php:122 helper/ajax.php:163 backend/menupage/dashboard.php:283
+msgid "Anchor text"
+msgstr "Texte de l’ancre"
+
+#: helper/ajax.php:97
+msgid "Show outgoing links"
+msgstr "Afficher les liens sortants"
+
+#: helper/ajax.php:96
+msgid "Show incoming links"
+msgstr "Afficher les liens entrants"
+
+#: helper/ajax.php:87
+msgid "Outgoing links"
+msgstr "Liens sortants"
+
+#: helper/ajax.php:87
+msgid "Incoming links"
+msgstr "Liens entrants"
+
+#: helper/ajax.php:87 helper/ajax.php:163
+msgid "Type"
+msgstr "Type"
+
+#: helper/ajax.php:87
+msgid "Title"
+msgstr "Titre"
+
+#: core/compat.php:196 core/compat.php:204
+msgid "RankMath focus keywords"
+msgstr "Mots-clés focus RankMath"
+
+#: core/compat.php:165 core/compat.php:173
+msgid "Yoast focus keywords"
+msgstr "Mots-clés focus Yoast"
+
+#: helper/ajax.php:353
+msgid "Nothing to import or no data for import found."
+msgstr "Rien à importer ou aucune donnée à importer trouvée."
+
+#: helper/ajax.php:338
+msgid "Timeout. Please try to upload again."
+msgstr "Temps dépassé. Veuillez réessayer de téléverser."
+
+#: helper/ajax.php:298
+msgid "Your web host does not allow file uploads. Please fix the problem and try again."
+msgstr "Votre hébergeur n’autorise pas le téléversement de fichiers. Veuillez corriger le problème et réessayer."
+
+#: backend/menupage/tools.php:249
+msgid "Term titles"
+msgstr "Titres de terme"
+
+#: backend/menupage/tools.php:235
+msgid "Import for Taxonomies from internal ressources"
+msgstr "Importation pour les taxonomies depuis des ressources internes"
+
+#: backend/menupage/tools.php:227 backend/menupage/tools.php:252
+msgid "Import"
+msgstr "Importer"
+
+#: backend/menupage/tools.php:224
+msgid "Post titles"
+msgstr "Titres d’articles"
+
+#: backend/menupage/tools.php:222 backend/menupage/tools.php:247
+msgid "Sources"
+msgstr "Sources"
+
+#: backend/menupage/tools.php:214 backend/menupage/tools.php:239
+msgid "Types to apply import"
+msgstr "Types d’importation à appliquer"
+
+#: backend/menupage/tools.php:210
+msgid "Import for Posts and Pages from internal ressources"
+msgstr "Importation pour les articles et les pages depuis des ressources internes"
+
+#: backend/menupage/tools.php:187
+msgid "Export empty configurations"
+msgstr "Exporter des configurations vides"
+
+#: backend/menupage/tools.php:184
+msgid "With this feature all linkable content can be exported."
+msgstr "Grâce à cette fonctionnalité, tous les contenus pouvant être liés peuvent être exportés."
+
+#: backend/menupage/tools.php:183
+msgid "Export Keyword Configurations as CSV File"
+msgstr "Exporter des configurations de mots clés en fichier CSV"
+
+#: backend/menupage/tools.php:177 backend/menupage/tools.php:193
+msgid "Export"
+msgstr "Exporter"
+
+#: backend/menupage/tools.php:176
+msgid "Export Plugin Settings"
+msgstr "Exporter les réglages de l’extension"
+
+#: backend/menupage/tools.php:156
+msgid "The column order and format of the CSV file must correspond to the format of our export."
+msgstr "L’ordre des colonnes et le format du fichier CSV doivent correspondre au format de notre exportation."
+
+#: backend/menupage/tools.php:154
+msgid "Import Keyword Configuration from CSV-File"
+msgstr "Importer la configuration des mots-clés depuis un fichier CSV"
+
+#: backend/menupage/tools.php:146 backend/menupage/tools.php:158
+msgid "Upload file"
+msgstr "Téléverser un fichier"
+
+#: backend/menupage/tools.php:144
+msgid "Only valid .json files, as generated from our export, are allowed."
+msgstr "Seuls les fichiers .json valides, tels qu'ils sont générés par notre exportation, sont autorisés."
+
+#: backend/menupage/tools.php:142
+msgid "Import Plugin Settings"
+msgstr "Importer les réglages de l’extension"
+
+#: backend/menupage/tools.php:121
+msgid "Import Keyword Configurations from WordPress"
+msgstr "Importer des configurations de mots-clés depuis WordPress"
+
+#: backend/menupage/tools.php:110
+msgid "File Export"
+msgstr "Exportation de fichier"
+
+#: backend/menupage/tools.php:105
+msgid "File Import"
+msgstr "Importation de fichier"
+
+#: backend/menupage/tools.php:101
+msgid "Tools for data import and export"
+msgstr "Outils pour importer et exporter des données"
+
+#: backend/menupage/tools.php:87
+msgid "The upload exceeds the maximum allowed file size."
+msgstr "Le téléversement dépasse la taille maximale autorisée du fichier."
+
+#: backend/menupage/tools.php:86
+msgid "Import completed successfully."
+msgstr "L’importation a bien été terminée."
+
+#: backend/menupage/tools.php:85
+msgid "The upload was successful. You can now start importing the uploaded data."
+msgstr "Le téléversement a réussi. Vous pouvez maintenant commencer à importer les données téléversées."
+
+#: backend/menupage/tools.php:84
+msgid "Cancel"
+msgstr "Annuler"
+
+#: backend/menupage/tools.php:83
+msgid "Start import"
+msgstr "Démarrer l’importation"
+
+#: backend/menupage/tools.php:82
+msgid "Close"
+msgstr "Fermer"
+
+#: backend/menupage/tools.php:81
+msgid "An error occured. Please try again."
+msgstr "Une erreur est survenue. Veuillez réessayer."
+
+#: backend/menupage/tools.php:80
+msgid "Loading"
+msgstr "Chargement"
+
+#: backend/menupage/tools.php:35
+msgid "Import / Export"
+msgstr "Importation / Exportation"
+
+#: backend/ratingnotifier.php:62
+msgid "Please remind me later"
+msgstr "Veuillez me le rappeler plus tard"
+
+#: backend/ratingnotifier.php:62
+msgid "Of course, you deserve it"
+msgstr "Bien sûr, vous le méritez"
+
+#: backend/ratingnotifier.php:61
+msgid "Thanks!"
+msgstr "Merci !"
+
+#: backend/ratingnotifier.php:61
+msgid "Could you do us a big favor and <strong>give us your review on WordPress.org</strong>? This will help us to increase our visibility and to develop even <strong>more features for you</strong>."
+msgstr "Pourriez-vous nous faire une grande faveur et nous <strong>donner votre avis sur WordPress.org</strong> ? Cela nous permettra d’augmenter notre visibilité et de <strong>développer encore plus de fonctionnalités pour vous</strong>."
+
+#: backend/ratingnotifier.php:61
+msgid "you have been using the Internal Link Juicer for a while now - that's great!"
+msgstr "vous utilisez Internal Link Juicer depuis un certain temps maintenant - c'est génial !"
+
+#: backend/ratingnotifier.php:61
+msgid "Hey"
+msgstr "Hé"
+
+#: core/options/linkoutputinternal.php:49
+msgid "Template for the link output (keyword links)"
+msgstr "Modèle de sortie des liens (liens de mots-clés)"
+
+#: core/options/whitelist.php:35
+msgid "Whitelist of post types, that should be used for linking"
+msgstr "Liste blanche des types de publication, qui doivent être utilisées pour les liens"
+
+#: core/options/blacklist.php:43
+msgid "Posts that get configured here do not link to others automatically."
+msgstr "Les articles qui sont configurés ici ne sont pas automatiquement liés à d’autres."
+
+#: core/options/blacklist.php:35
+msgid "Blacklist of posts that should not be used for linking"
+msgstr "Liste noire des articles qui ne doivent pas être utilisés pour les liens"
+
+#: core/options/nolinktags.php:57
+msgid "Pro feature"
+msgstr "Fonctionnalité Pro"
+
+#: core/options/respectexistinglinks.php:67
+msgid "<small><strong>Attention: activation may have a negative effect on the index building time</strong></small>"
+msgstr "<small><strong>Attention : L’activation peut avoir un effet négatif sur le temps de construction de l’index</strong></small>"
+
+#: core/options/respectexistinglinks.php:59
+msgid "Prevents links to URLs that are already linked in the content"
+msgstr "Empêche les liens vers des URL qui sont déjà liés dans le contenu"
+
+#: core/options/respectexistinglinks.php:59
+msgid "Do not link already manually built link targets"
+msgstr "Ne pas lier des cibles de liens déjà construites manuellement"
+
+#: core/options/respectexistinglinks.php:51
+msgid "Consideration of existing or manually created links"
+msgstr "Prise en compte des liens existants ou créés manuellement"
+
+#: core/options/taxonomywhitelist.php:59
+msgid "All terms within the allowed taxonomies can link to other posts or terms automatically."
+msgstr "Tous les termes des taxonomies autorisées peuvent être liés automatiquement à d’autres articles ou termes."
+
+#: core/options/editorrole.php:52
+msgid "The minimum required capability to edit keywords."
+msgstr "La capacité minimale nécessaire pour modifier des mots-clés."
+
+#: core/options/editorrole.php:44
+msgid "Minimum required user role for editing keywords"
+msgstr "Rôle minimum nécessaire de l’utilisateur pour la modification des mots-clés"
+
+#: core/options/indexgeneration.php:66
+msgid "Any change affecting the index automatically updates the index."
+msgstr "Tout changement affectant l’index, le met automatiquement à jour."
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:80
+msgid "Automatic"
+msgstr "Automatique"
+
+#: core/options/indexgeneration.php:66
+msgid "You are notified when changes are made in connection with the index and can decide when the index should get updated."
+msgstr "Vous êtes informé des modifications apportées à l’index et vous pouvez décider du moment où l’index doit être mis à jour."
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:79
+msgid "Manually"
+msgstr "Manuellement"
+
+#: core/options/indexgeneration.php:66
+msgid "manual"
+msgstr "manuel"
+
+#: core/options/indexgeneration.php:61
+msgid "The index is not created by the plugin (you should set up a cronjob). Read more in our"
+msgstr "L’index n’est pas créé par l’extension (vous devez mettre en place un cronjob). Lire la suite dans notre"
+
+#: core/options/indexgeneration.php:61 core/options/indexgeneration.php:78
+msgid "None"
+msgstr "Aucun"
+
+#: core/options/indexgeneration.php:53
+msgid "Choose your preferred approach for generating the index."
+msgstr "Choisissez l’approche que vous préférez pour générer l’index."
+
+#: core/options/indexgeneration.php:45
+msgid "Index generation mode"
+msgstr "Mode de génération d’index"
+
+#: core/options/keepsettings.php:44
+msgid "If activated, all your configured keywords and your plugin settings will remain saved - if not, everything from Internal Link Juicer gets deleted when you deactivate the plugin."
+msgstr "Si activé, tous vos mots-clés configurés et vos réglages d’extension resteront enregistrés - sinon, tout ce qui provient d’Internal Link Juicer sera supprimé lorsque vous désactiverez l’extension."
+
+#: core/options/keepsettings.php:36
+msgid "Keep configured keywords and plugin settings after plugin deactivation"
+msgstr "Conserver les mots-clés configurés et les réglages de l’extension après la désactivation de l’extension"
+
+#: helper/options.php:29 backend/menupage/tools.php:119
+msgid "This feature is part of the Pro version"
+msgstr "Cette fonctionnalité fait partie de la version Pro"
+
+#: backend/column.php:27
+msgid "Configured keywords for internal linking"
+msgstr "Mots clés configurés pour les liens internes"
+
+#: backend/editor.php:201
+msgid "Click here to open"
+msgstr "Cliquez ici pour ouvrir"
+
+#: backend/editor.php:196
+msgid "Configure the gap dimension. It represents the number of keywords that appear between your other keywords dynamically. Learn more in our documentation:"
+msgstr "Configurer la dimension de l’écart. Cela représente le nombre de mots-clés qui apparaissent entre vos autres mots-clés de façon dynamique. Pour en savoir plus, consultez notre documentation :"
+
+#: backend/editor.php:194
+msgid "Keywords get used <strong>case insensitive</strong>"
+msgstr "Les mots-clés utilisés <strong>ne tiennent pas compte de la casse</strong>"
+
+#: backend/menupage/dashboard.php:203
+msgid "Amount of configured keywords"
+msgstr "Nombre de mots-clés configurés"
+
+#: backend/menupage/dashboard.php:250 backend/menupage/includes/sidebar.php:68
+msgid "Upgrade Now!"
+msgstr "Mettre à niveau maintenant !"
+
+#: backend/menupage/settings.php:162
+msgid "You are going to overwrite the existing settings in this section with the defaults."
+msgstr "Vous allez outrepasser les réglages existants dans cette section avec les valeurs par défaut."
+
+#: backend/menupage/settings.php:162
+msgid "Reset Options"
+msgstr "Réinitialiser les options"
+
+#: backend/menupage/settings.php:133 backend/menupage/tools.php:116
+msgid "Upgrade to Pro now - unlock all features"
+msgstr "Passez à la version Pro maintenant - déverrouillez toutes les fonctionnalités"
+
+#: backend/menupage/settings.php:42
+msgid "General"
+msgstr "Général"
+
+#: core/options.php:320
+msgid "All settings related to the use of the plugin."
+msgstr "Tous les réglages liés à l’utilisation de l’extension."
+
+#: core/options.php:319
+msgid "General Settings Section"
+msgstr "Réglages généraux de section"
+
+#: backend/menupage/includes/sidebar.php:58 backend/ratingnotifier.php:62
+msgid "Hide this information forever"
+msgstr "Masquer cette information pour toujours"
+
+#: core/options/nolinktags.php:43
+msgid "Content within the HTML tags that are configured here do not get used for linking."
+msgstr "Le contenu des balises HTML qui sont configurées ici n’est pas utilisé pour la création de liens."
+
+#: core/options/nolinktags.php:35
+msgid "Exclude HTML areas from linking"
+msgstr "Exclure les zones HTML des liens"
+
+#: enumeration/tagexclusion.php:67
+msgid "Sourcecode"
+msgstr "Code source"
+
+#: enumeration/tagexclusion.php:65
+msgid "Inline quotes"
+msgstr "Citations en ligne"
+
+#: enumeration/tagexclusion.php:63
+msgid "Italic text"
+msgstr "Texte italique"
+
+#: enumeration/tagexclusion.php:61
+msgid "Blockquotes"
+msgstr "Citations"
+
+#: enumeration/tagexclusion.php:59
+msgid "Unordered lists"
+msgstr "Listes non ordonnées"
+
+#: enumeration/tagexclusion.php:57
+msgid "Ordered lists"
+msgstr "Listes ordonnées"
+
+#: enumeration/tagexclusion.php:55
+msgid "Image captions"
+msgstr "Légendes d’image"
+
+#: enumeration/tagexclusion.php:53
+msgid "Tables"
+msgstr "Tableaux"
+
+#: enumeration/tagexclusion.php:51
+msgid "Div container"
+msgstr "Conteneur div"
+
+#: enumeration/tagexclusion.php:49
+msgid "Strong text"
+msgstr "Texte en gras"
+
+#: enumeration/tagexclusion.php:47
+msgid "Headlines"
+msgstr "Gros titres"
+
+#: backend/menupage/tour/pro.php:71
+msgid "Get these features (and many more) by <strong>unlocking</strong> our <strong>PRO version here</strong>"
+msgstr "Obtenir ces fonctionnalités (et bien d’autres) en <strong>déverrouillant</strong> notre <strong>version PRO ici</strong>"
+
+#: backend/menupage/dashboard.php:194
+msgid "learn how it works"
+msgstr "apprendre comment cela fonctionne"
+
+#: backend/menupage/dashboard.php:194
+msgid "Start to set some keywords to your posts"
+msgstr "Commencez à définir quelques mots-clés pour vos articles"
+
+#: backend/menupage/includes/sidebar.php:66
+msgid "Unlimited possibilities by linking even from and to <strong>categories and tags</strong>."
+msgstr "Possibilités illimitées en établissant des liens depuis et vers les <strong>catégories et les étiquettes</strong>."
+
+#: backend/menupage/includes/sidebar.php:66
+msgid "Activate taxonomies"
+msgstr "Activer les taxonomies "
+
+#: backend/menupage/includes/sidebar.php:65
+msgid "Maximize your results with the comprehensive <strong>Statistics Dashboard</strong>."
+msgstr "Maximisez vos résultats grâce au <strong>tableau de bord de statistiques</strong> exhaustif."
+
+#: backend/menupage/includes/sidebar.php:65
+msgid "Focused optimization"
+msgstr "Optimisation ciblée "
+
+#: backend/menupage/includes/sidebar.php:64
+msgid "<strong>Shortcode</strong> and <strong>settings</strong> to <strong>exclude</strong> specific areas of content <strong>from link creation</strong>."
+msgstr "<strong>Code court</strong> et <strong>réglages</strong> permettant d’<strong>exclure</strong> des zones de contenu spécifiques de la <strong>création de liens</strong>."
+
+#: backend/menupage/includes/sidebar.php:64
+msgid "Maximum control"
+msgstr "Contrôle maximum "
+
+#: backend/menupage/includes/sidebar.php:63
+msgid "More flexible linking with your own <strong>individual URLs</strong> as link targets."
+msgstr "Des liens plus souples avec vos propres <strong>URL individuelles</strong> comme cibles de liens."
+
+#: backend/menupage/includes/sidebar.php:63
+msgid "Individual Links"
+msgstr "Liens individuels "
+
+#: backend/menupage/includes/sidebar.php:61
+msgid "Achieve even more with Internal Link Juicer Pro:"
+msgstr "Réalisez encore plus de choses avec Internal Link Juicer Pro :"
+
+#: backend/menupage/includes/sidebar.php:59
+msgid "Activate pro version"
+msgstr "Activer la version Pro"
+
+#: backend/menupage/tour/settings.php:75
+msgid "In the video, you can see how the individual settings impact linking behavior."
+msgstr "Dans la vidéo, vous pouvez voir comment les réglages individuels ont un impact sur le comportement des liens."
+
+#: backend/menupage/tour/settings.php:73
+msgid "<strong>Lowest word count first</strong>: Phrases with the lowest word count are preferred for linking."
+msgstr "Le <strong>plus petit nombre de mots en premier</strong> : Les phrases ayant le plus petit nombre de mots sont préférées pour les liens."
+
+#: backend/menupage/tour/settings.php:71
+msgid "<strong>Highest word count first</strong>: Phrases with the highest word count are preferred for linking."
+msgstr "Le <strong>plus grand nombre de mots en premier</strong> : Les phrases ayant le plus grand nombre de mots sont préférées pour les liens."
+
+#: backend/menupage/tour/settings.php:69
+msgid "<strong>First configured keyword links first</strong>: Keywords are used in the order you entered them into the Keyword Editor."
+msgstr "<strong>Les premiers liens de mots-clés configurés en premier</strong> : Les mots-clés sont utilisés dans l’ordre dans lequel vous les avez saisi dans l’éditeur de mots-clés."
+
+#: backend/menupage/tour/settings.php:67
+msgid "There are a total of 3 different settings available:"
+msgstr "Il y a au total 3 réglages différents disponibles :"
+
+#: backend/menupage/tour/settings.php:65
+msgid "You can find the order settings in the Internal Link Juicer under the \"Content\" tab, just below the whitelist."
+msgstr "Vous pouvez trouver les réglages de tri dans Internal Link Juicer sous l’onglet « Contenu », juste en dessous de la liste blanche."
+
+#: backend/menupage/tour/settings.php:63
+msgid "Configure the order in which you want to use your configured keywords for linking. This gives you even more influence on <strong>whether longer or shorter phrases</strong> are linked."
+msgstr "Configurez l’ordre dans lequel vous souhaitez utiliser vos mots-clés configurés pour la création de liens. Cela vous donne encore plus d’influence sur le choix de lier des <strong>phrases longues ou courtes</strong>."
+
+#: backend/menupage/tour/settings.php:61
+msgid "Determine the order of configured keywords for linking"
+msgstr "Déterminer l’ordre des mots-clés configurés pour les liens"
+
+#: backend/menupage/tour/settings.php:56
+msgid "In the video, you can see a model configuration of the whitelist and its effect on linking behavior."
+msgstr "Dans la vidéo, vous pouvez voir un modèle de configuration de la liste blanche et son effet sur le comportement des liens."
+
+#: backend/menupage/tour/settings.php:54
+msgid "The input field for the whitelist opens a list with all available post and page types. Select all types that you want to allow linking for. After saving, the setting will be active."
+msgstr "Le champ de saisie pour la liste blanche ouvre une liste avec tous les types de publications et de pages disponibles. Sélectionnez tous les types pour lesquels vous souhaitez autoriser la création de liens. Après l’enregistrement, le réglage sera actif."
+
+#: backend/menupage/tour/settings.php:52
+msgid "You can find the whitelist in the Internal Link Juicer settings under the “Content” tab. The whitelist setting is right under the blacklist setting."
+msgstr "Vous pouvez trouver la liste blanche dans les réglages d’Internal Link Juicer sous l’onglet « Contenu ». Le réglage de la liste blanche se trouve juste en dessous du réglage de la liste noire."
+
+#: backend/menupage/tour/settings.php:50
+msgid "With the whitelist, you can <strong>include post and page types</strong> that you always want <strong>to be linked</strong>. This allows you to exclude complete post types from linking beyond the blacklist."
+msgstr "Avec la liste blanche, vous pouvez <strong>inclure les types de publication et de pages</strong> que vous souhaitez toujours voir <strong>liés</strong>. Cela vous permet d’exclure complètement des types de publication des liens au-delà de la liste noire."
+
+#: backend/menupage/tour/settings.php:47
+msgid "Whitelist: Define content types that should always be linked"
+msgstr "Liste blanche : Définir les types de contenu qui doivent toujours être liés"
+
+#: backend/menupage/tour/settings.php:42
+msgid "In the video, you can see how the blacklist is configured and what effects this setting has on the link."
+msgstr "Dans la vidéo, vous pouvez voir comment la liste noire est configurée et quels effets ce réglage a sur le lien."
+
+#: backend/menupage/tour/settings.php:40
+msgid "As a result, this article will no longer display auto-generated internal links."
+msgstr "Par conséquent, cet article n’affichera plus les liens internes générés automatiquement."
+
+#: backend/menupage/tour/settings.php:38
+msgid "Save"
+msgstr "Enregistrer"
+
+#: backend/menupage/tour/settings.php:36
+msgid "Add it by clicking on the blacklist."
+msgstr "Ajoutez-le en cliquant sur la liste noire."
+
+#: backend/menupage/tour/settings.php:34
+msgid "Find the desired post (or page)."
+msgstr "Trouver l’article (ou la page) désiré."
+
+#: backend/menupage/tour/settings.php:32
+msgid "The input field works like a keyword search. To <strong>exclude one or more posts from linking</strong>, follow this procedure:"
+msgstr "Le champ de saisie fonctionne comme une recherche par mot-clé. Pour <strong>exclure un ou plusieurs article des liens</strong>, suivez cette procédure :"
+
+#: backend/menupage/tour/settings.php:30
+msgid "You can find the blacklist in the Internal Link Juicer settings under the \"Content\" tab."
+msgstr "Vous pouvez trouver la liste noire dans les réglages d’Internal Link Juicer sous l’onglet « Contenu »."
+
+#: backend/menupage/tour/settings.php:28
+msgid "To <strong>prevent unwanted linking</strong>, you can take advantage of the blacklist feature. This feature excludes specific content from link building and gives you full control over link behavior at all times."
+msgstr "Pour <strong>empêcher les liens non voulus</strong>, vous pouvez profiter de la fonctionnalité de liste noire. Cette fonctionnalité exclut un contenu spécifique de la création de liens et vous permet de contrôler entièrement le comportement des liens à tout moment."
+
+#: backend/menupage/tour/settings.php:25
+msgid "Blacklist: Exclude any content from linking"
+msgstr "Liste noire : Exclure n’importe quel contenu des liens"
+
+#: backend/menupage/tour/settings.php:21
+msgid "Brief introduction to the most important settings"
+msgstr "Brève introduction aux réglages les plus importants"
+
+#: backend/menupage/tour/links.php:53
+msgid "Watch the video and you will see this feature demonstrated in depth."
+msgstr "Visionnez la vidéo et vous verrez une démonstration en détail de cette fonctionnalité."
+
+#: backend/menupage/tour/links.php:53
+msgid "Check the “<strong>link as often as possible</strong>” box. If you activate this setting, there will be no consideration for the maximum number of links or maximum frequency of identical target URLs. Wherever a link is possible, this setting will create a link."
+msgstr "Cochez la case « <strong>lier aussi souvent que possible</strong> ». Si vous activez ce réglage, le nombre maximal de liens ou la fréquence maximale des URL cibles identiques ne seront pas pris en compte. Partout où un lien est possible, ce réglage créera un lien."
+
+#: backend/menupage/tour/links.php:53
+msgid "Set the “<strong>maximum frequency per post</strong>” of how much a post can link to a single destination URL. Here, the value \"0\" also allows linking the maximum destination URLs, even if they are identical."
+msgstr "Définir la « <strong>fréquence maximale par article</strong> » de la quantité de liens qu’un article peut renvoyer à une seule URL de destination. Ici, la valeur « 0 » permet également de lier le maximum d’URL de destination, même si elles sont identiques."
+
+#: backend/menupage/tour/links.php:53
+msgid "Set the “<strong>maximum number of links per post</strong>” within a single content. With the value \"0,\" you link all possible keywords."
+msgstr "Régler le « <strong>nombre maximum de liens par article</strong> » au sein d’un même contenu. Avec la valeur « 0 », vous liez tous les mots-clés possibles."
+
+#: backend/menupage/tour/links.php:53
+msgid "Overall, you have the following options available, which cover all use cases:"
+msgstr "Dans l’ensemble, vous disposez des options suivantes, qui couvrent tous les cas d’utilisation :"
+
+#: backend/menupage/tour/links.php:53
+msgid "These settings can be found in the Internal Link Juicer settings under the \"Content\" tab."
+msgstr "Ces réglages se trouvent dans les réglages d’Internal Link Juicer sous l’onglet « Contenu »."
+
+#: backend/menupage/tour/links.php:53
+msgid "With this feature, you can actively control link frequencies. You can limit the maximum number of links built, or allow multiple linking of the same destination URL from the same content."
+msgstr "Grâce à cette fonctionnalité, vous pouvez contrôler activement les fréquences de liaison. Vous pouvez limiter le nombre maximum de liens créés ou autoriser la création de plusieurs liens vers la même URL de destination depuis le même contenu."
+
+#: backend/menupage/tour/links.php:52
+msgid "Individually control link frequencies according to your needs"
+msgstr "Contrôler individuellement les fréquences de liaison en fonction de vos besoins"
+
+#: backend/menupage/tour/links.php:47
+msgid "The video shows you one example of how to mask the built links using JavaScript."
+msgstr "La vidéo vous montre un exemple de la façon de masquer les liens construits en utilisant JavaScript."
+
+#: backend/menupage/tour/links.php:45
+msgid "There you can update the output of a link using your own HTML code. The template tags <code>{{url}}</code> and <code>{{anchor}}</code> are available. In your content, these placeholders will later be replaced by the corresponding parameters (link target and anchor text)."
+msgstr "Vous pouvez y mettre à jour la sortie d’un lien en utilisant votre propre code HTML. Les balises de modèle <code>{{url}}</code> et <code>{{anchor}}</code> sont disponibles. Dans votre contenu, ces balises seront remplacées ultérieurement par les réglages correspondants (cible du lien et texte d’ancrage)."
+
+#: backend/menupage/tour/links.php:43
+msgid "You can find the link template settings within the plugin settings under the \"Links\" tab."
+msgstr "Vous pouvez trouver les réglages du modèle de lien dans les réglages de l’extension sous l’onglet « Liens »."
+
+#: backend/menupage/tour/links.php:41
+msgid "With the help of the template feature, you can <strong>change and individualize the output</strong> of internal links."
+msgstr "À l’aide de la fonction de modèle, vous pouvez <strong>modifier et personnaliser la sortie</strong> des liens internes."
+
+#: backend/menupage/tour/links.php:38
+msgid "Easily customize outputs using templates"
+msgstr "Personnaliser facilement les sorties à l’aide de modèles"
+
+#: backend/menupage/tour/links.php:33
+msgid "The video shows an example of two different posts getting linked."
+msgstr "La vidéo montre un exemple de deux articles différents qui sont liés."
+
+#: backend/menupage/tour/links.php:31
+msgid "The plugin works with its <strong>own index</strong> for internal links. It <strong>updates automatically</strong> after you edit content or keywords. This won’t affect your website’s <strong>quick loading times</strong>. This aspect makes the Internal Link Juicer <strong>distinct from other plugins</strong> with similar functionality."
+msgstr "L’extension fonctionne avec son <strong>propre index</strong> pour les liens internes. Il se <strong>met à jour automatiquement</strong> après que vous ayez modifié le contenu ou les mots-clés. Cela n’affectera pas la <strong>rapidité de temps de chargement</strong> de votre site. Cet aspect rend Internal Link Juicer <strong>différent des autres extensions</strong> ayant des fonctionnalités similaires."
+
+#: backend/menupage/tour/links.php:29
+msgid "As soon as you save keywords for your content, the internal links are activated."
+msgstr "Dès que vous enregistrez des mots-clés pour votre contenu, les liens internes sont activés."
+
+#: backend/menupage/tour/links.php:25
+msgid "Auto-generate link outputs"
+msgstr "Génération automatique des sorties de liens"
+
+#: backend/menupage/tour/links.php:21
+msgid "Learn how to influence the linking behavior"
+msgstr "Apprendre comment influencer le comportement de liaison"
+
+#: backend/menupage/tour/editor.php:67
+msgid "In the video, you can see an example of how to configure gaps."
+msgstr "Dans la vidéo, vous pouvez voir un exemple de configuration des écarts."
+
+#: backend/menupage/tour/editor.php:65
+msgid "The adjacent words are constant and included in the link. The gap keywords are variable."
+msgstr "Les mots adjacents sont constants et inclus dans le lien. L’écart des mots-clés est variable."
+
+#: backend/menupage/tour/editor.php:63
+msgid "<strong>\"Maximum\" Type</strong>: A phrase is linked if there are at least 3 or more words between the adjacent words."
+msgstr "<strong>Type « Maximum »</strong> : Une phrase est liée s’il y a au moins 3 mots ou plus entre les mots adjacents."
+
+#: backend/menupage/tour/editor.php:62
+msgid "<strong>\"Exact\" Type</strong>:  A phrase is linked if there are exactly 3 words between the adjacent words."
+msgstr "<strong>Type « Exact »</strong> : Une phrase est liée s’il y a exactement 3 mots entre les mots adjacents."
+
+#: backend/menupage/tour/editor.php:61
+msgid "<strong>\"Minimal\" Type</strong>: A phrase is linked if there are one to three words between the adjacent words."
+msgstr "<strong>Type « Minimal »</strong> : Une phrase est liée s’il y a entre un à trois mots entre les mots adjacents."
+
+#: backend/menupage/tour/editor.php:59
+msgid "You have 3 options to define gaps. Assuming the configured gap value is 3, it behaves in the following ways, depending on the gap type:"
+msgstr "Vous avez 3 options pour définir les écarts. En supposant que la valeur de l’écart configuré est 3, il se comporte de la manière suivante, en fonction du type d’écart :"
+
+#: backend/menupage/tour/editor.php:58
+msgid "The gap feature can be activated by clicking on the link in the Keyword Editor (below the input field)."
+msgstr "La fonction d’écart peut être activée en cliquant sur le lien dans l’éditeur de mots-clés (sous le champ de saisie)."
+
+#: backend/menupage/tour/editor.php:56
+msgid "That’s because you no longer just link to well-defined keywords or phrases. This feature makes it possible to define constant words of a phrase and to <strong>freely create variations</strong> in the gap between them."
+msgstr "C’est parce que vous ne vous contentez plus de faire des liens vers des mots ou des phrases clés bien définis. Cette fonctionnalité permet de définir des mots constants d’une phrase et de <strong>créer librement des variations</strong> dans l’écart entre eux."
+
+#: backend/menupage/tour/editor.php:54
+msgid "With the help of the intelligent gap feature, you can <strong>diversify your anchor texts</strong> even better. You can get a more organic link profile and <strong>cover a wider range</strong> of possible links."
+msgstr "Grâce à la fonctionnalité d’écart intelligent, vous pouvez encore mieux <strong>diversifier vos textes d’ancrage</strong>. Vous pouvez obtenir un profil de lien plus organique et <strong>couvrir un plus large éventail</strong> de liens possibles."
+
+#: backend/menupage/tour/editor.php:51
+msgid "Create smart links with the gap feature"
+msgstr "Créer des liens intelligents grâce à la fonctionnalité d’écart"
+
+#: backend/menupage/tour/editor.php:46
+msgid "The video shows an example of how to assign a keyword to a post."
+msgstr "La vidéo montre un exemple de la façon d’assigner un mot-clé à un article."
+
+#: backend/menupage/tour/editor.php:44
+msgid "You can add your desired keywords one by one or by seperating them with commas."
+msgstr "Vous pouvez ajouter les mots-clés de votre choix un par un ou en les séparant par des virgules."
+
+#: backend/menupage/tour/editor.php:42
+msgid "Add your desired keyword to the appropriate input field and confirm using the Enter key (or by clicking the button)."
+msgstr "Ajoutez le mot-clé de votre choix dans le champ de saisie approprié et confirmez en utilisant la touche Entrée (ou en cliquant sur le bouton)."
+
+#: backend/menupage/tour/editor.php:40
+msgid "With the help of the Keyword Editor, you can <strong>assign keywords to a post</strong>, which it will then use for internal links."
+msgstr "À l’aide de l’éditeur de mots-clés, vous pouvez <strong>assigner des mots-clés à un article</strong>, qu’il utilisera ensuite pour les liens internes."
+
+#: backend/menupage/tour/editor.php:37
+msgid "Add keywords to your content"
+msgstr "Ajouter des mots-clés à votre contenu"
+
+#: backend/menupage/tour/editor.php:32
+msgid "In the video, we'll show you how to get to the Keyword Editor of a post or page."
+msgstr "Dans la vidéo, nous vous montrerons comment accéder à l’éditeur de mots-clés d’un article ou d’une page."
+
+#: backend/menupage/tour/editor.php:30
+msgid "You can find the Keyword Editor anytime you edit content (whether pages or posts). It’s located on the <strong>right-hand sidebar</strong> within the editor window."
+msgstr "Vous pouvez trouver l’éditeur de mots-clés à chaque fois que vous modifez du contenu (que ce soit des pages ou des articles). Il est situé dans la <strong>colonne latérale de droite</strong> de la fenêtre de l’éditeur."
+
+#: backend/menupage/tour/editor.php:28
+msgid "The <strong>Keyword Editor</strong> is the heart of the Internal Link Juicer. With its help, you can <strong>configure keywords</strong> for your posts, which will later form the link text for each post."
+msgstr "L’<strong>éditeur de mots-clés</strong> est le cœur d’Internal Link Juicer. Avec son aide, vous pouvez <strong>configurer des mots-clés</strong> pour vos articles, qui formeront plus tard le texte du lien pour chaque article."
+
+#: backend/menupage/tour/editor.php:25
+msgid "Find the Keyword Editor"
+msgstr "Trouver l’éditeur de mots-clés"
+
+#: backend/menupage/tour/editor.php:21
+msgid "Begin with setting up keywords for your posts and pages"
+msgstr "Commencez par définir des mots-clés pour vos articles et vos pages"
+
+#: backend/menupage/tour/intro.php:27
+msgid "We show you the most important functions of the Internal Link Juicer in a few minutes. With that you are able to start immediately and get the maximum out of your internal links."
+msgstr "Nous vous présentons les fonctionnalités les plus importantes d’Internal Link Juicer en quelques minutes. Vous pourrez ainsi commencer immédiatement et tirer le meilleur parti de vos liens internes."
+
+#: backend/menupage/tour/intro.php:26
+msgid "Start the tour through the plugin"
+msgstr "Commencer la visite de l’extension"
+
+#: backend/menupage/tour/pro.php:58
+msgid "The video shows you everything you need to know about the Statistics Dashboard."
+msgstr "La vidéo vous montre tout ce que vous devez savoir sur le tableau de bord des statistiques."
+
+#: backend/menupage/tour/pro.php:56
+msgid "You can find the advanced statistics directly in the Statistics Dashboard for the plugin. Here you can <strong>sort and filter</strong> as you like. You can also get information about the links when clicking on the corresponding content or anchor text."
+msgstr "Vous pouvez trouver les statistiques avancées directement dans le tableau de bord des statistiques de l’extension. Ici, vous pouvez <strong>trier et filtrer</strong> comme vous le souhaitez. Vous pouvez également obtenir des informations sur les liens en cliquant sur le contenu ou le texte d’ancrage correspondant."
+
+#: backend/menupage/tour/pro.php:54
+msgid "With the <strong>extended Statistics Dashboard</strong>, you can <strong>analyze</strong> your automated internal links to the maximum. This feature identifies pages that have too many or few inbound/outbound links. You can use this information to <strong>proactively improve internal linking</strong> optimization."
+msgstr "Grâce au <strong>tableau de bord des statistiques étendu</strong>, vous pouvez <strong>analyser</strong> au maximum vos liens internes automatisés. Cette fonctionnalité permet d’identifier les pages qui ont trop ou pas assez de liens entrants / sortants. Vous pouvez utiliser ces informations pour l’optimisation<strong>amélioré de manière proactive des liens</strong>."
+
+#: backend/menupage/tour/pro.php:52
+msgid "Optimize links to the max with extensive statistical insight"
+msgstr "Optimiser au maximum les liens grâce à des statistiques détaillées"
+
+#: backend/menupage/tour/pro.php:47
+msgid "The video shows you how to link a post from a category description. In the same example, the article links from its own content back to the category page."
+msgstr "La vidéo vous montre comment lier un article à partir de la description d’une catégorie. Dans le même exemple, l’article renvoie à la page de la catégorie depuis son propre contenu."
+
+#: backend/menupage/tour/pro.php:45
+msgid "For taxonomies, you’ll find your own blacklist and whitelist. After activating the Pro version, the Keyword Editor includes taxonomies and allows you to assign keywords for them. From then on, even <strong>taxonmy descriptions</strong> are used as linkable content."
+msgstr "Pour les taxonomies, vous trouverez votre propre liste noire et votre propre liste blanche. Après avoir activé la version Pro, l’éditeur de mots-clés inclut des taxonomies et vous permet de leur attribuer des mots-clés. Dès lors, même les <strong>descriptions de taxonomies</strong> sont utilisées comme contenu pouvant être lié."
+
+#: backend/menupage/tour/pro.php:43
+msgid "In our Pro version, you will not only set links for posts and pages, but also <strong>taxonomies such as categories and tags</strong>. This gives you even more flexibility when creating internal links."
+msgstr "Dans notre version Pro, vous n’établirez pas seulement des liens pour les articles et les pages, mais aussi des <strong>taxonomies telles que les catégories et les étiquettes</strong>. Cela vous donne encore plus de souplesse pour créer des liens internes."
+
+#: backend/menupage/tour/pro.php:40
+msgid "Automatically link categories and tags for even wider coverage"
+msgstr "Lier automatiquement les catégories et les étiquettes pour une couverture encore plus large"
+
+#: backend/menupage/tour/pro.php:35
+msgid "In the video, you see one example of linking to an external Wikipedia article."
+msgstr "Dans la vidéo, vous voyez un exemple de lien vers un article externe de Wikipédia."
+
+#: backend/menupage/tour/pro.php:33
+msgid "Like ordinary posts, these links are equipped with the Keyword Editor. To create a new custom link, you can add the <strong>destination URL</strong>, as well as any <strong>related keywords</strong>. The configuration takes effect immediately."
+msgstr "Comme les articles ordinaires, ces liens sont dotés de l’éditeur de mots-clés. Pour créer un nouveau lien personnalisé, vous pouvez ajouter l’<strong>URL de destination</strong>, ainsi que tout <strong>mot-clé similaire</strong>. La configuration prend effet immédiatement."
+
+#: backend/menupage/tour/pro.php:31
+msgid "Settings for this feature can be found in the Internal Link Juicer menu under \"Custom Links”, where you can list current links and create new individual links in no time."
+msgstr "Les réglages de cette fonctionnalité se trouvent dans le menu « Internal Link Juicer » sous « Liens personnalisés », où vous pouvez lister les liens actuels et créer de nouveaux liens individuels en un rien de temps."
+
+#: backend/menupage/tour/pro.php:29
+msgid "With the custom links feature, you assign <strong>keywords to any URLs</strong> for automatic linking. In this way, you can create <strong>affiliate links</strong> or add <strong>content from foreign domains</strong>."
+msgstr "Grâce à la fonctionnalité de liens personnalisés, vous pouvez attribuer des <strong>mots-clés à n’importe quelle URL</strong> pour une liaison automatique. De cette façon, vous pouvez créer des <strong>liens d’affiliation</strong> ou ajouter du <strong>contenu provenant de domaines étrangers</strong>."
+
+#: backend/menupage/tour/pro.php:26
+msgid "Enjoy maximum freedom with custom links"
+msgstr "Profitez d’une liberté maximale grâce aux liens personnalisés"
+
+#: backend/menupage/tour/pro.php:22
+msgid "Reach even more with Pro!"
+msgstr "Obtenir encore plus avec la Pro !"
+
+#: backend/menupage/tour.php:199
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: backend/menupage/tour.php:189
+msgid "Back to dashboard"
+msgstr "Retour au tableau de bord"
+
+#: backend/menupage/tour.php:189
+msgid "Skip interactive tour"
+msgstr "Passer la visite interactive"
+
+#: backend/menupage/tour.php:188
+msgid "Next page"
+msgstr "Page suivante"
+
+#: backend/menupage/tour.php:188
+msgid "Finish tutorial"
+msgstr "Finir le tutoriel"
+
+#: backend/menupage/tour.php:188
+msgid "Start the tutorial now"
+msgstr "Démarrer le tutoriel maintenant"
+
+#: backend/menupage/tour.php:171
+msgid "Interactive tutorial"
+msgstr "Tutoriel interactif"
+
+#: backend/menupage/tour.php:62
+msgid "Advanced linking with pro version"
+msgstr "Liaison avancée avec la version Pro"
+
+#: backend/menupage/tour.php:57
+msgid "Discover the most important settings"
+msgstr "Découvrir les réglages les plus importants"
+
+#: backend/menupage/tour.php:52
+msgid "Adjust the link behavior"
+msgstr "Ajuster le comportement du lien"
+
+#: helper/ajax.php:95 backend/menupage/dashboard.php:333
+msgid "Open"
+msgstr "Ouvert"
+
+#: helper/ajax.php:94 backend/menupage/dashboard.php:332
+msgid "Edit"
+msgstr "Modifier"
+
+#: helper/ajax.php:87 backend/menupage/dashboard.php:318
+msgid "Action"
+msgstr "Action"
+
+#: backend/menupage/dashboard.php:318
+msgid "Page"
+msgstr "Page"
+
+#: backend/menupage/dashboard.php:141
+msgid "Get help through our forum"
+msgstr "Obtenir de l’aide sur notre forum"
+
+#: backend/menupage/dashboard.php:141
+msgid "Request support"
+msgstr "Demande de support"
+
+#: backend/menupage/dashboard.php:137
+msgid "A quick guided tutorial"
+msgstr "Un tutoriel rapide et guidé"
+
+#: backend/menupage/dashboard.php:137 backend/menupage/tour.php:72
+msgid "Interactive Tour"
+msgstr "Visite interactive"
+
+#: backend/menupage/dashboard.php:133
+msgid "Learn how to use the plugin"
+msgstr "Apprendre à utiliser l’extension"
+
+#: backend/menupage/dashboard.php:133
+msgid "Docs & How To"
+msgstr "Docs & Comment faire"
+
+#: backend/menupage/dashboard.php:81
+msgid "Installed version"
+msgstr "Version installée"
+
+#: enumeration/keywordorder.php:44
+msgid "Lowest word count gets linked first"
+msgstr "Le plus petit nombre de mots est lié en premier"
+
+#: enumeration/keywordorder.php:42
+msgid "Highest word count gets linked first"
+msgstr "Le plus grand nombre de mots est lié en premier"
+
+#: enumeration/keywordorder.php:40
+msgid "First configured keyword gets linked first"
+msgstr "Le premier mot-clé configuré est lié en premier"
+
+#: core/options/keywordorder.php:43
+msgid "Set the order of how your set keywords get used for building links."
+msgstr "Définir l’ordre dans lequel les mots-clés que vous avez définis sont utilisés pour créer des liens."
+
+#: core/options/keywordorder.php:35
+msgid "Order for configured keywords while linking"
+msgstr "Ordre des mots-clés configurés lors de la création de liens"
+
+#: backend/editor.php:210
+msgid "Maximum amount of keywords within the gap."
+msgstr "Nombre maximum de mots-clés dans l’écart."
+
+#: backend/menupage/includes/sidebar.php:43
+msgid "Thank you for using the Internal Link Juicer!"
+msgstr "Merci d’utiliser Internal Link Juicer !"
+
+#: backend/menupage/includes/sidebar.php:38
+msgid "Give us your review"
+msgstr "Donnez-nous votre avis"
+
+#: backend/menupage/includes/sidebar.php:36
+msgid "Do you like the plugin? Then <strong>please rate us</strong> or <strong>tell your friends</strong> about the Internal Link Juicer."
+msgstr "Vous aimez l’extension ? Alors <strong>veuillez nous donner une note</strong> ou <strong>parlez à vos amis</strong> d’Internal Link Juicer."
+
+#: backend/menupage/includes/sidebar.php:42
+msgid "Get in touch with us"
+msgstr "Restons en contact"
+
+#: backend/menupage/includes/sidebar.php:40
+msgid "Are you looking for a <strong>new feature</strong> or have <strong>suggestions for improvement</strong>? Have you <strong>found a bug</strong>? Please tell us about."
+msgstr "Vous êtes à la recherche d’une <strong>nouvelle fonctionnalité</strong> ou vous avez des <strong>suggestions d’amélioration</strong> ? Vous avez <strong>trouvé un bogue</strong> ? Veuillez nous en faire part."
+
+#: backend/menupage/includes/sidebar.php:33
+msgid "Support us"
+msgstr "Nous soutenir"
+
+#: helper/help.php:66 backend/editor.php:221
+#: backend/menupage/includes/postbox.php:37
+msgid "Get help"
+msgstr "Obtenir de l’aide"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://internallinkjuicer.com"
+msgstr "https://internallinkjuicer.com"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Internal Link Juicer"
+msgstr "Internal Link Juicer"
+
+#. Description of the plugin
+msgid "A performant solution for high class internal linkbuilding automation."
+msgstr "Une solution performante pour une automatisation de haut niveau de création de liens internes."
+
+#: core/options/internalnofollow.php:43
+msgid "Sets the <code>rel=\"nofollow\"</code> attribute for keyword links (<strong>not recommended</strong>)."
+msgstr "Définit l’attribut <code>rel=\"nofollow\"</code>pour les liens de mots-clés (<strong>non recommandé</strong>)."
+
+#: core/options/internalnofollow.php:35
+msgid "NoFollow for internal keyword links"
+msgstr "NoFollow pour les liens internes de mots-clés"
+
+#: core/options/linkoutputcustom.php:59 core/options/linkoutputinternal.php:73
+msgid "You can use the placeholders <code>{{url}}</code> for the target and <code>{{anchor}}</code> for the generated anchor text."
+msgstr "Vous pouvez utiliser les textes indicatifs <code>{{url}}</code> pour la cible et <code>{{anchor}}</code> pour le texte d’ancrage généré."
+
+#: core/options/linkoutputinternal.php:57
+msgid "Markup for the output of generated internal links."
+msgstr "Marquage pour la sortie des liens internes générés."
+
+#: core/options/linkoutputcustom.php:51
+msgid "Template for the link output (custom links)"
+msgstr "Modèle de sortie des liens (liens personnalisés)"
+
+#: core/options/multiplekeywords.php:44
+msgid "Deactivates all other restrictions"
+msgstr "Désactive toutes les autres restrictions"
+
+#: core/options/multiplekeywords.php:44
+msgid "Allows posts and keywords to get linked as often as possible."
+msgstr "Permet de lier les articles et les mots-clés aussi souvent que possible."
+
+#: core/options/multiplekeywords.php:36
+msgid "Link as often as possible"
+msgstr "Lier aussi souvent que possible"
+
+#: core/options/linkspertarget.php:37
+msgid "Maximum frequency of how often a post gets linked within another one"
+msgstr "Fréquence maximale de la mise en relation d’un article avec un autre"
+
+#: core/options/linkspertarget.php:45 core/options/linksperpage.php:45
+msgid "For an unlimited number of links, set this value to <code>0</code> ."
+msgstr "Pour un nombre illimité de liens, définissez cette valeur à <code>0</code> ."
+
+#: core/options/linksperpage.php:37
+msgid "Maximum amount of links per post"
+msgstr "Nombre maximum de liens par article"
+
+#: core/options/whitelist.php:43
+msgid "All posts within the allowed post types can link to other posts automatically."
+msgstr "Toutes les publications des types de publication autorisés peuvent être liés automatiquement à d’autres publications."
+
+#: core/options/taxonomywhitelist.php:51
+msgid "Whitelist of taxonomies, that should be used for linking"
+msgstr "Liste blanche de taxonomies, qui doivent être utilisées pour les liens"
+
+#: core/options/termblacklist.php:59
+msgid "Terms that get configured here do not link to others automatically."
+msgstr "Les termes qui sont configurés ici ne sont pas automatiquement liés aux autres."
+
+#: core/options/termblacklist.php:51
+msgid "Blacklist of terms that should not be used for linking"
+msgstr "Liste noire des termes à ne pas utiliser pour les liens"
+
+#: core/options.php:328
+msgid "Setting options for the output of the generated links."
+msgstr "Définition des options de sortie des liens générés."
+
+#: core/options.php:327
+msgid "Links Settings Section"
+msgstr "Section des réglages des liens"
+
+#: core/options.php:324
+msgid "Configure how the plugin should behave regarding the internal linking."
+msgstr "Configurez le comportement de l’extension en ce qui concerne les liens internes."
+
+#: core/options.php:323
+msgid "Content Settings Section"
+msgstr "Section des réglages du contenu"
+
+#: backend/menupage/settings.php:58
+msgid "Links"
+msgstr "Liens"
+
+#: backend/menupage/settings.php:50
+msgid "Content"
+msgstr "Contenu"
+
+#: backend/menupage/settings.php:81
+msgid "Searching…"
+msgstr "Recherche…"
+
+#: backend/menupage/settings.php:80
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+#: backend/menupage/settings.php:79
+msgid "Loading more results…"
+msgstr "Chargement de plus de résultats…"
+
+#: backend/menupage/settings.php:78
+msgid "Minimum characters to start search"
+msgstr "Caractères minimums pour lancer la recherche"
+
+#: backend/menupage/settings.php:77
+msgid "The results could not be loaded."
+msgstr "Les résultats n’ont pas pu être chargés."
+
+#: core/app.php:275 backend/menupage/settings.php:37
+#: backend/menupage/settings.php:123
+msgid "Settings"
+msgstr "Réglages"
+
+#: backend/menupage/dashboard.php:318 backend/menupage/dashboard.php:350
+msgid "Count"
+msgstr "Nombre"
+
+#: backend/menupage/dashboard.php:205
+msgid "seconds"
+msgstr "secondes"
+
+#: backend/menupage/dashboard.php:205
+msgid "Duration for construction"
+msgstr "Durée de la construction"
+
+#: backend/menupage/dashboard.php:204
+msgid "at"
+msgstr "à"
+
+#: backend/menupage/dashboard.php:204
+msgid "Last built"
+msgstr "Dernière construction"
+
+#: backend/menupage/dashboard.php:202
+msgid "Amount of links in the index"
+msgstr "Nombre de liens dans l’index"
+
+#: backend/menupage/dashboard.php:193
+msgid "Index has no entries yet"
+msgstr "L’index n’a encore aucune entrée"
+
+#: helper/ajax.php:82
+msgid "There are no statistics to display"
+msgstr "Il n’y a aucune statistique à afficher"
+
+#: backend/menupage/dashboard.php:93
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: backend/menupage/dashboard.php:88
+msgid "Linkindex info"
+msgstr "Info d’index de lien"
+
+#: backend/menupage/dashboard.php:84
+msgid "Plugin related"
+msgstr "Extension similaire"
+
+#: backend/menupage/dashboard.php:29 backend/menupage/dashboard.php:78
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: backend/editor.php:220
+msgid "Minimum keyword gap:"
+msgstr "Écart minimum des mots-clés :"
+
+#: backend/editor.php:219
+msgid "Maximum keyword gap:"
+msgstr "Écart maximal des mots-clés :"
+
+#: backend/editor.php:218
+msgid "Exact keyword gap:"
+msgstr "Écart exact des mots-clés :"
+
+#: backend/editor.php:217
+msgid "No keywords configured."
+msgstr "Aucun mot-clé configuré."
+
+#: backend/editor.php:216
+msgid "Multiple consecutive placeholders are not allowed."
+msgstr "Les textes indicatifs consécutifs ne sont pas autorisés."
+
+#: backend/editor.php:215
+msgid "Length of given keyword not valid."
+msgstr "Longueur du mot-clé donné non valide."
+
+#: backend/editor.php:214
+msgid "No keyword defined."
+msgstr "Aucun mot-clé défini."
+
+#: backend/editor.php:213
+msgid "This keyword already exists."
+msgstr "Ce mot-clé existe déjà."
+
+#: helper/ajax.php:87 backend/editor.php:212
+msgid "Configured keywords"
+msgstr "Mots clés configurés"
+
+#: backend/editor.php:211
+msgid "Insert gaps between keywords"
+msgstr "Insérer des écarts entre les mots-clés"
+
+#: backend/editor.php:209
+msgid "Exact amount of keywords within the gap."
+msgstr "Quantité exacte de mots-clés dans l’écart."
+
+#: backend/editor.php:208
+msgid "Minimum amount of keywords within the gap. No upper limits."
+msgstr "Quantité minimale de mots-clés dans l'écart. Pas de limite supérieure."
+
+#: backend/editor.php:207
+msgid "Maximum"
+msgstr "Maximum"
+
+#: backend/editor.php:206
+msgid "Exact"
+msgstr "Exact"
+
+#: backend/editor.php:205
+msgid "Minimum"
+msgstr "Minimum"
+
+#: backend/editor.php:204
+msgid "Gap type"
+msgstr "Type d’écart"
+
+#: backend/editor.php:203
+msgid "Add gap"
+msgstr "Ajouter un écart"
+
+#: backend/editor.php:202
+msgid "Keyword gaps"
+msgstr "Écarts de mot-clé"
+
+#: backend/editor.php:195
+msgid "Separate multiple keywords by commas"
+msgstr "Séparez les mots-clés multiples par des virgules"
+
+#: backend/editor.php:193 backend/menupage/dashboard.php:350
+msgid "Keyword"
+msgstr "Mot-clé"
+
+#: backend/editor.php:192
+msgid "Add Keyword"
+msgstr "Ajouter un mot-clé"
+
+#: backend/editor.php:60
+msgid "The keywords"
+msgstr "Les mots-clés"
+
+#: backend/editor.php:38 backend/adminmenu.php:46 backend/adminmenu.php:47
+msgid "Internal Links"
+msgstr "Liens internes"

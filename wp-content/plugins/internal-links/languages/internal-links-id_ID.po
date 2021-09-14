@@ -1,0 +1,1312 @@
+# Translation of Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-10 12:56:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release)\n"
+
+#: backend/menupage/dashboard.php:302
+msgid "Custom Links"
+msgstr "Tautan Tersuai"
+
+#: backend/menupage/dashboard.php:301
+msgid "Taxonomies"
+msgstr "Taksonomi"
+
+#: backend/menupage/dashboard.php:300
+msgid "Posts and Pages"
+msgstr "Pos dan Halaman"
+
+#: backend/menupage/dashboard.php:299
+msgid "Filter type"
+msgstr "Jenis penyaring"
+
+#: backend/menupage/dashboard.php:298
+msgid "No matching records found"
+msgstr "Tidak ada data yang cocok"
+
+#: backend/menupage/dashboard.php:297
+msgid "Search:"
+msgstr "Cari:"
+
+#: backend/menupage/dashboard.php:296
+msgid "Processing..."
+msgstr "Memproses..."
+
+#: backend/menupage/dashboard.php:295
+msgid "Loading..."
+msgstr "Memuat..."
+
+#: backend/menupage/dashboard.php:294
+msgid "Show _MENU_ entries"
+msgstr "Tampilkan _MENU_ entries"
+
+#: backend/menupage/dashboard.php:293
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(disaring dari entri _MAX_ total) "
+
+#: backend/menupage/dashboard.php:292
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Menampilkan 0 sampai 0 dari 0 entri"
+
+#: backend/menupage/dashboard.php:291
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Menampilkan entri _START_ hingga _END_ dari _TOTAL_"
+
+#: backend/menupage/dashboard.php:290
+msgid "No data available in table"
+msgstr "Tidak tersedia data di tabel"
+
+#: backend/menupage/dashboard.php:289
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: backend/menupage/dashboard.php:288
+msgid "Next"
+msgstr "Berikutnya"
+
+#: backend/menupage/dashboard.php:287
+msgid "Last"
+msgstr "Terakhir"
+
+#: backend/menupage/dashboard.php:286
+msgid "First"
+msgstr "Pertama"
+
+#: backend/menupage/dashboard.php:285
+msgid ": activate to sort column descending"
+msgstr ": aktifkan untuk mengurutkan menurun"
+
+#: backend/menupage/dashboard.php:284
+msgid ": activate to sort column ascending"
+msgstr ": aktifkan untuk mengurutkan naik"
+
+#: backend/menupage/dashboard.php:282
+msgid "Outgoing links from"
+msgstr "Tautan keluar dari"
+
+#: backend/menupage/dashboard.php:281
+msgid "Incoming links to"
+msgstr "Tautan masuk ke"
+
+#: backend/menupage/dashboard.php:250
+msgid "The additional index modes are part of our Pro version"
+msgstr "Mode indeks tambahan terdapat di versi Pro kami"
+
+#: backend/menupage/dashboard.php:235
+msgid "We recommend a switch to the WP-CLI mode through a cronjob."
+msgstr "Kami menyarankan untuk beralih ke mode WP-CLI melalui cronjob."
+
+#: backend/menupage/dashboard.php:234
+msgid "We recommend a switch to the manual index mode."
+msgstr "Kami menyarankan peralihan ke mode indeks manual."
+
+#: backend/menupage/dashboard.php:233
+msgid "Read more in our documentation"
+msgstr "Baca selengkapnya di dokumentasi kami"
+
+#: backend/menupage/dashboard.php:227
+msgid "The size of your link index is growing. This means that more time is needed to build the index."
+msgstr "Ukuran indeks Anda berkembang. Hal tersebut berarti diperlukan banyak waktu untuk membuat indeks."
+
+#: backend/menupage/dashboard.php:161
+msgid "Anchor text statistics"
+msgstr "Statistik teks anchor"
+
+#: backend/menupage/dashboard.php:160
+msgid "Link statistics"
+msgstr "Statistik tautan"
+
+#: helper/ajax.php:222
+msgid "The detail view for anchor texts is part of the Pro version."
+msgstr "Kunjungan lengkap untuk teks anchor terdapat di versi Pro."
+
+#: helper/ajax.php:197 helper/ajax.php:223
+msgid "Upgrade to Pro and view all"
+msgstr "Upgrade ke Pro dan lihat semua"
+
+#: helper/ajax.php:196
+msgid "With the free basic version you can view the first 3 links in the detail view."
+msgstr "Dengan versi gratis dasar Anda dapat melihat 3 tautan teratas dalam tampilan terperinci."
+
+#: helper/ajax.php:160
+msgid "Source"
+msgstr "Sumber"
+
+#: helper/ajax.php:158
+msgid "Target"
+msgstr "Target"
+
+#: helper/ajax.php:129
+msgid "Show usage"
+msgstr "Tampilkan penggunaan"
+
+#: helper/ajax.php:122
+msgid "Frequency"
+msgstr "Frekuensi"
+
+#: helper/ajax.php:122
+msgid "Word count"
+msgstr "Jumlah kata"
+
+#: helper/ajax.php:122
+msgid "Character count"
+msgstr "Jumlah karakter"
+
+#: helper/ajax.php:122 helper/ajax.php:163 backend/menupage/dashboard.php:283
+msgid "Anchor text"
+msgstr "Teks anchor"
+
+#: helper/ajax.php:97
+msgid "Show outgoing links"
+msgstr "Tampilkan tautan keluar"
+
+#: helper/ajax.php:96
+msgid "Show incoming links"
+msgstr "Tampilkan tautan masuk"
+
+#: helper/ajax.php:87
+msgid "Outgoing links"
+msgstr "Tautan keluar"
+
+#: helper/ajax.php:87
+msgid "Incoming links"
+msgstr "Tautan masuk"
+
+#: helper/ajax.php:87 helper/ajax.php:163
+msgid "Type"
+msgstr "Jenis"
+
+#: helper/ajax.php:87
+msgid "Title"
+msgstr "Judul"
+
+#: core/compat.php:196 core/compat.php:204
+msgid "RankMath focus keywords"
+msgstr "Kata kunci utama RankMath"
+
+#: core/compat.php:165 core/compat.php:173
+msgid "Yoast focus keywords"
+msgstr "Kata kunci utama Yoast"
+
+#: helper/ajax.php:353
+msgid "Nothing to import or no data for import found."
+msgstr "Tidak ada berkas atau data yang akan diimpor."
+
+#: helper/ajax.php:338
+msgid "Timeout. Please try to upload again."
+msgstr "Waktu habis. Silakan coba unggah lagi."
+
+#: helper/ajax.php:298
+msgid "Your web host does not allow file uploads. Please fix the problem and try again."
+msgstr "Web hosting Anda tidak mengizinkan pengunggahan berkas. Harap perbaiki masalah ini dan coba lagi."
+
+#: backend/menupage/tools.php:249
+msgid "Term titles"
+msgstr "Judul terma"
+
+#: backend/menupage/tools.php:235
+msgid "Import for Taxonomies from internal ressources"
+msgstr "Impor Taksonomi dari sumber daya internal"
+
+#: backend/menupage/tools.php:227 backend/menupage/tools.php:252
+msgid "Import"
+msgstr "Impor"
+
+#: backend/menupage/tools.php:224
+msgid "Post titles"
+msgstr "Judul pos"
+
+#: backend/menupage/tools.php:222 backend/menupage/tools.php:247
+msgid "Sources"
+msgstr "Sumber"
+
+#: backend/menupage/tools.php:214 backend/menupage/tools.php:239
+msgid "Types to apply import"
+msgstr "Jenis yang dapat diimpor"
+
+#: backend/menupage/tools.php:210
+msgid "Import for Posts and Pages from internal ressources"
+msgstr "Impor pos dan halaman dari sumber daya internal"
+
+#: backend/menupage/tools.php:187
+msgid "Export empty configurations"
+msgstr "Ekspor konfigurasi kosong"
+
+#: backend/menupage/tools.php:184
+msgid "With this feature all linkable content can be exported."
+msgstr "Dengan fitur ini semua konten yang dapat ditautkan dapat diekspor."
+
+#: backend/menupage/tools.php:183
+msgid "Export Keyword Configurations as CSV File"
+msgstr "Ekspor Konfigurasi Kata Kunci Sebagai Berkas CSV"
+
+#: backend/menupage/tools.php:177 backend/menupage/tools.php:193
+msgid "Export"
+msgstr "Ekspor"
+
+#: backend/menupage/tools.php:176
+msgid "Export Plugin Settings"
+msgstr "Pengaturan Plugin Ekspor"
+
+#: backend/menupage/tools.php:156
+msgid "The column order and format of the CSV file must correspond to the format of our export."
+msgstr "Kolom pengurutan dan pemformatan file CSV harus sesuai dengan format ekspor kami."
+
+#: backend/menupage/tools.php:154
+msgid "Import Keyword Configuration from CSV-File"
+msgstr "Impor Konfigurasi Kata Kunci dari Berkas CSV"
+
+#: backend/menupage/tools.php:146 backend/menupage/tools.php:158
+msgid "Upload file"
+msgstr "Unggah berkas"
+
+#: backend/menupage/tools.php:144
+msgid "Only valid .json files, as generated from our export, are allowed."
+msgstr "Hanya mengizinkan berkas .json yang valid, sebagai hasil ekspor."
+
+#: backend/menupage/tools.php:142
+msgid "Import Plugin Settings"
+msgstr "Pengaturan Plugin Impor"
+
+#: backend/menupage/tools.php:121
+msgid "Import Keyword Configurations from WordPress"
+msgstr "Impor Konfigurasi Kata Kunci dari WordPress"
+
+#: backend/menupage/tools.php:110
+msgid "File Export"
+msgstr "Berkas Ekspor"
+
+#: backend/menupage/tools.php:105
+msgid "File Import"
+msgstr "Berkas Impor"
+
+#: backend/menupage/tools.php:101
+msgid "Tools for data import and export"
+msgstr "Peralatan untuk impor dan ekspor data"
+
+#: backend/menupage/tools.php:87
+msgid "The upload exceeds the maximum allowed file size."
+msgstr "Ukuran berkas yang diunggah melewati batas maksimal."
+
+#: backend/menupage/tools.php:86
+msgid "Import completed successfully."
+msgstr "Pengimporan berhasil."
+
+#: backend/menupage/tools.php:85
+msgid "The upload was successful. You can now start importing the uploaded data."
+msgstr "Pengunggahan berhasil. Anda sekarang dapat memulai pengimporan data yang telah diunggah."
+
+#: backend/menupage/tools.php:84
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: backend/menupage/tools.php:83
+msgid "Start import"
+msgstr "Mulai impor"
+
+#: backend/menupage/tools.php:82
+msgid "Close"
+msgstr "Tutup"
+
+#: backend/menupage/tools.php:81
+msgid "An error occured. Please try again."
+msgstr "Terjadi eror. Silakan coba lagi."
+
+#: backend/menupage/tools.php:80
+msgid "Loading"
+msgstr "Memuat"
+
+#: backend/menupage/tools.php:35
+msgid "Import / Export"
+msgstr "Impor / Expor"
+
+#: backend/ratingnotifier.php:62
+msgid "Please remind me later"
+msgstr "Tolong ingatkan saya nanti"
+
+#: backend/ratingnotifier.php:62
+msgid "Of course, you deserve it"
+msgstr "Tentu, Anda pantas mendapatkannya"
+
+#: backend/ratingnotifier.php:61
+msgid "Thanks!"
+msgstr "Terima kasih!"
+
+#: backend/ratingnotifier.php:61
+msgid "Could you do us a big favor and <strong>give us your review on WordPress.org</strong>? This will help us to increase our visibility and to develop even <strong>more features for you</strong>."
+msgstr "Dapatkah Anda membantu kami dan <strong>tuliskan review Anda di WordPress.org</strong>? Hal tersebut akan meningkatkan visibilitas dan mendorong kami mengembangkan <strong>fitur-fitur baru untuk Anda</strong>."
+
+#: backend/ratingnotifier.php:61
+msgid "you have been using the Internal Link Juicer for a while now - that's great!"
+msgstr "Anda telah menggunakan Internal Link Juicer hingga saat ini - bagus!"
+
+#: backend/ratingnotifier.php:61
+msgid "Hey"
+msgstr "Hai"
+
+#: core/options/linkoutputinternal.php:49
+msgid "Template for the link output (keyword links)"
+msgstr "Templat untuk keluaran tautan (tautan kata kunci)"
+
+#: core/options/whitelist.php:35
+msgid "Whitelist of post types, that should be used for linking"
+msgstr "Daftar putih post type, yang harus digunakan untuk penautan"
+
+#: core/options/blacklist.php:43
+msgid "Posts that get configured here do not link to others automatically."
+msgstr "Pos yang diatur di sini tidak otomatis menaut ke yang lainnya"
+
+#: core/options/blacklist.php:35
+msgid "Blacklist of posts that should not be used for linking"
+msgstr "Daftar hitam pos yang harus digunakan untuk penautan"
+
+#: core/options/nolinktags.php:57
+msgid "Pro feature"
+msgstr "Fitur Pro"
+
+#: core/options/respectexistinglinks.php:67
+msgid "<small><strong>Attention: activation may have a negative effect on the index building time</strong></small>"
+msgstr "<small><strong>Perhatian: aktivasi bisa mengakibatkan efek negatif pada waktu pembuatan indeks</strong></small>"
+
+#: core/options/respectexistinglinks.php:59
+msgid "Prevents links to URLs that are already linked in the content"
+msgstr "Cegah tautan ke URL yang telah ditautkan dalam konten"
+
+#: core/options/respectexistinglinks.php:59
+msgid "Do not link already manually built link targets"
+msgstr "Jangan tautkan target tautan yang telah dibuat secara manual"
+
+#: core/options/respectexistinglinks.php:51
+msgid "Consideration of existing or manually created links"
+msgstr "Penilaian tautan yang sudah ada atau dibuat secara manual"
+
+#: core/options/taxonomywhitelist.php:59
+msgid "All terms within the allowed taxonomies can link to other posts or terms automatically."
+msgstr "Semua terma dalam taksonomi yang diizinkan dapat menaut ke pos atau terma lain secara otomatis."
+
+#: core/options/editorrole.php:52
+msgid "The minimum required capability to edit keywords."
+msgstr "Kapabilitas minimal yang diwajibkan untuk menyunting kata kunci."
+
+#: core/options/editorrole.php:44
+msgid "Minimum required user role for editing keywords"
+msgstr "Peran pengguna minimal yang diwajibkan untuk menyunting kata kunci"
+
+#: core/options/indexgeneration.php:66
+msgid "Any change affecting the index automatically updates the index."
+msgstr "Perubahan indeks secara otomatis memperbarui indeks."
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:80
+msgid "Automatic"
+msgstr "Otomatis"
+
+#: core/options/indexgeneration.php:66
+msgid "You are notified when changes are made in connection with the index and can decide when the index should get updated."
+msgstr "Anda diberitahu ketika perubahan dilakukan sehubungan dengan indeks dan dapat menentukan kapan indeks harus diperbarui."
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:79
+msgid "Manually"
+msgstr "Manual"
+
+#: core/options/indexgeneration.php:66
+msgid "manual"
+msgstr "manual"
+
+#: core/options/indexgeneration.php:61
+msgid "The index is not created by the plugin (you should set up a cronjob). Read more in our"
+msgstr "Indeks tidak diciptakan oleh plugin (Anda harus mengatur cronjob). Baca selengpanya di"
+
+#: core/options/indexgeneration.php:61 core/options/indexgeneration.php:78
+msgid "None"
+msgstr "Tidak ada"
+
+#: core/options/indexgeneration.php:53
+msgid "Choose your preferred approach for generating the index."
+msgstr "Pilih metode yang Anda sukai untuk membuat indeks."
+
+#: core/options/indexgeneration.php:45
+msgid "Index generation mode"
+msgstr "Mode pembuatan indeks"
+
+#: core/options/keepsettings.php:44
+msgid "If activated, all your configured keywords and your plugin settings will remain saved - if not, everything from Internal Link Juicer gets deleted when you deactivate the plugin."
+msgstr "Jika diaktifkan, semua kata kunci yang Anda buat dan pengaturan plugin akan tetap disimpan - jika tidak, segalanya dari Internal Link Juicer akan dihapus ketika Anda menonaktifkan plugin."
+
+#: core/options/keepsettings.php:36
+msgid "Keep configured keywords and plugin settings after plugin deactivation"
+msgstr "Simpan konfigurasi kata kunci dan pengaturan plugin setelah penonaktifan plugin"
+
+#: helper/options.php:29 backend/menupage/tools.php:119
+msgid "This feature is part of the Pro version"
+msgstr "Fitur ini bagian dari versi Pro"
+
+#: backend/column.php:27
+msgid "Configured keywords for internal linking"
+msgstr "Pengaturan kata kunci untuk penautan internal"
+
+#: backend/editor.php:201
+msgid "Click here to open"
+msgstr "Klik di sini untuk membuka"
+
+#: backend/editor.php:196
+msgid "Configure the gap dimension. It represents the number of keywords that appear between your other keywords dynamically. Learn more in our documentation:"
+msgstr "Atur dimensi pemisah. Hal ini menunjukkan jumlah kata kunci yang tampak antara kata kunci lainnya secara dinamis. Pelajari selengkapnya pada dokumentasi kami:"
+
+#: backend/editor.php:194
+msgid "Keywords get used <strong>case insensitive</strong>"
+msgstr "Kata kunci yang digunakan <strong>menghiraukan huruf besar/kecil</strong>"
+
+#: backend/menupage/dashboard.php:203
+msgid "Amount of configured keywords"
+msgstr "Jumlah pengaturan kata kunci"
+
+#: backend/menupage/dashboard.php:250 backend/menupage/includes/sidebar.php:68
+msgid "Upgrade Now!"
+msgstr "Upgrade Sekarang!"
+
+#: backend/menupage/settings.php:162
+msgid "You are going to overwrite the existing settings in this section with the defaults."
+msgstr "Anda sedang menimpa pengaturan yang ada di sini dengan pengaturan dasar."
+
+#: backend/menupage/settings.php:162
+msgid "Reset Options"
+msgstr "Atur Ulang  Pengaturan"
+
+#: backend/menupage/settings.php:133 backend/menupage/tools.php:116
+msgid "Upgrade to Pro now - unlock all features"
+msgstr "Upgrade ke Pro sekarang - buka semua fitur"
+
+#: backend/menupage/settings.php:42
+msgid "General"
+msgstr "Umum"
+
+#: core/options.php:320
+msgid "All settings related to the use of the plugin."
+msgstr "Semua plugin berhubungan dengan penggunaan plugin."
+
+#: core/options.php:319
+msgid "General Settings Section"
+msgstr "Bagian Pengaturan Umum"
+
+#: backend/menupage/includes/sidebar.php:58 backend/ratingnotifier.php:62
+msgid "Hide this information forever"
+msgstr "Sembunyikan informasi ini selamanya"
+
+#: core/options/nolinktags.php:43
+msgid "Content within the HTML tags that are configured here do not get used for linking."
+msgstr "Konten dalam tag HTML yang diatur di sini tidak digunakan untuk penautan."
+
+#: core/options/nolinktags.php:35
+msgid "Exclude HTML areas from linking"
+msgstr "Kesampingkan area HTML dari penautan"
+
+#: enumeration/tagexclusion.php:67
+msgid "Sourcecode"
+msgstr "Sourcecode"
+
+#: enumeration/tagexclusion.php:65
+msgid "Inline quotes"
+msgstr "Kutipan sebaris"
+
+#: enumeration/tagexclusion.php:63
+msgid "Italic text"
+msgstr "Teks miring"
+
+#: enumeration/tagexclusion.php:61
+msgid "Blockquotes"
+msgstr "Blok kutipan"
+
+#: enumeration/tagexclusion.php:59
+msgid "Unordered lists"
+msgstr "Daftar tak bernomor"
+
+#: enumeration/tagexclusion.php:57
+msgid "Ordered lists"
+msgstr "Daftar bernomor"
+
+#: enumeration/tagexclusion.php:55
+msgid "Image captions"
+msgstr "Keterangan gambar"
+
+#: enumeration/tagexclusion.php:53
+msgid "Tables"
+msgstr "Tabel"
+
+#: enumeration/tagexclusion.php:51
+msgid "Div container"
+msgstr "Kontainer Div"
+
+#: enumeration/tagexclusion.php:49
+msgid "Strong text"
+msgstr "Teks tebal"
+
+#: enumeration/tagexclusion.php:47
+msgid "Headlines"
+msgstr "Judul utama"
+
+#: backend/menupage/tour/pro.php:71
+msgid "Get these features (and many more) by <strong>unlocking</strong> our <strong>PRO version here</strong>"
+msgstr "Dapatkan fitur-fitur berikut (dan masih banyak lagi) dengan <strong>mengakses</strong> <strong>versi PRO kami di sini</strong>"
+
+#: backend/menupage/dashboard.php:194
+msgid "learn how it works"
+msgstr "pelajari bagaimana ini bekerja"
+
+#: backend/menupage/dashboard.php:194
+msgid "Start to set some keywords to your posts"
+msgstr "Mulai mengatur beberapa kata kunci untuk pos Anda"
+
+#: backend/menupage/includes/sidebar.php:66
+msgid "Unlimited possibilities by linking even from and to <strong>categories and tags</strong>."
+msgstr "Fitur tak terbatas dengan linking dari dan ke <strong>kategori and tag</strong>."
+
+#: backend/menupage/includes/sidebar.php:66
+msgid "Activate taxonomies"
+msgstr "Aktifkan taksonomi"
+
+#: backend/menupage/includes/sidebar.php:65
+msgid "Maximize your results with the comprehensive <strong>Statistics Dashboard</strong>."
+msgstr "Maksimalkan performa Anda dengan komprehensif <strong>Dasbor Statistik</strong>."
+
+#: backend/menupage/includes/sidebar.php:65
+msgid "Focused optimization"
+msgstr "Optimasi terfokus"
+
+#: backend/menupage/includes/sidebar.php:64
+msgid "<strong>Shortcode</strong> and <strong>settings</strong> to <strong>exclude</strong> specific areas of content <strong>from link creation</strong>."
+msgstr "<strong>Shortcode</strong> dan <strong>pengaturan</strong> untuk <strong>mengesampingkan</strong> area khusus pada konten <strong>dari pembuatan tautan</strong>."
+
+#: backend/menupage/includes/sidebar.php:64
+msgid "Maximum control"
+msgstr "Kontrol maksimal"
+
+#: backend/menupage/includes/sidebar.php:63
+msgid "More flexible linking with your own <strong>individual URLs</strong> as link targets."
+msgstr "Tautan yang lebih fleksibel dengan <strong>URL tunggal</strong> Anda sebagai target tautan."
+
+#: backend/menupage/includes/sidebar.php:63
+msgid "Individual Links"
+msgstr "Tautan Tunggal"
+
+#: backend/menupage/includes/sidebar.php:61
+msgid "Achieve even more with Internal Link Juicer Pro:"
+msgstr "Dapatkan fitur ekstra dengan Internal Link Juicer Pro:"
+
+#: backend/menupage/includes/sidebar.php:59
+msgid "Activate pro version"
+msgstr "Aktifkan versi pro"
+
+#: backend/menupage/tour/settings.php:75
+msgid "In the video, you can see how the individual settings impact linking behavior."
+msgstr "Dalam video, Anda dapat melihat bagaimana pengaturan tunggal mempengaruhi perangai tautan."
+
+#: backend/menupage/tour/settings.php:73
+msgid "<strong>Lowest word count first</strong>: Phrases with the lowest word count are preferred for linking."
+msgstr "<strong>Jumlah kata terendah pertama</strong>: Frasa dengan jumlah kata terendah disarankan untuk penautan."
+
+#: backend/menupage/tour/settings.php:71
+msgid "<strong>Highest word count first</strong>: Phrases with the highest word count are preferred for linking."
+msgstr "<strong>Jumlah kata terbanyak pertama</strong>: Frasa dengan jumlah kata terbanyak disarankan untuk penautan."
+
+#: backend/menupage/tour/settings.php:69
+msgid "<strong>First configured keyword links first</strong>: Keywords are used in the order you entered them into the Keyword Editor."
+msgstr "<strong>Tautan kata kunci pertama yang diatur</strong>: Kata kunci digunakan dalam urutan yang dimasukkan dalam Pengaturan Kata Kunci."
+
+#: backend/menupage/tour/settings.php:67
+msgid "There are a total of 3 different settings available:"
+msgstr "Total ada 3 pengaturan yang berbeda: "
+
+#: backend/menupage/tour/settings.php:65
+msgid "You can find the order settings in the Internal Link Juicer under the \"Content\" tab, just below the whitelist."
+msgstr "Anda dapat menemukan pengaturan pengurutan dalam Internal Link Juicer dalam tab \"Konten\", tepat di bawah daftar putih."
+
+#: backend/menupage/tour/settings.php:63
+msgid "Configure the order in which you want to use your configured keywords for linking. This gives you even more influence on <strong>whether longer or shorter phrases</strong> are linked."
+msgstr "Atur pengurutan yang mana akan digunakan untuk kata kunci yang diatur untuk penautan. Hal tersebut dapat mempengaruhi <strong>panjang atau pendeknya frasa</strong> yang ditautkan."
+
+#: backend/menupage/tour/settings.php:61
+msgid "Determine the order of configured keywords for linking"
+msgstr "Tentukan urutan kata kunci yang dikonfigurasi untuk ditautkan"
+
+#: backend/menupage/tour/settings.php:56
+msgid "In the video, you can see a model configuration of the whitelist and its effect on linking behavior."
+msgstr "Dalam video, Anda dapat melihat konfigurasi model daftar putih dan pengaruhnya terhadap perilaku tautan."
+
+#: backend/menupage/tour/settings.php:54
+msgid "The input field for the whitelist opens a list with all available post and page types. Select all types that you want to allow linking for. After saving, the setting will be active."
+msgstr "Kolom input untuk daftar putih membuka daftar dengan semua tipe pos dan halaman yang tersedia. Pilih semua tipe yang ingin Anda tautkan. Pengaturan akan aktif setelah disimpan."
+
+#: backend/menupage/tour/settings.php:52
+msgid "You can find the whitelist in the Internal Link Juicer settings under the “Content” tab. The whitelist setting is right under the blacklist setting."
+msgstr "Anda dapat menemukan daftar putih dalam pengaturan Internal Link Juicer di bawah tab \"Konten\". Pengaturan daftar putih tepat di bawah pengaturan daftar hitam."
+
+#: backend/menupage/tour/settings.php:50
+msgid "With the whitelist, you can <strong>include post and page types</strong> that you always want <strong>to be linked</strong>. This allows you to exclude complete post types from linking beyond the blacklist."
+msgstr "Dengan daftar putih, Anda dapat <strong>menyertakan jenis pos dan halaman</strong> yang Anda selalu ingin untuk <strong>ditautkan</strong>. Hal ini memungkinkan Anda untuk mengecualikan jenis pos lengkap dari penautan di luar daftar hitam."
+
+#: backend/menupage/tour/settings.php:47
+msgid "Whitelist: Define content types that should always be linked"
+msgstr "Daftar putih: Tentukan jenis konten yang harus selalu ditautkan"
+
+#: backend/menupage/tour/settings.php:42
+msgid "In the video, you can see how the blacklist is configured and what effects this setting has on the link."
+msgstr "Dalam video, Anda dapat melihat bagaimana daftar hitam dikonfigurasikan dan apa pengaruh pengaturan ini terhadap tautan."
+
+#: backend/menupage/tour/settings.php:40
+msgid "As a result, this article will no longer display auto-generated internal links."
+msgstr "Akibatnya, artikel ini tidak akan lagi menampilkan tautan internal yang dibuat secara otomatis."
+
+#: backend/menupage/tour/settings.php:38
+msgid "Save"
+msgstr "Simpan"
+
+#: backend/menupage/tour/settings.php:36
+msgid "Add it by clicking on the blacklist."
+msgstr "Tambahkan dengan mengklik pada daftar hitam."
+
+#: backend/menupage/tour/settings.php:34
+msgid "Find the desired post (or page)."
+msgstr "Temukan pos (atau halaman) yang diinginkan."
+
+#: backend/menupage/tour/settings.php:32
+msgid "The input field works like a keyword search. To <strong>exclude one or more posts from linking</strong>, follow this procedure:"
+msgstr "Ruas input berfungsi seperti pencarian kata kunci. Untuk <strong>mengecualikan satu atau beberapa pos dari penautan</strong>, ikuti prosedur berikut:"
+
+#: backend/menupage/tour/settings.php:30
+msgid "You can find the blacklist in the Internal Link Juicer settings under the \"Content\" tab."
+msgstr "Anda dapat menemukan daftar hitam dalam pengaturan Internal Link Juicer dalam tab \"Konten\"."
+
+#: backend/menupage/tour/settings.php:28
+msgid "To <strong>prevent unwanted linking</strong>, you can take advantage of the blacklist feature. This feature excludes specific content from link building and gives you full control over link behavior at all times."
+msgstr "Untuk <strong>mencegah penautan yang tidak diinginkan</strong>, Anda dapat menggunakan fitur daftar hitam. Fitur ini mengesampingkan konten dari pembentukan tautan dan memberikan kendali penuh pada perilaku tautan sepanjang masa."
+
+#: backend/menupage/tour/settings.php:25
+msgid "Blacklist: Exclude any content from linking"
+msgstr "Daftar hitam: Kesampingkan konten dari penautan"
+
+#: backend/menupage/tour/settings.php:21
+msgid "Brief introduction to the most important settings"
+msgstr "Pengenalan singkat untuk pengaturan yang paling penting"
+
+#: backend/menupage/tour/links.php:53
+msgid "Watch the video and you will see this feature demonstrated in depth."
+msgstr "Tonton video dan Anda akan melihat fitur ini didemonstrasikan secara maksimal."
+
+#: backend/menupage/tour/links.php:53
+msgid "Check the “<strong>link as often as possible</strong>” box. If you activate this setting, there will be no consideration for the maximum number of links or maximum frequency of identical target URLs. Wherever a link is possible, this setting will create a link."
+msgstr "Centang \"<strong>tautan sesering mungkin</strong>\". Jika Anda mengaktifkan pengaturan ini, akan tidak ada ketentuan jumlah maksimal dari tautan atau frekuensi maksimal dari target URL yang identik. Ketika mampu, pengaturan ini akan menciptakan sebuah tautan."
+
+#: backend/menupage/tour/links.php:53
+msgid "Set the “<strong>maximum frequency per post</strong>” of how much a post can link to a single destination URL. Here, the value \"0\" also allows linking the maximum destination URLs, even if they are identical."
+msgstr "Atur \"<strong>frekuensi maksimal per pos</strong>\" untuk jumlah pos dapat menaut ke tujuan URL tunggal. Di sini, nilai \"0\" dapat penautan tujuan URL maksimal, bahkan jika URLnya identik."
+
+#: backend/menupage/tour/links.php:53
+msgid "Set the “<strong>maximum number of links per post</strong>” within a single content. With the value \"0,\" you link all possible keywords."
+msgstr "Atur \"<strong>jumlah maksimal untuk tautan per pos</strong>\" dalam konten tunggal. Nila \"0\" berarti Anda menautkan semua kemungkinan kata kunci."
+
+#: backend/menupage/tour/links.php:53
+msgid "Overall, you have the following options available, which cover all use cases:"
+msgstr "Secara keseluruhan, Anda mempunyai opsi-opsi berikut, yang mencakup semua keperluan:"
+
+#: backend/menupage/tour/links.php:53
+msgid "These settings can be found in the Internal Link Juicer settings under the \"Content\" tab."
+msgstr "Pengaturan ini dapat ditemukan dalam pengaturan Internal Link Juicer dalam tab \"Konten\"."
+
+#: backend/menupage/tour/links.php:53
+msgid "With this feature, you can actively control link frequencies. You can limit the maximum number of links built, or allow multiple linking of the same destination URL from the same content."
+msgstr "Dengan fitur ini, Anda dapat secara aktif mengontrol frekuensi tautan. Anda dapat membatasi jumlah maksimum tautan yang dibangun, atau menggunakan beberapa tautan dari URL tujuan yang sama dari konten yang sama."
+
+#: backend/menupage/tour/links.php:52
+msgid "Individually control link frequencies according to your needs"
+msgstr "Kontrol frekuensi tautan secara individual sesuai dengan kebutuhan Anda"
+
+#: backend/menupage/tour/links.php:47
+msgid "The video shows you one example of how to mask the built links using JavaScript."
+msgstr "Video ini menunjukkan kepada Anda satu contoh cara menutupi tautan yang dibangun menggunakan JavaScript."
+
+#: backend/menupage/tour/links.php:45
+msgid "There you can update the output of a link using your own HTML code. The template tags <code>{{url}}</code> and <code>{{anchor}}</code> are available. In your content, these placeholders will later be replaced by the corresponding parameters (link target and anchor text)."
+msgstr "Di sana Anda dapat memperbarui output tautan menggunakan kode HTML Anda sendiri. Tersedia tag templat <code>{{url}}</code> dan <code>{{anchor}}</code>. Di konten Anda, placeholder ini nantinya akan diganti oleh parameter yang sesuai (target tautan dan teks anchor)."
+
+#: backend/menupage/tour/links.php:43
+msgid "You can find the link template settings within the plugin settings under the \"Links\" tab."
+msgstr "Anda dapat menemukan pengaturan templat tautan dalam pengaturan plugin dalam tab \"Tautan\"."
+
+#: backend/menupage/tour/links.php:41
+msgid "With the help of the template feature, you can <strong>change and individualize the output</strong> of internal links."
+msgstr "Dengan bantuan fitur templat, Anda dapat <strong>mengubah dan mengatur masing-masing keluaran</strong> dari tautan internal."
+
+#: backend/menupage/tour/links.php:38
+msgid "Easily customize outputs using templates"
+msgstr "Atur output dengan mudah menggunakan templat"
+
+#: backend/menupage/tour/links.php:33
+msgid "The video shows an example of two different posts getting linked."
+msgstr "Video menunjukkan contoh dua post berbeda yang ditautkan."
+
+#: backend/menupage/tour/links.php:31
+msgid "The plugin works with its <strong>own index</strong> for internal links. It <strong>updates automatically</strong> after you edit content or keywords. This won’t affect your website’s <strong>quick loading times</strong>. This aspect makes the Internal Link Juicer <strong>distinct from other plugins</strong> with similar functionality."
+msgstr "Plugin berfungsi dengan <strong>indeksnya sendiri</strong> untuk tautan internal. Hal tersebut <strong>diperbarui secara otomatis</strong> setelah Anda mengedit konten atau kata kunci. Hal tersebut tidak akan mempengaruhi <strong>kecepaan waktu muat</strong> situs web Anda. Aspek tersebut membuat Internal Link Juicer <strong>berbeda dari plugin lainnya</strong> yang mempunyai fitur serupa."
+
+#: backend/menupage/tour/links.php:29
+msgid "As soon as you save keywords for your content, the internal links are activated."
+msgstr "Tautan internal segera diaktifkan setelah Anda menyimpan kata kunci untuk konten Anda."
+
+#: backend/menupage/tour/links.php:25
+msgid "Auto-generate link outputs"
+msgstr "Keluaran tautan otomatis"
+
+#: backend/menupage/tour/links.php:21
+msgid "Learn how to influence the linking behavior"
+msgstr "Pelajari cara memengaruhi perilaku penautan"
+
+#: backend/menupage/tour/editor.php:67
+msgid "In the video, you can see an example of how to configure gaps."
+msgstr "Dalam video, Anda dapat melihat contoh cara mengonfigurasi kesenjangan."
+
+#: backend/menupage/tour/editor.php:65
+msgid "The adjacent words are constant and included in the link. The gap keywords are variable."
+msgstr "Kata-kata yang berdekatan adalah konstan dan termasuk dalam tautan. Kata kesenjangan kata kunci berupa variabel."
+
+#: backend/menupage/tour/editor.php:63
+msgid "<strong>\"Maximum\" Type</strong>: A phrase is linked if there are at least 3 or more words between the adjacent words."
+msgstr "<strong>Tipe \"Maksimal\"</strong>: Sebuah frasa ditautkan jika terdapat setidaknya 3 kata atau lebih di antara kata-kata yang berdekatan."
+
+#: backend/menupage/tour/editor.php:62
+msgid "<strong>\"Exact\" Type</strong>:  A phrase is linked if there are exactly 3 words between the adjacent words."
+msgstr "<strong>Tipe \"Tepat\"</strong>: Sebuah frasa ditautkan jika terdapat tepat 3 kata di antara kata-kata yang berdekatan."
+
+#: backend/menupage/tour/editor.php:61
+msgid "<strong>\"Minimal\" Type</strong>: A phrase is linked if there are one to three words between the adjacent words."
+msgstr "<strong>Tipe \"Minimal\"</strong>: Sebuah frasa terhubung jika terdapat satu hingga tiga kata di antara kata-kata yang berdekatan."
+
+#: backend/menupage/tour/editor.php:59
+msgid "You have 3 options to define gaps. Assuming the configured gap value is 3, it behaves in the following ways, depending on the gap type:"
+msgstr "Anda memiliki 3 opsi untuk menentukan kesenjangan. Dengan asumsi nilai celah yang dikonfigurasi adalah 3, itu berperilaku dalam cara berikut, tergantung pada jenis celah:"
+
+#: backend/menupage/tour/editor.php:58
+msgid "The gap feature can be activated by clicking on the link in the Keyword Editor (below the input field)."
+msgstr "Fitur celah dapat diaktifkan dengan mengklik tautan di Penyunting Kata Kunci (di bawah kolom input)."
+
+#: backend/menupage/tour/editor.php:56
+msgid "That’s because you no longer just link to well-defined keywords or phrases. This feature makes it possible to define constant words of a phrase and to <strong>freely create variations</strong> in the gap between them."
+msgstr "Hal tersebut dikarenakan Anda tidak hanya menautkan ke kata kunci atau frasa yang disusun dengan baik. Fitur ini memungkinkan untuk menyusun kata-kata yang konstan dari sebuah frase dan untuk <strong>membuat variasi secara bebas</strong> pada rentang di antara mereka."
+
+#: backend/menupage/tour/editor.php:54
+msgid "With the help of the intelligent gap feature, you can <strong>diversify your anchor texts</strong> even better. You can get a more organic link profile and <strong>cover a wider range</strong> of possible links."
+msgstr "Dengan bantuan fitur intelligent gap, Anda dapat <strong>membuat variasi teks anchor Anda</strong> dengan lebih baik. Anda bisa mendapatkan profil tautan yang lebih organik dan <strong>menjangkau lebih luas</strong> dari tautan potensial."
+
+#: backend/menupage/tour/editor.php:51
+msgid "Create smart links with the gap feature"
+msgstr "Buat tautan pintar dengan fitur celah"
+
+#: backend/menupage/tour/editor.php:46
+msgid "The video shows an example of how to assign a keyword to a post."
+msgstr "Video menunjukkan contoh cara menentukan kata kunci ke post."
+
+#: backend/menupage/tour/editor.php:44
+msgid "You can add your desired keywords one by one or by seperating them with commas."
+msgstr "Anda dapat menambah kata kunci yang diinginkan satu per satu dengan memisahkannya dengan tanda koma."
+
+#: backend/menupage/tour/editor.php:42
+msgid "Add your desired keyword to the appropriate input field and confirm using the Enter key (or by clicking the button)."
+msgstr "Tambahkan kata kunci yang Anda inginkan ke bidang input yang sesuai dan konfirmasikan dengan menekan tombol Enter (atau dengan mengklik tombol)."
+
+#: backend/menupage/tour/editor.php:40
+msgid "With the help of the Keyword Editor, you can <strong>assign keywords to a post</strong>, which it will then use for internal links."
+msgstr "Anda dapat menggunakan fitur Penyunting Kata Kunci untuk <strong>menetapkan kata kunci pada sebuah pos</strong>, yang nantinya akan digunakan untuk tautan internal."
+
+#: backend/menupage/tour/editor.php:37
+msgid "Add keywords to your content"
+msgstr "Tambahkan kata kunci menuju konten Anda"
+
+#: backend/menupage/tour/editor.php:32
+msgid "In the video, we'll show you how to get to the Keyword Editor of a post or page."
+msgstr "Dalam video, kami akan menunjukkan kepada Anda cara menuju Penyunting Kata Kunci dari sebuah post atau halaman."
+
+#: backend/menupage/tour/editor.php:30
+msgid "You can find the Keyword Editor anytime you edit content (whether pages or posts). It’s located on the <strong>right-hand sidebar</strong> within the editor window."
+msgstr "Anda dapat menggunakan fitur Penyunting Kata Kunci saat Anda menyunting konten (baik halaman maupun pos). Anda dapat mengaksesnya dari <strong>bilah sisi sebelah kanan</strong> dalam layar penyunting."
+
+#: backend/menupage/tour/editor.php:28
+msgid "The <strong>Keyword Editor</strong> is the heart of the Internal Link Juicer. With its help, you can <strong>configure keywords</strong> for your posts, which will later form the link text for each post."
+msgstr "Fitur <strong>Penyunting Kata Kunci</strong> merupakan inti dari Internal Link Juicer. Fitur ini membantu Anda <strong>mengatur kata kunci</strong> untuk pos Anda, yang nantinya menjadi teks tautan dalam setiap pos."
+
+#: backend/menupage/tour/editor.php:25
+msgid "Find the Keyword Editor"
+msgstr "Temukan Penyunting Kata Kunci"
+
+#: backend/menupage/tour/editor.php:21
+msgid "Begin with setting up keywords for your posts and pages"
+msgstr "Mulai mengatur kata kunci untuk pos dan halaman Anda"
+
+#: backend/menupage/tour/intro.php:27
+msgid "We show you the most important functions of the Internal Link Juicer in a few minutes. With that you are able to start immediately and get the maximum out of your internal links."
+msgstr "Kami menunjukkan kepada Anda fungsi terpenting dari Internal Link Juicer dalam beberapa menit. Sehingga Anda dapat segera memulai dan memperoleh hasil maksimal dari tautan internal Anda."
+
+#: backend/menupage/tour/intro.php:26
+msgid "Start the tour through the plugin"
+msgstr "Mulai tur dengan plugin"
+
+#: backend/menupage/tour/pro.php:58
+msgid "The video shows you everything you need to know about the Statistics Dashboard."
+msgstr "Video menunjukkan semua yang perlu Anda ketahui tentang Dasbor Statistik."
+
+#: backend/menupage/tour/pro.php:56
+msgid "You can find the advanced statistics directly in the Statistics Dashboard for the plugin. Here you can <strong>sort and filter</strong> as you like. You can also get information about the links when clicking on the corresponding content or anchor text."
+msgstr "Anda dapat menemukan statistik lengkap secara langsung dalam Dasbor Statistik plugin. Di sini Anda dapat melakukan<strong>penyusunan dan penyaringan</strong> sesuai keinginan Anda. Anda juga dapat menemukan informasi tentang tautan ketika mengklik konten atau teks anchor terkait."
+
+#: backend/menupage/tour/pro.php:54
+msgid "With the <strong>extended Statistics Dashboard</strong>, you can <strong>analyze</strong> your automated internal links to the maximum. This feature identifies pages that have too many or few inbound/outbound links. You can use this information to <strong>proactively improve internal linking</strong> optimization."
+msgstr "Anda dapat <strong>menganalisis</strong> tautan internal otomatis Anda secara maksimal dengan fitur <strong>Dasbor Statistik yang diperluas</strong>. Fitur ini dapat mengidentifikasi halaman yang memiliki terlalu banyak atau sedikit tautan masuk/keluar (inbound/outbound). Anda dapat menggunakan informasi ini untuk <strong>optimisasi meningkatkan tautan internal secara proaktif</strong>."
+
+#: backend/menupage/tour/pro.php:52
+msgid "Optimize links to the max with extensive statistical insight"
+msgstr "Optimalkan tautan secara maksimal dengan wawasan statistik yang luas"
+
+#: backend/menupage/tour/pro.php:47
+msgid "The video shows you how to link a post from a category description. In the same example, the article links from its own content back to the category page."
+msgstr "Video menunjukkan kepada Anda bagaimana menautkan pos dari deskripsi kategori. Dalam contoh yang sama, artikel tersebut menghubungkan dari kontennya sendiri kembali ke halaman kategori."
+
+#: backend/menupage/tour/pro.php:45
+msgid "For taxonomies, you’ll find your own blacklist and whitelist. After activating the Pro version, the Keyword Editor includes taxonomies and allows you to assign keywords for them. From then on, even <strong>taxonmy descriptions</strong> are used as linkable content."
+msgstr "Untuk taksonomi, Anda akan menemukan daftar hitam dan daftar putih Anda sendiri. Setelah mengaktifkan versi Pro, Penyunting Kata Kunci memuat taksonomi dan memungkinkan Anda untuk menetapkan kata kunci untuknya. Selanjutnya, bahkan <strong>keterangan taksonomi</strong> dapat digunakan sebagai konten yang dapat ditautkan."
+
+#: backend/menupage/tour/pro.php:43
+msgid "In our Pro version, you will not only set links for posts and pages, but also <strong>taxonomies such as categories and tags</strong>. This gives you even more flexibility when creating internal links."
+msgstr "Dengan versi Pro kami, Anda tidak hanya akan dapat menetapkan tautan untuk pos dan halaman, tetapi juga <strong>taksonomi seperti kategori dan tag</strong>. Fitur ini memberi Anda kelebihan fleksibilitas saat membuat tautan internal."
+
+#: backend/menupage/tour/pro.php:40
+msgid "Automatically link categories and tags for even wider coverage"
+msgstr "Otomatis menautkan kategori dan tag untuk cakupan yang lebih luas"
+
+#: backend/menupage/tour/pro.php:35
+msgid "In the video, you see one example of linking to an external Wikipedia article."
+msgstr "Dalam video, Anda melihat satu contoh penautan ke artikel Wikipedia eksternal."
+
+#: backend/menupage/tour/pro.php:33
+msgid "Like ordinary posts, these links are equipped with the Keyword Editor. To create a new custom link, you can add the <strong>destination URL</strong>, as well as any <strong>related keywords</strong>. The configuration takes effect immediately."
+msgstr "Seperti pos pada umumnya, tautan tersebut dilengkapi dengan fitur Penyunting Kata Kunci. Untuk membuat tautan khusus baru, Anda dapat menambahkan <strong>URL tujuan</strong>, serta <strong>kata kunci terkait</strong>. Pengaturan diterapkan seketika."
+
+#: backend/menupage/tour/pro.php:31
+msgid "Settings for this feature can be found in the Internal Link Juicer menu under \"Custom Links”, where you can list current links and create new individual links in no time."
+msgstr "Pengaturan untuk fitur ini dapat ditemukan di menu Internal Link Juicer dalam \"Tautan Khusus\", di mana Anda dapat membuat daftar tautan yang ada dan membuat tautan baru dalam waktu singkat."
+
+#: backend/menupage/tour/pro.php:29
+msgid "With the custom links feature, you assign <strong>keywords to any URLs</strong> for automatic linking. In this way, you can create <strong>affiliate links</strong> or add <strong>content from foreign domains</strong>."
+msgstr "Dengan fitur tautan khusus, Anda dapat menetapkan <strong>kata kunci ke URL mana saja</strong> untuk penautan otomatis. Dengan cara ini, Anda dapat membuat <strong>tautan afiliasi</strong> atau menambahkan <strong>konten dari domain luar</strong>."
+
+#: backend/menupage/tour/pro.php:26
+msgid "Enjoy maximum freedom with custom links"
+msgstr "Nikmati kebebasan maksimal dengan tautan khusus"
+
+#: backend/menupage/tour/pro.php:22
+msgid "Reach even more with Pro!"
+msgstr "Dapatkan fitur lengkap dengan versi Pro!"
+
+#: backend/menupage/tour.php:199
+msgid "Previous page"
+msgstr "Halaman sebelumnya"
+
+#: backend/menupage/tour.php:189
+msgid "Back to dashboard"
+msgstr "Kembali ke dasbor"
+
+#: backend/menupage/tour.php:189
+msgid "Skip interactive tour"
+msgstr "Lewati tur interaktif"
+
+#: backend/menupage/tour.php:188
+msgid "Next page"
+msgstr "Halaman berikutnya"
+
+#: backend/menupage/tour.php:188
+msgid "Finish tutorial"
+msgstr "Akhiri tutorial"
+
+#: backend/menupage/tour.php:188
+msgid "Start the tutorial now"
+msgstr "Mulai tutorial sekarang"
+
+#: backend/menupage/tour.php:171
+msgid "Interactive tutorial"
+msgstr "Tutorial interaktif"
+
+#: backend/menupage/tour.php:62
+msgid "Advanced linking with pro version"
+msgstr "Tautan lanjutan dengan versi pro"
+
+#: backend/menupage/tour.php:57
+msgid "Discover the most important settings"
+msgstr "Temukan pengaturan paling penting"
+
+#: backend/menupage/tour.php:52
+msgid "Adjust the link behavior"
+msgstr "Atur perilaku tautan"
+
+#: helper/ajax.php:95 backend/menupage/dashboard.php:333
+msgid "Open"
+msgstr "Buka"
+
+#: helper/ajax.php:94 backend/menupage/dashboard.php:332
+msgid "Edit"
+msgstr "Sunting"
+
+#: helper/ajax.php:87 backend/menupage/dashboard.php:318
+msgid "Action"
+msgstr "Aksi"
+
+#: backend/menupage/dashboard.php:318
+msgid "Page"
+msgstr "Laman"
+
+#: backend/menupage/dashboard.php:141
+msgid "Get help through our forum"
+msgstr "Dapatkan bantuan melalui forum kami"
+
+#: backend/menupage/dashboard.php:141
+msgid "Request support"
+msgstr "Minta bantuan"
+
+#: backend/menupage/dashboard.php:137
+msgid "A quick guided tutorial"
+msgstr "Tutorial cepat dengan panduan"
+
+#: backend/menupage/dashboard.php:137 backend/menupage/tour.php:72
+msgid "Interactive Tour"
+msgstr "Tur Interaktif"
+
+#: backend/menupage/dashboard.php:133
+msgid "Learn how to use the plugin"
+msgstr "Pelajari cara menggunakan plugin"
+
+#: backend/menupage/dashboard.php:133
+msgid "Docs & How To"
+msgstr "Dokumentasi & Panduan"
+
+#: backend/menupage/dashboard.php:81
+msgid "Installed version"
+msgstr "Versi terinstal"
+
+#: enumeration/keywordorder.php:44
+msgid "Lowest word count gets linked first"
+msgstr "Hitungan kata terendah akan ditautkan terlebih dahulu"
+
+#: enumeration/keywordorder.php:42
+msgid "Highest word count gets linked first"
+msgstr "Hitungan kata terbanyak akan ditautkan terlebih dahulu"
+
+#: enumeration/keywordorder.php:40
+msgid "First configured keyword gets linked first"
+msgstr "Kata kunci pertama yang dikonfigurasi akan ditautkan terlebih dahulu"
+
+#: core/options/keywordorder.php:43
+msgid "Set the order of how your set keywords get used for building links."
+msgstr "Tetapkan urutan bagaimana rangkaian kata kunci Anda digunakan untuk membangun tautan."
+
+#: core/options/keywordorder.php:35
+msgid "Order for configured keywords while linking"
+msgstr "Urutan kata kunci yang diatur saat penautan"
+
+#: backend/editor.php:210
+msgid "Maximum amount of keywords within the gap."
+msgstr "Jumlah kata kunci maksimal antar celah."
+
+#: backend/menupage/includes/sidebar.php:43
+msgid "Thank you for using the Internal Link Juicer!"
+msgstr "Terima kasih telah menggunakan Internal Link Juicer!"
+
+#: backend/menupage/includes/sidebar.php:38
+msgid "Give us your review"
+msgstr "Berikan ulasan Anda"
+
+#: backend/menupage/includes/sidebar.php:36
+msgid "Do you like the plugin? Then <strong>please rate us</strong> or <strong>tell your friends</strong> about the Internal Link Juicer."
+msgstr "Apakah Anda menyukai plugin ini? Selanjutnya <strong>tolong beri rating kepada kami</strong> atau <strong>beri tahu teman Anda</strong> tentang Internal Link Juicer."
+
+#: backend/menupage/includes/sidebar.php:42
+msgid "Get in touch with us"
+msgstr "Terhubung dengan kami"
+
+#: backend/menupage/includes/sidebar.php:40
+msgid "Are you looking for a <strong>new feature</strong> or have <strong>suggestions for improvement</strong>? Have you <strong>found a bug</strong>? Please tell us about."
+msgstr "Apakah Anda menginginkan <strong>fitur baru</strong> atau mempunyai <strong>saran untuk peningkatan plugin</strong>? Pernahkah Anda <strong>menemukan bug</strong>? Tolong beritahu kami tentang hal tersebut."
+
+#: backend/menupage/includes/sidebar.php:33
+msgid "Support us"
+msgstr "Dukung kami"
+
+#: helper/help.php:66 backend/editor.php:221
+#: backend/menupage/includes/postbox.php:37
+msgid "Get help"
+msgstr "Dapatkan bantuan"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://internallinkjuicer.com"
+msgstr "https://internallinkjuicer.com"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Internal Link Juicer"
+msgstr "Internal Link Juicer"
+
+#. Description of the plugin
+msgid "A performant solution for high class internal linkbuilding automation."
+msgstr "Solusi handal untuk otomatisasi linkbuilding internal kelas tinggi."
+
+#: core/options/internalnofollow.php:43
+msgid "Sets the <code>rel=\"nofollow\"</code> attribute for keyword links (<strong>not recommended</strong>)."
+msgstr "Terapkan atribut <code>rel=\"nofollow\"</code> untuk tautan kata kunci (<strong>tidak disarankan</strong>)."
+
+#: core/options/internalnofollow.php:35
+msgid "NoFollow for internal keyword links"
+msgstr "NoFollow untuk tautan kata kunci internal"
+
+#: core/options/linkoutputcustom.php:59 core/options/linkoutputinternal.php:73
+msgid "You can use the placeholders <code>{{url}}</code> for the target and <code>{{anchor}}</code> for the generated anchor text."
+msgstr "Anda dapat menggunakan placeholder <code>{{url}}</code> untuk target dan <code>{{anchor}}</code> untuk teks anchor yang diciptakan."
+
+#: core/options/linkoutputinternal.php:57
+msgid "Markup for the output of generated internal links."
+msgstr "Markup untuk output tautan internal yang tercipta."
+
+#: core/options/linkoutputcustom.php:51
+msgid "Template for the link output (custom links)"
+msgstr "Templat untuk output tautan (tautan khusus)"
+
+#: core/options/multiplekeywords.php:44
+msgid "Deactivates all other restrictions"
+msgstr "Nonaktifkan semua pembatasan lainnya"
+
+#: core/options/multiplekeywords.php:44
+msgid "Allows posts and keywords to get linked as often as possible."
+msgstr "Izinkan pos dan kata kunci untuk ditautkan sesering mungkin."
+
+#: core/options/multiplekeywords.php:36
+msgid "Link as often as possible"
+msgstr "Tautkan sesering mungkin"
+
+#: core/options/linkspertarget.php:37
+msgid "Maximum frequency of how often a post gets linked within another one"
+msgstr "Frekuensi maksimal seberapa sering suatu post terhubung dengan yang lain"
+
+#: core/options/linkspertarget.php:45 core/options/linksperpage.php:45
+msgid "For an unlimited number of links, set this value to <code>0</code> ."
+msgstr "Untuk jumlah tautan yang tidak terbatas, isi dengan <code>0</code>."
+
+#: core/options/linksperpage.php:37
+msgid "Maximum amount of links per post"
+msgstr "Jumlah tautan maksimal tiap pos"
+
+#: core/options/whitelist.php:43
+msgid "All posts within the allowed post types can link to other posts automatically."
+msgstr "Semua pos dalam post type yang diizinkan dapat ditautkan ke pos lain secara otomatis."
+
+#: core/options/taxonomywhitelist.php:51
+msgid "Whitelist of taxonomies, that should be used for linking"
+msgstr "Daftar putih taksonomi, yang harus digunakan untuk penautan"
+
+#: core/options/termblacklist.php:59
+msgid "Terms that get configured here do not link to others automatically."
+msgstr "Terma-terma yang diatur di sini tidak menaut ke yang lain secara otomatis."
+
+#: core/options/termblacklist.php:51
+msgid "Blacklist of terms that should not be used for linking"
+msgstr "Daftar putih terma-terma yang tidak harus digunakan untuk penautan"
+
+#: core/options.php:328
+msgid "Setting options for the output of the generated links."
+msgstr "Opsi pengaturan untuk output tautan yang dibuat."
+
+#: core/options.php:327
+msgid "Links Settings Section"
+msgstr "Bagian Pengaturan Tautan"
+
+#: core/options.php:324
+msgid "Configure how the plugin should behave regarding the internal linking."
+msgstr "Atur bagaimana plugin seharusnya berperilaku sehubungan dengan tautan internal."
+
+#: core/options.php:323
+msgid "Content Settings Section"
+msgstr "Bagian Pengaturan Konten"
+
+#: backend/menupage/settings.php:58
+msgid "Links"
+msgstr "Tautan"
+
+#: backend/menupage/settings.php:50
+msgid "Content"
+msgstr "Konten"
+
+#: backend/menupage/settings.php:81
+msgid "Searching…"
+msgstr "Mencari..."
+
+#: backend/menupage/settings.php:80
+msgid "No results found"
+msgstr "Hasil tidak ditemukan"
+
+#: backend/menupage/settings.php:79
+msgid "Loading more results…"
+msgstr "Memuat hasil lainnya..."
+
+#: backend/menupage/settings.php:78
+msgid "Minimum characters to start search"
+msgstr "Karakter minimal untuk memulai pencarian"
+
+#: backend/menupage/settings.php:77
+msgid "The results could not be loaded."
+msgstr "Hasil tidak dapat dimuat."
+
+#: core/app.php:275 backend/menupage/settings.php:37
+#: backend/menupage/settings.php:123
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: backend/menupage/dashboard.php:318 backend/menupage/dashboard.php:350
+msgid "Count"
+msgstr "Jumlah"
+
+#: backend/menupage/dashboard.php:205
+msgid "seconds"
+msgstr "detik"
+
+#: backend/menupage/dashboard.php:205
+msgid "Duration for construction"
+msgstr "Durasi konstruksi"
+
+#: backend/menupage/dashboard.php:204
+msgid "at"
+msgstr "pada"
+
+#: backend/menupage/dashboard.php:204
+msgid "Last built"
+msgstr "Terakhir dibuat"
+
+#: backend/menupage/dashboard.php:202
+msgid "Amount of links in the index"
+msgstr "Jumlah tautan dalam indeks"
+
+#: backend/menupage/dashboard.php:193
+msgid "Index has no entries yet"
+msgstr "Indeks belum punya isi"
+
+#: helper/ajax.php:82
+msgid "There are no statistics to display"
+msgstr "Tidak ada statistik untuk ditampilkan"
+
+#: backend/menupage/dashboard.php:93
+msgid "Statistics"
+msgstr "Statistik"
+
+#: backend/menupage/dashboard.php:88
+msgid "Linkindex info"
+msgstr "Info Linkindex"
+
+#: backend/menupage/dashboard.php:84
+msgid "Plugin related"
+msgstr "Plugin terkait"
+
+#: backend/menupage/dashboard.php:29 backend/menupage/dashboard.php:78
+msgid "Dashboard"
+msgstr "Dasbor"
+
+#: backend/editor.php:220
+msgid "Minimum keyword gap:"
+msgstr "Celah kata kunci minimal:"
+
+#: backend/editor.php:219
+msgid "Maximum keyword gap:"
+msgstr "Celah kata kunci maksimal:"
+
+#: backend/editor.php:218
+msgid "Exact keyword gap:"
+msgstr "Celah kata kunci yang pas:"
+
+#: backend/editor.php:217
+msgid "No keywords configured."
+msgstr "Tidak ada kata kunci diatur."
+
+#: backend/editor.php:216
+msgid "Multiple consecutive placeholders are not allowed."
+msgstr "Placeholder lebih dari satu yang berurutan tidak diizinkan."
+
+#: backend/editor.php:215
+msgid "Length of given keyword not valid."
+msgstr "Panjang kata kunci yang diberikan tidak valid."
+
+#: backend/editor.php:214
+msgid "No keyword defined."
+msgstr "Kata kunci tidak ditentukan."
+
+#: backend/editor.php:213
+msgid "This keyword already exists."
+msgstr "Kata kunci ini sudah tersedia."
+
+#: helper/ajax.php:87 backend/editor.php:212
+msgid "Configured keywords"
+msgstr "Kata kunci yang diatur"
+
+#: backend/editor.php:211
+msgid "Insert gaps between keywords"
+msgstr "Masukkan celah antara kata kunci"
+
+#: backend/editor.php:209
+msgid "Exact amount of keywords within the gap."
+msgstr "Jumlah eksak kata kunci antar celah."
+
+#: backend/editor.php:208
+msgid "Minimum amount of keywords within the gap. No upper limits."
+msgstr "Jumlah minimal kata kunci antar celah. Tidak ada batas maksimal."
+
+#: backend/editor.php:207
+msgid "Maximum"
+msgstr "Maksimal"
+
+#: backend/editor.php:206
+msgid "Exact"
+msgstr "Eksak"
+
+#: backend/editor.php:205
+msgid "Minimum"
+msgstr "Minimal"
+
+#: backend/editor.php:204
+msgid "Gap type"
+msgstr "Jenis celah"
+
+#: backend/editor.php:203
+msgid "Add gap"
+msgstr "Tambah celah"
+
+#: backend/editor.php:202
+msgid "Keyword gaps"
+msgstr "Celah kata kunci"
+
+#: backend/editor.php:195
+msgid "Separate multiple keywords by commas"
+msgstr "Pisahkan deretan kata kunci dengan koma"
+
+#: backend/editor.php:193 backend/menupage/dashboard.php:350
+msgid "Keyword"
+msgstr "Kata kunci"
+
+#: backend/editor.php:192
+msgid "Add Keyword"
+msgstr "Tambah Kata Kunci"
+
+#: backend/editor.php:60
+msgid "The keywords"
+msgstr "Kata kunci"
+
+#: backend/editor.php:38 backend/adminmenu.php:46 backend/adminmenu.php:47
+msgid "Internal Links"
+msgstr "Tautan Internal"

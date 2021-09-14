@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Block Bad Queries (BBQ)\n"
+"POT-Creation-Date: 2017-05-04 00:23+0200\n"
+"PO-Revision-Date: 2017-05-04 00:57+0200\n"
+"Last-Translator: Bouzin <info@conceptiweb.com>\n"
+"Language-Team: Bouzin <info@conceptiweb.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: block-bad-queries.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bbq-settings.php:29
+msgid "Plugin Information"
+msgstr "Information sur l'extention"
+
+#: bbq-settings.php:32
+msgid "BBQ Version"
+msgstr "Version BBQ"
+
+#: bbq-settings.php:34
+msgid "Upgrade to BBQ Pro"
+msgstr "Passer à la version Pro"
+
+#: bbq-settings.php:49
+msgid "Thanks for using the free version of "
+msgstr "Merci d’utiliser la version gratuite de "
+
+#. Plugin Name of the plugin/theme
+#: bbq-settings.php:50
+msgid "Block Bad Queries (BBQ)"
+msgstr "Block Bad Queries (BBQ)"
+
+#: bbq-settings.php:51
+msgid ""
+"The free version is completely plug-&amp;-play, protecting your site "
+"automatically with no settings required."
+msgstr ""
+"La version gratuite est totalement plug-&amp;-play, protégeant votre site "
+"automatiquement sans aucun réglage requis."
+
+#: bbq-settings.php:58
+msgid ""
+"Upgrade your site security with advanced protection and complete control. "
+msgstr ""
+"Mise à jour de sécurité de votre site avec une protection avancée et un "
+"contrôle complet. "
+
+#: bbq-settings.php:59
+msgid "BBQ Pro: Advanced WordPress Firewall"
+msgstr "BBQ Pro : Firewall de pointe pour WordPress"
+
+#: bbq-settings.php:64
+msgid "Get BBQ Pro &raquo;"
+msgstr "Obtenez BBQ Pro &raquo;"
+
+#: bbq-settings.php:92
+msgid "Visit the BBQ plugin page"
+msgstr "Visitez la page du plugin BBQ"
+
+#: bbq-settings.php:93
+msgid "Settings"
+msgstr "Paramètres"
+
+#: bbq-settings.php:98
+msgid "Get BBQ Pro for advanced protection"
+msgstr "Obtenir BBQ Pro pour une protection avancée"
+
+#: bbq-settings.php:99
+msgid "Go&nbsp;Pro"
+msgstr "Go&nbsp;Pro"
+
+#: bbq-settings.php:118
+msgid "Click here to rate and review this plugin at WordPress.org"
+msgstr "Cliquez ici pour évaluer et noter ce plugin sur WordPress.org"
+
+#: bbq-settings.php:119
+msgid "Rate this plugin&nbsp;&raquo;"
+msgstr "Noter ce plugin&nbsp;&raquo;"
+
+#: bbq-settings.php:132 bbq-settings.php:143
+msgid "Block Bad Queries"
+msgstr "Block Bad Queries"
+
+#. Plugin URI of the plugin/theme
+msgid "https://perishablepress.com/block-bad-queries/"
+msgstr "https://perishablepress.com/block-bad-queries/"
+
+#. Description of the plugin/theme
+msgid ""
+"BBQ is a super fast firewall that automatically protects WordPress against "
+"malicious URL requests."
+msgstr ""
+"BBQ est un pare-feu super rapide qui protège automatiquement WordPress "
+"contre les demandes d'URL malveillantes."
+
+#. Author of the plugin/theme
+msgid "Jeff Starr"
+msgstr "Jeff Starr"
+
+#. Author URI of the plugin/theme
+msgid "https://plugin-planet.com/"
+msgstr "https://plugin-planet.com/"

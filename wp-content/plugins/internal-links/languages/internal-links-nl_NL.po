@@ -1,0 +1,1312 @@
+# Translation of Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-10 13:05:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Internal Link Juicer: SEO Auto Linker for WordPress - Stable (latest release)\n"
+
+#: backend/menupage/dashboard.php:302
+msgid "Custom Links"
+msgstr "Aangepaste links"
+
+#: backend/menupage/dashboard.php:301
+msgid "Taxonomies"
+msgstr "Taxonomieën"
+
+#: backend/menupage/dashboard.php:300
+msgid "Posts and Pages"
+msgstr "Berichten en pagina's"
+
+#: backend/menupage/dashboard.php:299
+msgid "Filter type"
+msgstr "Filter type"
+
+#: backend/menupage/dashboard.php:298
+msgid "No matching records found"
+msgstr "Geen overeenkomende records gevonden"
+
+#: backend/menupage/dashboard.php:297
+msgid "Search:"
+msgstr "Zoek:"
+
+#: backend/menupage/dashboard.php:296
+msgid "Processing..."
+msgstr "Aan het verwerken ..."
+
+#: backend/menupage/dashboard.php:295
+msgid "Loading..."
+msgstr "Aan het laden ..."
+
+#: backend/menupage/dashboard.php:294
+msgid "Show _MENU_ entries"
+msgstr "Toon _MENU_ items"
+
+#: backend/menupage/dashboard.php:293
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(gefilterd uit _MAX_ total items)"
+
+#: backend/menupage/dashboard.php:292
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Toont 0 tot 0 van 0 items"
+
+#: backend/menupage/dashboard.php:291
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Toont _START_ to _END_ of _TOTAL_ items"
+
+#: backend/menupage/dashboard.php:290
+msgid "No data available in table"
+msgstr "Geen gegevens beschikbaar in tabel"
+
+#: backend/menupage/dashboard.php:289
+msgid "Previous"
+msgstr "Vorige"
+
+#: backend/menupage/dashboard.php:288
+msgid "Next"
+msgstr "Volgende"
+
+#: backend/menupage/dashboard.php:287
+msgid "Last"
+msgstr "Laatste"
+
+#: backend/menupage/dashboard.php:286
+msgid "First"
+msgstr "Eerste"
+
+#: backend/menupage/dashboard.php:285
+msgid ": activate to sort column descending"
+msgstr ": activeren om de kolom aflopend te sorteren"
+
+#: backend/menupage/dashboard.php:284
+msgid ": activate to sort column ascending"
+msgstr ": activeren om de kolom oplopend te sorteren"
+
+#: backend/menupage/dashboard.php:282
+msgid "Outgoing links from"
+msgstr "Uitgaande links vanaf"
+
+#: backend/menupage/dashboard.php:281
+msgid "Incoming links to"
+msgstr "Inkomende links naar"
+
+#: backend/menupage/dashboard.php:250
+msgid "The additional index modes are part of our Pro version"
+msgstr "De aanvullende indexmodi maken deel uit van onze Pro-versie"
+
+#: backend/menupage/dashboard.php:235
+msgid "We recommend a switch to the WP-CLI mode through a cronjob."
+msgstr "We raden aan om via een cronjob over te schakelen naar de WP-CLI-modus."
+
+#: backend/menupage/dashboard.php:234
+msgid "We recommend a switch to the manual index mode."
+msgstr "We raden aan om over te schakelen naar de handmatige indexmodus."
+
+#: backend/menupage/dashboard.php:233
+msgid "Read more in our documentation"
+msgstr "Lees meer in onze documentatie"
+
+#: backend/menupage/dashboard.php:227
+msgid "The size of your link index is growing. This means that more time is needed to build the index."
+msgstr "De omvang van je linkindex groeit. Dit betekent dat er meer tijd nodig is om de index op te bouwen."
+
+#: backend/menupage/dashboard.php:161
+msgid "Anchor text statistics"
+msgstr "Ankertekst statistieken"
+
+#: backend/menupage/dashboard.php:160
+msgid "Link statistics"
+msgstr "Linkstatistieken"
+
+#: helper/ajax.php:222
+msgid "The detail view for anchor texts is part of the Pro version."
+msgstr "Het detailoverzicht voor ankerteksten is onderdeel van de Pro-versie."
+
+#: helper/ajax.php:197 helper/ajax.php:223
+msgid "Upgrade to Pro and view all"
+msgstr "Upgrade naar Pro en bekijk alles"
+
+#: helper/ajax.php:196
+msgid "With the free basic version you can view the first 3 links in the detail view."
+msgstr "Met de basis gratis versie kan je de eerste 3 links zien in de detailweergave."
+
+#: helper/ajax.php:160
+msgid "Source"
+msgstr "Bron"
+
+#: helper/ajax.php:158
+msgid "Target"
+msgstr "Doel"
+
+#: helper/ajax.php:129
+msgid "Show usage"
+msgstr "Toon gebruik"
+
+#: helper/ajax.php:122
+msgid "Frequency"
+msgstr "Frequentie"
+
+#: helper/ajax.php:122
+msgid "Word count"
+msgstr "Aantal woorden"
+
+#: helper/ajax.php:122
+msgid "Character count"
+msgstr "Aantal karakters"
+
+#: helper/ajax.php:122 helper/ajax.php:163 backend/menupage/dashboard.php:283
+msgid "Anchor text"
+msgstr "Ankertekst"
+
+#: helper/ajax.php:97
+msgid "Show outgoing links"
+msgstr "Toon uitgaande links"
+
+#: helper/ajax.php:96
+msgid "Show incoming links"
+msgstr "Toon inkomende links"
+
+#: helper/ajax.php:87
+msgid "Outgoing links"
+msgstr "Uitgaande links"
+
+#: helper/ajax.php:87
+msgid "Incoming links"
+msgstr "Inkomende links"
+
+#: helper/ajax.php:87 helper/ajax.php:163
+msgid "Type"
+msgstr "Type"
+
+#: helper/ajax.php:87
+msgid "Title"
+msgstr "Titel"
+
+#: core/compat.php:196 core/compat.php:204
+msgid "RankMath focus keywords"
+msgstr "RankMath focus keywords"
+
+#: core/compat.php:165 core/compat.php:173
+msgid "Yoast focus keywords"
+msgstr "Yoast focus keywords"
+
+#: helper/ajax.php:353
+msgid "Nothing to import or no data for import found."
+msgstr "Niets om te importeren of geen gegevens voor importeren gevonden."
+
+#: helper/ajax.php:338
+msgid "Timeout. Please try to upload again."
+msgstr "Time-out. Probeer opnieuw te uploaden."
+
+#: helper/ajax.php:298
+msgid "Your web host does not allow file uploads. Please fix the problem and try again."
+msgstr "Je webhost staat het uploaden van bestanden niet toe. Los dit probleem op en probeer het opnieuw."
+
+#: backend/menupage/tools.php:249
+msgid "Term titles"
+msgstr "Termtitels"
+
+#: backend/menupage/tools.php:235
+msgid "Import for Taxonomies from internal ressources"
+msgstr "Importeer voor taxonomieën vanuit interne bronnen"
+
+#: backend/menupage/tools.php:227 backend/menupage/tools.php:252
+msgid "Import"
+msgstr "Importeer"
+
+#: backend/menupage/tools.php:224
+msgid "Post titles"
+msgstr "Berichttitels"
+
+#: backend/menupage/tools.php:222 backend/menupage/tools.php:247
+msgid "Sources"
+msgstr "Bronnen"
+
+#: backend/menupage/tools.php:214 backend/menupage/tools.php:239
+msgid "Types to apply import"
+msgstr "Typen om import toe te passen"
+
+#: backend/menupage/tools.php:210
+msgid "Import for Posts and Pages from internal ressources"
+msgstr "Importeer voor berichten en pagina's vanuit interne bronnen"
+
+#: backend/menupage/tools.php:187
+msgid "Export empty configurations"
+msgstr "Exporteer lege configuraties"
+
+#: backend/menupage/tools.php:184
+msgid "With this feature all linkable content can be exported."
+msgstr "Met deze functie kan alle koppelbare inhoud worden geëxporteerd."
+
+#: backend/menupage/tools.php:183
+msgid "Export Keyword Configurations as CSV File"
+msgstr "Keywordconfiguratie exporteren als CSV-bestand"
+
+#: backend/menupage/tools.php:177 backend/menupage/tools.php:193
+msgid "Export"
+msgstr "Exporteer"
+
+#: backend/menupage/tools.php:176
+msgid "Export Plugin Settings"
+msgstr "Exporteer plugin-instellingen"
+
+#: backend/menupage/tools.php:156
+msgid "The column order and format of the CSV file must correspond to the format of our export."
+msgstr "De kolomvolgorde en het formaat van het CSV-bestand moeten overeenkomen met het formaat van onze export."
+
+#: backend/menupage/tools.php:154
+msgid "Import Keyword Configuration from CSV-File"
+msgstr "Importeer keywordconfiguratie uit CSV-bestand"
+
+#: backend/menupage/tools.php:146 backend/menupage/tools.php:158
+msgid "Upload file"
+msgstr "Upload bestand"
+
+#: backend/menupage/tools.php:144
+msgid "Only valid .json files, as generated from our export, are allowed."
+msgstr "Enkel geldige .json bestanden zoals ze door onze export worden gemaakt zijn toegelaten."
+
+#: backend/menupage/tools.php:142
+msgid "Import Plugin Settings"
+msgstr "Importeer plugin-instellingen"
+
+#: backend/menupage/tools.php:121
+msgid "Import Keyword Configurations from WordPress"
+msgstr "Importeer keyword configuraties van WordPress"
+
+#: backend/menupage/tools.php:110
+msgid "File Export"
+msgstr "Bestand exporteren"
+
+#: backend/menupage/tools.php:105
+msgid "File Import"
+msgstr "Bestand importeren"
+
+#: backend/menupage/tools.php:101
+msgid "Tools for data import and export"
+msgstr "Gereedschap om gegevens te importeren en exporteren"
+
+#: backend/menupage/tools.php:87
+msgid "The upload exceeds the maximum allowed file size."
+msgstr "De upload overschrijdt de maximaal toegestane bestandsgrootte."
+
+#: backend/menupage/tools.php:86
+msgid "Import completed successfully."
+msgstr "Import succesvol voltooid."
+
+#: backend/menupage/tools.php:85
+msgid "The upload was successful. You can now start importing the uploaded data."
+msgstr "De upload is gelukt. Je kan nu beginnen met het importeren van de geüploade gegevens."
+
+#: backend/menupage/tools.php:84
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: backend/menupage/tools.php:83
+msgid "Start import"
+msgstr "Start importeren"
+
+#: backend/menupage/tools.php:82
+msgid "Close"
+msgstr "Sluit"
+
+#: backend/menupage/tools.php:81
+msgid "An error occured. Please try again."
+msgstr "Er is een fout opgetreden. Probeer het opnieuw."
+
+#: backend/menupage/tools.php:80
+msgid "Loading"
+msgstr "Laden"
+
+#: backend/menupage/tools.php:35
+msgid "Import / Export"
+msgstr "Importeer/Exporteer"
+
+#: backend/ratingnotifier.php:62
+msgid "Please remind me later"
+msgstr "Herinner me later"
+
+#: backend/ratingnotifier.php:62
+msgid "Of course, you deserve it"
+msgstr "Natuurlijk, je verdient het"
+
+#: backend/ratingnotifier.php:61
+msgid "Thanks!"
+msgstr "Bedankt!"
+
+#: backend/ratingnotifier.php:61
+msgid "Could you do us a big favor and <strong>give us your review on WordPress.org</strong>? This will help us to increase our visibility and to develop even <strong>more features for you</strong>."
+msgstr "Kan je ons een groot plezier doen en <strong>ons een beoordeling geven op WordPress.org</strong>? Dit helpt om onze zichtbaarheid te vergroten en nog <strong>meer functies voor je te ontwikkelen</strong>."
+
+#: backend/ratingnotifier.php:61
+msgid "you have been using the Internal Link Juicer for a while now - that's great!"
+msgstr "je hebt Internal Link Juicer nu al even in gebruik - super!"
+
+#: backend/ratingnotifier.php:61
+msgid "Hey"
+msgstr "Hey"
+
+#: core/options/linkoutputinternal.php:49
+msgid "Template for the link output (keyword links)"
+msgstr "Template voor de linkuitvoer (keyword links)"
+
+#: core/options/whitelist.php:35
+msgid "Whitelist of post types, that should be used for linking"
+msgstr "Witte lijst met berichttypen, die moeten worden gebruikt om te linken"
+
+#: core/options/blacklist.php:43
+msgid "Posts that get configured here do not link to others automatically."
+msgstr "Berichten die hier worden geconfigureerd, linken niet automatisch naar anderen."
+
+#: core/options/blacklist.php:35
+msgid "Blacklist of posts that should not be used for linking"
+msgstr "Zwarte lijst met berichten die niet mogen worden gebruikt om te linken"
+
+#: core/options/nolinktags.php:57
+msgid "Pro feature"
+msgstr "Pro functie"
+
+#: core/options/respectexistinglinks.php:67
+msgid "<small><strong>Attention: activation may have a negative effect on the index building time</strong></small>"
+msgstr "<small><strong>Let op: activering kan een negatief effect hebben op de indexopbouwtijd</strong></small>"
+
+#: core/options/respectexistinglinks.php:59
+msgid "Prevents links to URLs that are already linked in the content"
+msgstr "Voorkomt links naar URL's die al in de inhoud zijn gelinkt"
+
+#: core/options/respectexistinglinks.php:59
+msgid "Do not link already manually built link targets"
+msgstr "Link niet al handmatig gebouwde linkdoelen"
+
+#: core/options/respectexistinglinks.php:51
+msgid "Consideration of existing or manually created links"
+msgstr "Overweging van bestaande of handmatig gemaakte links"
+
+#: core/options/taxonomywhitelist.php:59
+msgid "All terms within the allowed taxonomies can link to other posts or terms automatically."
+msgstr "Alle termen binnen de toegestane taxonomieën kunnen automatisch linken naar andere berichten of termen."
+
+#: core/options/editorrole.php:52
+msgid "The minimum required capability to edit keywords."
+msgstr "De minimaal vereiste capability om keywords te bewerken."
+
+#: core/options/editorrole.php:44
+msgid "Minimum required user role for editing keywords"
+msgstr "De minimaal vereiste gebruikersrol om keywords te bewerken"
+
+#: core/options/indexgeneration.php:66
+msgid "Any change affecting the index automatically updates the index."
+msgstr "Elke wijziging die van invloed is op de index, werkt de index automatisch bij."
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:80
+msgid "Automatic"
+msgstr "Automatisch"
+
+#: core/options/indexgeneration.php:66
+msgid "You are notified when changes are made in connection with the index and can decide when the index should get updated."
+msgstr "Je krijgt een melding wanneer er wijzigingen worden aangebracht in verband met de index en kan beslissen wanneer de index moet worden bijgewerkt."
+
+#: core/options/indexgeneration.php:66 core/options/indexgeneration.php:79
+msgid "Manually"
+msgstr "Handmatig"
+
+#: core/options/indexgeneration.php:66
+msgid "manual"
+msgstr "handleiding"
+
+#: core/options/indexgeneration.php:61
+msgid "The index is not created by the plugin (you should set up a cronjob). Read more in our"
+msgstr "De index is niet gemaakt door de plugin (je moet een cronjob instellen). Lees meer in onze"
+
+#: core/options/indexgeneration.php:61 core/options/indexgeneration.php:78
+msgid "None"
+msgstr "Geen"
+
+#: core/options/indexgeneration.php:53
+msgid "Choose your preferred approach for generating the index."
+msgstr "Kies je voorkeursmethode voor het genereren van de index."
+
+#: core/options/indexgeneration.php:45
+msgid "Index generation mode"
+msgstr "Index opbouwmethode"
+
+#: core/options/keepsettings.php:44
+msgid "If activated, all your configured keywords and your plugin settings will remain saved - if not, everything from Internal Link Juicer gets deleted when you deactivate the plugin."
+msgstr "Indien geactiveerd, blijven al je geconfigureerde keywords en je plugininstellingen bewaard - zo niet, dan wordt alles van Internal Link Juicer verwijderd wanneer je de plugin deactiveert."
+
+#: core/options/keepsettings.php:36
+msgid "Keep configured keywords and plugin settings after plugin deactivation"
+msgstr "Behoud geconfigureerde keywords en plugininstellingen na het deactiveren van de plugin"
+
+#: helper/options.php:29 backend/menupage/tools.php:119
+msgid "This feature is part of the Pro version"
+msgstr "Deze functie maakt deel uit van de Pro-versie"
+
+#: backend/column.php:27
+msgid "Configured keywords for internal linking"
+msgstr "Geconfigureerde keywords voor interne links"
+
+#: backend/editor.php:201
+msgid "Click here to open"
+msgstr "Klik hier om te openen"
+
+#: backend/editor.php:196
+msgid "Configure the gap dimension. It represents the number of keywords that appear between your other keywords dynamically. Learn more in our documentation:"
+msgstr "Configureer de grootte van de scheidingsruimte. Dit bepaalt het aantal keywords dat dynamisch tussen je andere keywords wordt weergegeven. Lees meer in onze documentatie:"
+
+#: backend/editor.php:194
+msgid "Keywords get used <strong>case insensitive</strong>"
+msgstr "Keywords worden <strong>hoofdletterongevoelig</strong> gebruikt"
+
+#: backend/menupage/dashboard.php:203
+msgid "Amount of configured keywords"
+msgstr "Aantal geconfigureerde keywords"
+
+#: backend/menupage/dashboard.php:250 backend/menupage/includes/sidebar.php:68
+msgid "Upgrade Now!"
+msgstr "Upgrade nu!"
+
+#: backend/menupage/settings.php:162
+msgid "You are going to overwrite the existing settings in this section with the defaults."
+msgstr "Je gaat de bestaande instellingen in deze sectie overschrijven met de standaardwaarden."
+
+#: backend/menupage/settings.php:162
+msgid "Reset Options"
+msgstr "Herstel opties"
+
+#: backend/menupage/settings.php:133 backend/menupage/tools.php:116
+msgid "Upgrade to Pro now - unlock all features"
+msgstr "Upgraden nu naar Pro - ontgrendel alle functies"
+
+#: backend/menupage/settings.php:42
+msgid "General"
+msgstr "Algemeen"
+
+#: core/options.php:320
+msgid "All settings related to the use of the plugin."
+msgstr "Alle instellingen met betrekking tot het gebruik van de plugin."
+
+#: core/options.php:319
+msgid "General Settings Section"
+msgstr "Algemene instellingen sectie"
+
+#: backend/menupage/includes/sidebar.php:58 backend/ratingnotifier.php:62
+msgid "Hide this information forever"
+msgstr "Verberg deze informatie permanent"
+
+#: core/options/nolinktags.php:43
+msgid "Content within the HTML tags that are configured here do not get used for linking."
+msgstr "Inhoud binnen de HTML-tags die hier zijn geconfigureerd, wordt niet gebruikt om te linken."
+
+#: core/options/nolinktags.php:35
+msgid "Exclude HTML areas from linking"
+msgstr "Sluit HTML-gebieden uit van linken"
+
+#: enumeration/tagexclusion.php:67
+msgid "Sourcecode"
+msgstr "Broncode"
+
+#: enumeration/tagexclusion.php:65
+msgid "Inline quotes"
+msgstr "Inline quotes"
+
+#: enumeration/tagexclusion.php:63
+msgid "Italic text"
+msgstr "Cursieve tekst"
+
+#: enumeration/tagexclusion.php:61
+msgid "Blockquotes"
+msgstr "Blockquotes"
+
+#: enumeration/tagexclusion.php:59
+msgid "Unordered lists"
+msgstr "Ongeordende lijsten"
+
+#: enumeration/tagexclusion.php:57
+msgid "Ordered lists"
+msgstr "Geordende lijsten"
+
+#: enumeration/tagexclusion.php:55
+msgid "Image captions"
+msgstr "Bijschriften van afbeeldingen"
+
+#: enumeration/tagexclusion.php:53
+msgid "Tables"
+msgstr "Tabellen"
+
+#: enumeration/tagexclusion.php:51
+msgid "Div container"
+msgstr "Div container"
+
+#: enumeration/tagexclusion.php:49
+msgid "Strong text"
+msgstr "Vette tekst"
+
+#: enumeration/tagexclusion.php:47
+msgid "Headlines"
+msgstr "Headlines"
+
+#: backend/menupage/tour/pro.php:71
+msgid "Get these features (and many more) by <strong>unlocking</strong> our <strong>PRO version here</strong>"
+msgstr "Krijg deze functies (en nog veel meer) door <strong>onze PRO-versie</strong> hier te ontgrendelen."
+
+#: backend/menupage/dashboard.php:194
+msgid "learn how it works"
+msgstr "leer hoe het werkt"
+
+#: backend/menupage/dashboard.php:194
+msgid "Start to set some keywords to your posts"
+msgstr "Begin met het instellen van enkele keywords voor je berichten"
+
+#: backend/menupage/includes/sidebar.php:66
+msgid "Unlimited possibilities by linking even from and to <strong>categories and tags</strong>."
+msgstr "Onbeperkte mogelijkheden door zelfs te linken van en naar <strong>categorieën en tags</strong>."
+
+#: backend/menupage/includes/sidebar.php:66
+msgid "Activate taxonomies"
+msgstr "Activeer taxonomieën"
+
+#: backend/menupage/includes/sidebar.php:65
+msgid "Maximize your results with the comprehensive <strong>Statistics Dashboard</strong>."
+msgstr "Maximaliseer je resultaten met het uitgebreide <strong>Statistieken Dashboard</strong>."
+
+#: backend/menupage/includes/sidebar.php:65
+msgid "Focused optimization"
+msgstr "Gerichte optimalisatie"
+
+#: backend/menupage/includes/sidebar.php:64
+msgid "<strong>Shortcode</strong> and <strong>settings</strong> to <strong>exclude</strong> specific areas of content <strong>from link creation</strong>."
+msgstr "<strong>Shortcode</strong> en <strong>instellingen</strong> om <strong>specifieke delen van de inhoud</strong> uit te sluiten <strong>van het maken van links</strong>."
+
+#: backend/menupage/includes/sidebar.php:64
+msgid "Maximum control"
+msgstr "Maximale controle"
+
+#: backend/menupage/includes/sidebar.php:63
+msgid "More flexible linking with your own <strong>individual URLs</strong> as link targets."
+msgstr "Flexibeler linken met je eigen <strong>individuele URL's</strong> als linkdoelen."
+
+#: backend/menupage/includes/sidebar.php:63
+msgid "Individual Links"
+msgstr "Individuele links"
+
+#: backend/menupage/includes/sidebar.php:61
+msgid "Achieve even more with Internal Link Juicer Pro:"
+msgstr "Bereik nog meer met Internal Link Juicer Pro:"
+
+#: backend/menupage/includes/sidebar.php:59
+msgid "Activate pro version"
+msgstr "Pro versie activeren"
+
+#: backend/menupage/tour/settings.php:75
+msgid "In the video, you can see how the individual settings impact linking behavior."
+msgstr "In de video kan je zien hoe de individuele instellingen het koppelingsgedrag beïnvloeden."
+
+#: backend/menupage/tour/settings.php:73
+msgid "<strong>Lowest word count first</strong>: Phrases with the lowest word count are preferred for linking."
+msgstr "<strong>Laagste aantal woorden eerst</strong>: woordgroepen met het laagste aantal woorden hebben de voorkeur om te linken."
+
+#: backend/menupage/tour/settings.php:71
+msgid "<strong>Highest word count first</strong>: Phrases with the highest word count are preferred for linking."
+msgstr "<strong>Hoogste aantal woorden eerst</strong>: woordgroepen met het hoogste aantal woorden hebben de voorkeur om te linken."
+
+#: backend/menupage/tour/settings.php:69
+msgid "<strong>First configured keyword links first</strong>: Keywords are used in the order you entered them into the Keyword Editor."
+msgstr "<strong>Eerst geconfigureerde keyword linkt eerst</strong>: keywords worden gebruikt in de volgorde waarin je ze in de keyword-editor hebtingevoerd."
+
+#: backend/menupage/tour/settings.php:67
+msgid "There are a total of 3 different settings available:"
+msgstr "Er zijn in totaal 3 verschillende instellingen beschikbaar:"
+
+#: backend/menupage/tour/settings.php:65
+msgid "You can find the order settings in the Internal Link Juicer under the \"Content\" tab, just below the whitelist."
+msgstr "Je kan de volgorde-instellingen vinden in de Internal Link Juicer onder het tabblad \"Inhoud\", net onder de witte lijst."
+
+#: backend/menupage/tour/settings.php:63
+msgid "Configure the order in which you want to use your configured keywords for linking. This gives you even more influence on <strong>whether longer or shorter phrases</strong> are linked."
+msgstr "Configureer de volgorde waarin je je geconfigureerde keywords wilt gebruiken om te linken. Dit geeft je nog meer invloed op of<strong>langere of kortere zinnen</strong> worden gelinkt."
+
+#: backend/menupage/tour/settings.php:61
+msgid "Determine the order of configured keywords for linking"
+msgstr "Bepaal de volgorde van de geconfigureerde keywords voor het koppelen"
+
+#: backend/menupage/tour/settings.php:56
+msgid "In the video, you can see a model configuration of the whitelist and its effect on linking behavior."
+msgstr "In de video zie je een modelconfiguratie van de witte lijst en het effect hiervan op het koppelingsgedrag."
+
+#: backend/menupage/tour/settings.php:54
+msgid "The input field for the whitelist opens a list with all available post and page types. Select all types that you want to allow linking for. After saving, the setting will be active."
+msgstr "Het invoerveld voor de witte lijst opent een lijst met alle beschikbare bericht- en paginatypes. Selecteer alle typen waarvoor je links wilt toestaan. Na het opslaan is de instelling actief."
+
+#: backend/menupage/tour/settings.php:52
+msgid "You can find the whitelist in the Internal Link Juicer settings under the “Content” tab. The whitelist setting is right under the blacklist setting."
+msgstr "Je kan de witte lijst vinden in de Internal Link Juicer-instellingen onder het tabblad \"Inhoud\". De instelling voor de witte lijst bevindt zich direct onder de instelling voor de zwarte lijst."
+
+#: backend/menupage/tour/settings.php:50
+msgid "With the whitelist, you can <strong>include post and page types</strong> that you always want <strong>to be linked</strong>. This allows you to exclude complete post types from linking beyond the blacklist."
+msgstr "Met de witte lijst kan je <strong>bericht- en paginatypes opnemen</strong> die je altijd <strong>wilt linken</strong>. Hiermee kan je volledige berichttypen uitsluiten van links buiten de zwarte lijst."
+
+#: backend/menupage/tour/settings.php:47
+msgid "Whitelist: Define content types that should always be linked"
+msgstr "Witte lijst: definieer inhoudstypen die altijd moeten worden gekoppeld"
+
+#: backend/menupage/tour/settings.php:42
+msgid "In the video, you can see how the blacklist is configured and what effects this setting has on the link."
+msgstr "In de video kan je zien hoe de zwarte lijst is geconfigureerd en welke effecten deze instelling heeft op de link."
+
+#: backend/menupage/tour/settings.php:40
+msgid "As a result, this article will no longer display auto-generated internal links."
+msgstr "Als gevolg hiervan zal dit artikel niet langer automatisch gegenereerde interne links weergeven."
+
+#: backend/menupage/tour/settings.php:38
+msgid "Save"
+msgstr "Opslaan"
+
+#: backend/menupage/tour/settings.php:36
+msgid "Add it by clicking on the blacklist."
+msgstr "Voeg het toe door op de zwarte lijst te klikken."
+
+#: backend/menupage/tour/settings.php:34
+msgid "Find the desired post (or page)."
+msgstr "Zoek het gewenste bericht (of pagina)."
+
+#: backend/menupage/tour/settings.php:32
+msgid "The input field works like a keyword search. To <strong>exclude one or more posts from linking</strong>, follow this procedure:"
+msgstr "Het invoerveld werkt als een zoekopdracht op keywords. Volg deze procedure om <strong>een of meer berichten uit te sluiten van linken</strong>:"
+
+#: backend/menupage/tour/settings.php:30
+msgid "You can find the blacklist in the Internal Link Juicer settings under the \"Content\" tab."
+msgstr "Je kan de zwarte lijst vinden in de Internal Link Juicer-instellingen onder het tabblad \"Inhoud\"."
+
+#: backend/menupage/tour/settings.php:28
+msgid "To <strong>prevent unwanted linking</strong>, you can take advantage of the blacklist feature. This feature excludes specific content from link building and gives you full control over link behavior at all times."
+msgstr "Om <strong>ongewenste links te voorkomen</strong>, kan je profiteren van de zwarte lijst-functie. Deze functie sluit specifieke inhoud uit van linkbuilding en geeft je te allen tijde volledige controle over het linkgedrag."
+
+#: backend/menupage/tour/settings.php:25
+msgid "Blacklist: Exclude any content from linking"
+msgstr "Zwarte lijst: sluit inhoud uit van links"
+
+#: backend/menupage/tour/settings.php:21
+msgid "Brief introduction to the most important settings"
+msgstr "Korte inleiding tot de belangrijkste instellingen"
+
+#: backend/menupage/tour/links.php:53
+msgid "Watch the video and you will see this feature demonstrated in depth."
+msgstr "Bekijk de video en je zal deze functie uitgebreid zien."
+
+#: backend/menupage/tour/links.php:53
+msgid "Check the “<strong>link as often as possible</strong>” box. If you activate this setting, there will be no consideration for the maximum number of links or maximum frequency of identical target URLs. Wherever a link is possible, this setting will create a link."
+msgstr "Vink het vakje ‘<strong>link zo vaak mogelijk</strong>’ aan. Als je deze instelling activeert, wordt er geen rekening gehouden met het maximale aantal links of de maximale frequentie van identieke doel-URL's. Overal waar een link mogelijk is, zal deze instelling een link maken."
+
+#: backend/menupage/tour/links.php:53
+msgid "Set the “<strong>maximum frequency per post</strong>” of how much a post can link to a single destination URL. Here, the value \"0\" also allows linking the maximum destination URLs, even if they are identical."
+msgstr "Stel de \"<strong>maximale frequentie per bericht</strong>\" in voor hoeveel een bericht mag linken naar een enkele doel-URL. Hier kan je ook de waarde \"0\" instellen om de maximale doel-URL's te koppelen, zelfs als deze identiek zijn."
+
+#: backend/menupage/tour/links.php:53
+msgid "Set the “<strong>maximum number of links per post</strong>” within a single content. With the value \"0,\" you link all possible keywords."
+msgstr "Stel het \"<strong>maximum aantal links per bericht</strong>\" in binnen één artikel. Met de waarde \"0\" koppel je alle mogelijke keywords."
+
+#: backend/menupage/tour/links.php:53
+msgid "Overall, you have the following options available, which cover all use cases:"
+msgstr "Over het algemeen heb je de volgende opties beschikbaar, die alle gebruiksscenario's dekken:"
+
+#: backend/menupage/tour/links.php:53
+msgid "These settings can be found in the Internal Link Juicer settings under the \"Content\" tab."
+msgstr "Deze instellingen zijn te vinden in de Internal Link Juicer-instellingen onder het tabblad \"Inhoud\"."
+
+#: backend/menupage/tour/links.php:53
+msgid "With this feature, you can actively control link frequencies. You can limit the maximum number of links built, or allow multiple linking of the same destination URL from the same content."
+msgstr "Met deze functie kan je de linkfrequenties actief regelen. Je kan het maximale aantal gebouwde links beperken of meerdere links van dezelfde doel-URL toestaan vanuit dezelfde inhoud."
+
+#: backend/menupage/tour/links.php:52
+msgid "Individually control link frequencies according to your needs"
+msgstr "Bepaal de verbindingsfrequenties individueel op basis van je wensen"
+
+#: backend/menupage/tour/links.php:47
+msgid "The video shows you one example of how to mask the built links using JavaScript."
+msgstr "In de video zie je een voorbeeld van hoe je de ingebouwde links kunt selecteren met JavaScript."
+
+#: backend/menupage/tour/links.php:45
+msgid "There you can update the output of a link using your own HTML code. The template tags <code>{{url}}</code> and <code>{{anchor}}</code> are available. In your content, these placeholders will later be replaced by the corresponding parameters (link target and anchor text)."
+msgstr "Daar kan je de output van een link aanpassen met je eigen HTML-code. De template-tags <code>{{url}}</code> en <code>{{anchor}} </code> zijn beschikbaar. In je inhoud worden deze tijdelijke aanduidingen later vervangen door de overeenkomstige parameters (linkdoel en ankertekst)."
+
+#: backend/menupage/tour/links.php:43
+msgid "You can find the link template settings within the plugin settings under the \"Links\" tab."
+msgstr "Je kan de instellingen voor de template voor links vinden in de plugin-instellingen onder het tabblad \"Links\"."
+
+#: backend/menupage/tour/links.php:41
+msgid "With the help of the template feature, you can <strong>change and individualize the output</strong> of internal links."
+msgstr "Met behulp van de template functie kan je <strong>de uitvoer van interne links wijzigen en personaliseren</strong>."
+
+#: backend/menupage/tour/links.php:38
+msgid "Easily customize outputs using templates"
+msgstr "Pas de uitvoer eenvoudig aan met behulp van templates"
+
+#: backend/menupage/tour/links.php:33
+msgid "The video shows an example of two different posts getting linked."
+msgstr "De video toont een voorbeeld van twee verschillende berichten die worden gelinkt."
+
+#: backend/menupage/tour/links.php:31
+msgid "The plugin works with its <strong>own index</strong> for internal links. It <strong>updates automatically</strong> after you edit content or keywords. This won’t affect your website’s <strong>quick loading times</strong>. This aspect makes the Internal Link Juicer <strong>distinct from other plugins</strong> with similar functionality."
+msgstr "De plugin werkt met zijn <strong>eigen index</strong> voor interne links. Het wordt <strong>automatisch bijgewerkt</strong> nadat je inhoud of keywords hebt gewijzigd. Dit heeft geen invloed op de <strong>snelle laadtijden</strong> van je site. Dit aspect maakt de Internal Link Juicer <strong>onderscheidend van andere plugins</strong> met vergelijkbare functionaliteit."
+
+#: backend/menupage/tour/links.php:29
+msgid "As soon as you save keywords for your content, the internal links are activated."
+msgstr "Zodra je keywords voor je inhoud opslaat, worden de interne links geactiveerd."
+
+#: backend/menupage/tour/links.php:25
+msgid "Auto-generate link outputs"
+msgstr "Genereer automatisch linkuitvoer"
+
+#: backend/menupage/tour/links.php:21
+msgid "Learn how to influence the linking behavior"
+msgstr "Leer hoe je het koppelingsgedrag kan beïnvloeden"
+
+#: backend/menupage/tour/editor.php:67
+msgid "In the video, you can see an example of how to configure gaps."
+msgstr "In de video zie je een voorbeeld van hoe je scheidingsruimtes configureert."
+
+#: backend/menupage/tour/editor.php:65
+msgid "The adjacent words are constant and included in the link. The gap keywords are variable."
+msgstr "De aangrenzende woorden zijn constant en opgenomen in de link. De scheidingsruimte-keywords zijn variabel."
+
+#: backend/menupage/tour/editor.php:63
+msgid "<strong>\"Maximum\" Type</strong>: A phrase is linked if there are at least 3 or more words between the adjacent words."
+msgstr "<strong>\"Maximum\" type</strong>: een zin is gekoppeld als er ten minste drie of meer woorden tussen de aangrenzende woorden staan."
+
+#: backend/menupage/tour/editor.php:62
+msgid "<strong>\"Exact\" Type</strong>:  A phrase is linked if there are exactly 3 words between the adjacent words."
+msgstr "<strong>\"Exact\" type</strong>: een zin is gekoppeld als er precies drie woorden tussen de aangrenzende woorden staan."
+
+#: backend/menupage/tour/editor.php:61
+msgid "<strong>\"Minimal\" Type</strong>: A phrase is linked if there are one to three words between the adjacent words."
+msgstr "<strong>\"Minimaal\" type</strong>: een zin is gekoppeld als er één tot drie woorden tussen de aangrenzende woorden staan."
+
+#: backend/menupage/tour/editor.php:59
+msgid "You have 3 options to define gaps. Assuming the configured gap value is 3, it behaves in the following ways, depending on the gap type:"
+msgstr "Je hebt 3 opties om scheidingsruimtes te definiëren. Ervan uitgaande dat de geconfigureerde scheidingswaarde-waarde 3 is, gedraagt deze zich op de volgende manieren, afhankelijk van het type:"
+
+#: backend/menupage/tour/editor.php:58
+msgid "The gap feature can be activated by clicking on the link in the Keyword Editor (below the input field)."
+msgstr "De scheidingsruimte-functie kan worden geactiveerd door op de link in de keyword-editor te klikken (onder het invoerveld)."
+
+#: backend/menupage/tour/editor.php:56
+msgid "That’s because you no longer just link to well-defined keywords or phrases. This feature makes it possible to define constant words of a phrase and to <strong>freely create variations</strong> in the gap between them."
+msgstr "Dat komt omdat je niet langer alleen linkt naar goed gedefinieerde keywords of woordgroepen. Deze functie maakt het mogelijk om constante woorden van een zin te definiëren en <strong>extra variaties te creëren</strong> in de ruimte ertussen."
+
+#: backend/menupage/tour/editor.php:54
+msgid "With the help of the intelligent gap feature, you can <strong>diversify your anchor texts</strong> even better. You can get a more organic link profile and <strong>cover a wider range</strong> of possible links."
+msgstr "Met behulp van de intelligente scheidingsruimte-functie kan je <strong>je ankerteksten nog beter diversifiëren</strong>. Je kan een meer organisch linkprofiel krijgen en <strong>een breder scala aan mogelijke links maken</strong>."
+
+#: backend/menupage/tour/editor.php:51
+msgid "Create smart links with the gap feature"
+msgstr "Maak slimme links met de scheidingsruimte-functie"
+
+#: backend/menupage/tour/editor.php:46
+msgid "The video shows an example of how to assign a keyword to a post."
+msgstr "De video toont een voorbeeld van hoe je een keyword aan een bericht kan toewijzen."
+
+#: backend/menupage/tour/editor.php:44
+msgid "You can add your desired keywords one by one or by seperating them with commas."
+msgstr "Je kan de door jou gewenste keywords een voor een toevoegen of ze met komma's scheiden."
+
+#: backend/menupage/tour/editor.php:42
+msgid "Add your desired keyword to the appropriate input field and confirm using the Enter key (or by clicking the button)."
+msgstr "Voeg het gewenste keyword toe aan het daarvoor bestemde invoerveld en bevestig met de Enter-toets (of door op de knop te klikken)."
+
+#: backend/menupage/tour/editor.php:40
+msgid "With the help of the Keyword Editor, you can <strong>assign keywords to a post</strong>, which it will then use for internal links."
+msgstr "Met behulp van de keyword-editor kan je <strong>keywords aan een bericht toewijzen</strong>, die het vervolgens voor interne links zal gebruiken."
+
+#: backend/menupage/tour/editor.php:37
+msgid "Add keywords to your content"
+msgstr "Keywords toevoegen aan je inhoud"
+
+#: backend/menupage/tour/editor.php:32
+msgid "In the video, we'll show you how to get to the Keyword Editor of a post or page."
+msgstr "In de video laten we je zien hoe je naar de keyword-editor van een bericht of pagina gaat."
+
+#: backend/menupage/tour/editor.php:30
+msgid "You can find the Keyword Editor anytime you edit content (whether pages or posts). It’s located on the <strong>right-hand sidebar</strong> within the editor window."
+msgstr "Je kan de keyword-editor altijd vinden wanneer je inhoud bewerkt (of het nu gaat om pagina's of berichten). Het bevindt zich in de <strong>rechterzijbalk</strong> in het editorvenster."
+
+#: backend/menupage/tour/editor.php:28
+msgid "The <strong>Keyword Editor</strong> is the heart of the Internal Link Juicer. With its help, you can <strong>configure keywords</strong> for your posts, which will later form the link text for each post."
+msgstr "De <strong>keyword-editor</strong> is het hart van de Internal Link Juicer. Met deze hulp kan je <strong>keywords configureren</strong> voor je berichten, die later de linktekst voor elk bericht zullen vormen."
+
+#: backend/menupage/tour/editor.php:25
+msgid "Find the Keyword Editor"
+msgstr "Vind de keyword editor"
+
+#: backend/menupage/tour/editor.php:21
+msgid "Begin with setting up keywords for your posts and pages"
+msgstr "Begin met het instellen van keywords voor je berichten en pagina's"
+
+#: backend/menupage/tour/intro.php:27
+msgid "We show you the most important functions of the Internal Link Juicer in a few minutes. With that you are able to start immediately and get the maximum out of your internal links."
+msgstr "We laten je in een paar minuten de belangrijkste functies van de Internal Link Juicer plugin zien. Daarmee kan je direct aan de slag en het maximale uit je interne links halen."
+
+#: backend/menupage/tour/intro.php:26
+msgid "Start the tour through the plugin"
+msgstr "Start de tour van de plugin"
+
+#: backend/menupage/tour/pro.php:58
+msgid "The video shows you everything you need to know about the Statistics Dashboard."
+msgstr "De video laat je alles zien wat je moet weten over het Statistieken Dashboard."
+
+#: backend/menupage/tour/pro.php:56
+msgid "You can find the advanced statistics directly in the Statistics Dashboard for the plugin. Here you can <strong>sort and filter</strong> as you like. You can also get information about the links when clicking on the corresponding content or anchor text."
+msgstr "Je kan de geavanceerde statistieken rechtstreeks in het Statistieken Dashboard van de plugin vinden. Hier kan je naar wens <strong>sorteren en filteren</strong>. Je kan ook informatie over de links krijgen door op de bijbehorende inhoud of ankertekst te klikken."
+
+#: backend/menupage/tour/pro.php:54
+msgid "With the <strong>extended Statistics Dashboard</strong>, you can <strong>analyze</strong> your automated internal links to the maximum. This feature identifies pages that have too many or few inbound/outbound links. You can use this information to <strong>proactively improve internal linking</strong> optimization."
+msgstr "Met het <strong>uitgebreide Statistieken Dashboard</strong> kan je je geautomatiseerde interne links maximaal <strong>analyseren</strong>. Deze functie identificeert pagina's met te veel of weinig inkomende/uitgaande links. Je kan deze informatie gebruiken om <strong>proactief de optimalisatie van interne links te verbeteren</strong>."
+
+#: backend/menupage/tour/pro.php:52
+msgid "Optimize links to the max with extensive statistical insight"
+msgstr "Optimaliseer links maximaal met behulp van uitgebreide statistieken"
+
+#: backend/menupage/tour/pro.php:47
+msgid "The video shows you how to link a post from a category description. In the same example, the article links from its own content back to the category page."
+msgstr "De video laat zien hoe je een bericht uit een categoriebeschrijving kan koppelen. In hetzelfde voorbeeld linkt het artikel vanuit zijn eigen inhoud terug naar de categoriepagina."
+
+#: backend/menupage/tour/pro.php:45
+msgid "For taxonomies, you’ll find your own blacklist and whitelist. After activating the Pro version, the Keyword Editor includes taxonomies and allows you to assign keywords for them. From then on, even <strong>taxonmy descriptions</strong> are used as linkable content."
+msgstr "Voor taxonomieën heb je eigen zwarte en witte lijst. Na het activeren van de Pro-versie, bevat de keyword-editor taxonomieën en kan je er keywords aan toewijzen. Vanaf dat moment worden zelfs <strong>taxonomie-beschrijvingen</strong> gebruikt als inhoud die kan worden gelinkt."
+
+#: backend/menupage/tour/pro.php:43
+msgid "In our Pro version, you will not only set links for posts and pages, but also <strong>taxonomies such as categories and tags</strong>. This gives you even more flexibility when creating internal links."
+msgstr "In onze Pro-versie kan je niet alleen links instellen voor berichten en pagina's, maar ook <strong>taxonomieën zoals categorieën en tags</strong>. Dit geeft je nog meer flexibiliteit bij het maken van interne links."
+
+#: backend/menupage/tour/pro.php:40
+msgid "Automatically link categories and tags for even wider coverage"
+msgstr "Link categorieën en tags automatisch voor een nog grotere dekking"
+
+#: backend/menupage/tour/pro.php:35
+msgid "In the video, you see one example of linking to an external Wikipedia article."
+msgstr "In de video zie je een voorbeeld van een link naar een extern Wikipedia-artikel."
+
+#: backend/menupage/tour/pro.php:33
+msgid "Like ordinary posts, these links are equipped with the Keyword Editor. To create a new custom link, you can add the <strong>destination URL</strong>, as well as any <strong>related keywords</strong>. The configuration takes effect immediately."
+msgstr "Net als gewone berichten zijn deze links uitgerust met de keyword-editor. Om een nieuwe aangepaste link te maken, kan je de <strong>doel-URL</strong> toevoegen, evenals alle <strong>gerelateerde keywords</strong>. De configuratie wordt onmiddellijk van kracht."
+
+#: backend/menupage/tour/pro.php:31
+msgid "Settings for this feature can be found in the Internal Link Juicer menu under \"Custom Links”, where you can list current links and create new individual links in no time."
+msgstr "De instellingen voor deze functie zijn te vinden in het Internal Link Juicer-menu onder \"Aangepaste links\", waar je de huidige links kan weergeven en in een mum van tijd nieuwe individuele links kan maken."
+
+#: backend/menupage/tour/pro.php:29
+msgid "With the custom links feature, you assign <strong>keywords to any URLs</strong> for automatic linking. In this way, you can create <strong>affiliate links</strong> or add <strong>content from foreign domains</strong>."
+msgstr "Met de functie voor aangepaste links wijst je <strong>keywords toe aan willekeurige URL's </strong> voor automatisch linken. Op deze manier kan je <strong>affiliate links</strong> maken of <strong>inhoud uit externe domeinen</strong> toevoegen."
+
+#: backend/menupage/tour/pro.php:26
+msgid "Enjoy maximum freedom with custom links"
+msgstr "Geniet van maximale vrijheid met aangepaste links"
+
+#: backend/menupage/tour/pro.php:22
+msgid "Reach even more with Pro!"
+msgstr "Bereik nog meer met Pro!"
+
+#: backend/menupage/tour.php:199
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: backend/menupage/tour.php:189
+msgid "Back to dashboard"
+msgstr "Terug naar Dashboard"
+
+#: backend/menupage/tour.php:189
+msgid "Skip interactive tour"
+msgstr "Interactieve tour overslaan"
+
+#: backend/menupage/tour.php:188
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: backend/menupage/tour.php:188
+msgid "Finish tutorial"
+msgstr "Voltooi de tutorial"
+
+#: backend/menupage/tour.php:188
+msgid "Start the tutorial now"
+msgstr "Start de tutorial nu"
+
+#: backend/menupage/tour.php:171
+msgid "Interactive tutorial"
+msgstr "Interactieve tutorial"
+
+#: backend/menupage/tour.php:62
+msgid "Advanced linking with pro version"
+msgstr "Geavanceerde links met de pro-versie"
+
+#: backend/menupage/tour.php:57
+msgid "Discover the most important settings"
+msgstr "Ontdek de belangrijkste instellingen"
+
+#: backend/menupage/tour.php:52
+msgid "Adjust the link behavior"
+msgstr "Pas het linkgedrag aan"
+
+#: helper/ajax.php:95 backend/menupage/dashboard.php:333
+msgid "Open"
+msgstr "Open"
+
+#: helper/ajax.php:94 backend/menupage/dashboard.php:332
+msgid "Edit"
+msgstr "Bewerk"
+
+#: helper/ajax.php:87 backend/menupage/dashboard.php:318
+msgid "Action"
+msgstr "Actie"
+
+#: backend/menupage/dashboard.php:318
+msgid "Page"
+msgstr "Pagina"
+
+#: backend/menupage/dashboard.php:141
+msgid "Get help through our forum"
+msgstr "Krijg hulp via ons forum"
+
+#: backend/menupage/dashboard.php:141
+msgid "Request support"
+msgstr "Ondersteuning vragen"
+
+#: backend/menupage/dashboard.php:137
+msgid "A quick guided tutorial"
+msgstr "Een korte begeleide tutorial"
+
+#: backend/menupage/dashboard.php:137 backend/menupage/tour.php:72
+msgid "Interactive Tour"
+msgstr "Interactieve tour"
+
+#: backend/menupage/dashboard.php:133
+msgid "Learn how to use the plugin"
+msgstr "Leer hoe je de plugin gebruikt"
+
+#: backend/menupage/dashboard.php:133
+msgid "Docs & How To"
+msgstr "Docs & How To"
+
+#: backend/menupage/dashboard.php:81
+msgid "Installed version"
+msgstr "Geïnstalleerde versie"
+
+#: enumeration/keywordorder.php:44
+msgid "Lowest word count gets linked first"
+msgstr "Het laagste aantal woorden wordt als eerste gelinkt"
+
+#: enumeration/keywordorder.php:42
+msgid "Highest word count gets linked first"
+msgstr "Het hoogste aantal woorden wordt als eerste gelinkt"
+
+#: enumeration/keywordorder.php:40
+msgid "First configured keyword gets linked first"
+msgstr "Het eerste geconfigureerde keyword wordt als eerste gelinkt"
+
+#: core/options/keywordorder.php:43
+msgid "Set the order of how your set keywords get used for building links."
+msgstr "Bepaal de volgorde waarin je ingestelde keywords worden gebruikt voor het bouwen van links."
+
+#: core/options/keywordorder.php:35
+msgid "Order for configured keywords while linking"
+msgstr "Volgorde van geconfigureerde keywords tijdens het koppelen"
+
+#: backend/editor.php:210
+msgid "Maximum amount of keywords within the gap."
+msgstr "Maximaal aantal keywords binnen de scheidingsruimte."
+
+#: backend/menupage/includes/sidebar.php:43
+msgid "Thank you for using the Internal Link Juicer!"
+msgstr "Bedankt om Internal Link Juicer te gebruiken!"
+
+#: backend/menupage/includes/sidebar.php:38
+msgid "Give us your review"
+msgstr "Geef ons een beoordeling"
+
+#: backend/menupage/includes/sidebar.php:36
+msgid "Do you like the plugin? Then <strong>please rate us</strong> or <strong>tell your friends</strong> about the Internal Link Juicer."
+msgstr "Vind je de plugin leuk? Geef ons dan een <strong>beoordeling</strong> of vertel over de Internal Link Juicer plugin <strong>aan je vrienden</strong>."
+
+#: backend/menupage/includes/sidebar.php:42
+msgid "Get in touch with us"
+msgstr "Neem contact met ons op"
+
+#: backend/menupage/includes/sidebar.php:40
+msgid "Are you looking for a <strong>new feature</strong> or have <strong>suggestions for improvement</strong>? Have you <strong>found a bug</strong>? Please tell us about."
+msgstr "Ben je op zoek naar een <strong>nieuwe functie</strong> of heb je <strong>suggesties voor de plugin</strong>? Heb je <strong> een fout gevonden</strong>? Vertel het ons."
+
+#: backend/menupage/includes/sidebar.php:33
+msgid "Support us"
+msgstr "Steun ons"
+
+#: helper/help.php:66 backend/editor.php:221
+#: backend/menupage/includes/postbox.php:37
+msgid "Get help"
+msgstr "Hulp krijgen"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://internallinkjuicer.com"
+msgstr "https://internallinkjuicer.com"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Internal Link Juicer"
+msgstr "Internal Link Juicer"
+
+#. Description of the plugin
+msgid "A performant solution for high class internal linkbuilding automation."
+msgstr "Een performante oplossing voor geautomatiseerde hoogwaardige interne linkbuilding."
+
+#: core/options/internalnofollow.php:43
+msgid "Sets the <code>rel=\"nofollow\"</code> attribute for keyword links (<strong>not recommended</strong>)."
+msgstr "Stelt het <code>rel=\"nofollow\"</code>-attribuut in voor keyword links (<strong>niet aanbevolen</strong>)."
+
+#: core/options/internalnofollow.php:35
+msgid "NoFollow for internal keyword links"
+msgstr "NoFollow voor interne keyword links"
+
+#: core/options/linkoutputcustom.php:59 core/options/linkoutputinternal.php:73
+msgid "You can use the placeholders <code>{{url}}</code> for the target and <code>{{anchor}}</code> for the generated anchor text."
+msgstr "Je kan de placeholders <code>{{url}}</code> gebruiken voor het doel en <code>{{anker}}</code> voor de gegenereerde ankertekst."
+
+#: core/options/linkoutputinternal.php:57
+msgid "Markup for the output of generated internal links."
+msgstr "Markering voor de uitvoer van gegenereerde interne links."
+
+#: core/options/linkoutputcustom.php:51
+msgid "Template for the link output (custom links)"
+msgstr "Template voor de link uitvoer (aangepaste links)"
+
+#: core/options/multiplekeywords.php:44
+msgid "Deactivates all other restrictions"
+msgstr "Deactiveert alle andere restricties"
+
+#: core/options/multiplekeywords.php:44
+msgid "Allows posts and keywords to get linked as often as possible."
+msgstr "Toestaan dat berichten en keywords zo vaak mogelijk worden gelinkt."
+
+#: core/options/multiplekeywords.php:36
+msgid "Link as often as possible"
+msgstr "Link zo vaak mogelijk"
+
+#: core/options/linkspertarget.php:37
+msgid "Maximum frequency of how often a post gets linked within another one"
+msgstr "Maximale frequentie van hoe vaak een bericht wordt gelinkt binnen een ander bericht"
+
+#: core/options/linkspertarget.php:45 core/options/linksperpage.php:45
+msgid "For an unlimited number of links, set this value to <code>0</code> ."
+msgstr "Stel deze waarde in op <code>0</code> voor een onbeperkt aantal links."
+
+#: core/options/linksperpage.php:37
+msgid "Maximum amount of links per post"
+msgstr "Maximaal aantal links per bericht"
+
+#: core/options/whitelist.php:43
+msgid "All posts within the allowed post types can link to other posts automatically."
+msgstr "Alle berichten binnen de toegestane berichttypen kunnen automatisch linken naar andere berichten."
+
+#: core/options/taxonomywhitelist.php:51
+msgid "Whitelist of taxonomies, that should be used for linking"
+msgstr "Witte lijst van taxonomieën, die moeten worden gebruikt om te linken"
+
+#: core/options/termblacklist.php:59
+msgid "Terms that get configured here do not link to others automatically."
+msgstr "Termen die hier worden geconfigureerd, linken niet automatisch naar anderen."
+
+#: core/options/termblacklist.php:51
+msgid "Blacklist of terms that should not be used for linking"
+msgstr "Zwarte lijst met termen die niet mogen worden gebruikt om te linken"
+
+#: core/options.php:328
+msgid "Setting options for the output of the generated links."
+msgstr "Instelmogelijkheden voor de uitvoer van de gegenereerde links."
+
+#: core/options.php:327
+msgid "Links Settings Section"
+msgstr "Linkinstellingen sectie"
+
+#: core/options.php:324
+msgid "Configure how the plugin should behave regarding the internal linking."
+msgstr "Configureer hoe de plugin zich moet gedragen met betrekking tot de interne links."
+
+#: core/options.php:323
+msgid "Content Settings Section"
+msgstr "Inhoudsinstellingen sectie"
+
+#: backend/menupage/settings.php:58
+msgid "Links"
+msgstr "Links"
+
+#: backend/menupage/settings.php:50
+msgid "Content"
+msgstr "Inhoud"
+
+#: backend/menupage/settings.php:81
+msgid "Searching…"
+msgstr "Aan het zoeken..."
+
+#: backend/menupage/settings.php:80
+msgid "No results found"
+msgstr "Geen resultaten gevonden"
+
+#: backend/menupage/settings.php:79
+msgid "Loading more results…"
+msgstr "Meer resultaten aan het laden..."
+
+#: backend/menupage/settings.php:78
+msgid "Minimum characters to start search"
+msgstr "Minimaal aantal tekens om te beginnen met zoeken"
+
+#: backend/menupage/settings.php:77
+msgid "The results could not be loaded."
+msgstr "De resultaten kunnen niet worden geladen."
+
+#: core/app.php:275 backend/menupage/settings.php:37
+#: backend/menupage/settings.php:123
+msgid "Settings"
+msgstr "Instellingen"
+
+#: backend/menupage/dashboard.php:318 backend/menupage/dashboard.php:350
+msgid "Count"
+msgstr "Aantal"
+
+#: backend/menupage/dashboard.php:205
+msgid "seconds"
+msgstr "seconden"
+
+#: backend/menupage/dashboard.php:205
+msgid "Duration for construction"
+msgstr "Duur voor opbouw"
+
+#: backend/menupage/dashboard.php:204
+msgid "at"
+msgstr "om"
+
+#: backend/menupage/dashboard.php:204
+msgid "Last built"
+msgstr "Laatst gebouwd"
+
+#: backend/menupage/dashboard.php:202
+msgid "Amount of links in the index"
+msgstr "Aantal links in de index"
+
+#: backend/menupage/dashboard.php:193
+msgid "Index has no entries yet"
+msgstr "Index heeft nog geen items"
+
+#: helper/ajax.php:82
+msgid "There are no statistics to display"
+msgstr "Er zijn geen statistieken om weer te geven"
+
+#: backend/menupage/dashboard.php:93
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: backend/menupage/dashboard.php:88
+msgid "Linkindex info"
+msgstr "Linkindex informatie"
+
+#: backend/menupage/dashboard.php:84
+msgid "Plugin related"
+msgstr "Plugin gerelateerd"
+
+#: backend/menupage/dashboard.php:29 backend/menupage/dashboard.php:78
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: backend/editor.php:220
+msgid "Minimum keyword gap:"
+msgstr "Minimum keyword scheidingsruimte:"
+
+#: backend/editor.php:219
+msgid "Maximum keyword gap:"
+msgstr "Maximum keyword scheidingsruimte:"
+
+#: backend/editor.php:218
+msgid "Exact keyword gap:"
+msgstr "Exacte keyword scheidingsruimte:"
+
+#: backend/editor.php:217
+msgid "No keywords configured."
+msgstr "Geen keywords ingesteld."
+
+#: backend/editor.php:216
+msgid "Multiple consecutive placeholders are not allowed."
+msgstr "Meerdere opeenvolgende placeholders zijn niet toegestaan."
+
+#: backend/editor.php:215
+msgid "Length of given keyword not valid."
+msgstr "Lengte van het opgegeven keyword is niet geldig."
+
+#: backend/editor.php:214
+msgid "No keyword defined."
+msgstr "Geen keyword ingesteld."
+
+#: backend/editor.php:213
+msgid "This keyword already exists."
+msgstr "Dit keyword bestaat al."
+
+#: helper/ajax.php:87 backend/editor.php:212
+msgid "Configured keywords"
+msgstr "Ingestelde keywords"
+
+#: backend/editor.php:211
+msgid "Insert gaps between keywords"
+msgstr "Scheidingsruimte tussen keywords invoegen"
+
+#: backend/editor.php:209
+msgid "Exact amount of keywords within the gap."
+msgstr "Exact aantal keywords binnen de scheidingsruimte."
+
+#: backend/editor.php:208
+msgid "Minimum amount of keywords within the gap. No upper limits."
+msgstr "Minimaal aantal keywords binnen de scheidingsruimte. Geen bovengrens."
+
+#: backend/editor.php:207
+msgid "Maximum"
+msgstr "Maximum"
+
+#: backend/editor.php:206
+msgid "Exact"
+msgstr "Exact"
+
+#: backend/editor.php:205
+msgid "Minimum"
+msgstr "Minimum"
+
+#: backend/editor.php:204
+msgid "Gap type"
+msgstr "Type scheidingsruimte"
+
+#: backend/editor.php:203
+msgid "Add gap"
+msgstr "Scheidingsruimte toevoegen"
+
+#: backend/editor.php:202
+msgid "Keyword gaps"
+msgstr "Keyword scheidingsruimte"
+
+#: backend/editor.php:195
+msgid "Separate multiple keywords by commas"
+msgstr "Scheid meerdere keywords door komma's"
+
+#: backend/editor.php:193 backend/menupage/dashboard.php:350
+msgid "Keyword"
+msgstr "Trefwoord"
+
+#: backend/editor.php:192
+msgid "Add Keyword"
+msgstr "Keyword toevoegen"
+
+#: backend/editor.php:60
+msgid "The keywords"
+msgstr "De keywords"
+
+#: backend/editor.php:38 backend/adminmenu.php:46 backend/adminmenu.php:47
+msgid "Internal Links"
+msgstr "Interne links"

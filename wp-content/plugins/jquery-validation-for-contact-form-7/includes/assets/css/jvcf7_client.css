@@ -1,0 +1,5 @@
+.wpcf7-form label.error{color:#900; font-size:11px; float:none; padding-left:5px;}
+/*DON't show error msg */
+.noErrorMsg.wpcf7-form label.error{ display:none !important; height:0px !important; width:0px !important; overflow:hidden !important;}
+strong.invalid{ color:red;}
+strong.valid{ color:green;}

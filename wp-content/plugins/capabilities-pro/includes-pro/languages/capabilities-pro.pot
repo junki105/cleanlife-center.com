@@ -1,0 +1,383 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PublishPress Capabilities Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-06 13:49-0400\n"
+"PO-Revision-Date: 2020-10-08 11:17-0500\n"
+"Last-Translator: Kevin Behrens <kevin@publishpress.com>\n"
+"Language-Team: PublishPress <help@publishpress.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext;_n;pp_po_trigger;_x\n"
+"X-Poedit-Basepath: ../includes-pro\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin-load.php:37
+msgid "Admin Menus"
+msgstr ""
+
+#: admin-load.php:38
+msgid "Nav Menus"
+msgstr ""
+
+#: admin-load.php:53
+msgid "You do not have permission to manage menu restrictions."
+msgstr ""
+
+#: admin-load.php:94 admin-load.php:145
+msgid "Settings updated."
+msgstr ""
+
+#: admin-load.php:112
+msgid "You do not have permission to manage navigation menus."
+msgstr ""
+
+#: admin-menus.php:38 settings-ui.php:280
+msgid "Admin Menu Restrictions"
+msgstr ""
+
+#: admin-menus.php:52
+msgid "Note: You are only restricting access to admin menu screens. Some plugins may also add features to other areas of WordPress."
+msgstr ""
+
+#: admin-menus.php:72 admin-menus.php:348 nav-menus.php:93 nav-menus.php:245
+msgid "Save Changes"
+msgstr ""
+
+#: admin-menus.php:95 admin-menus.php:113 nav-menus.php:119 nav-menus.php:139
+msgid "Toggle all"
+msgstr ""
+
+#: admin-menus.php:153 admin-menus.php:273
+msgid "This option is disabled to prevent complete lockout"
+msgstr ""
+
+#: admin-menus.php:335 nav-menus.php:231
+msgid "No menu found"
+msgstr ""
+
+#: admin.php:101
+msgid "Custom Statuses"
+msgstr ""
+
+#: admin.php:118
+msgid "Can assign this status (for selected post types)"
+msgstr ""
+
+#: admin.php:119
+msgid "Can edit posts of this status (for selected post types)"
+msgstr ""
+
+#: admin.php:120
+msgid "Can edit other's posts of this status (for selected post types)"
+msgstr ""
+
+#: admin.php:121
+msgid "Can delete posts of this status (for selected post types)"
+msgstr ""
+
+#: admin.php:122
+msgid "Can delete other's posts of this status (for selected post types)"
+msgstr ""
+
+#: admin.php:208 admin.php:278
+#, php-format
+msgid "%s: assigned by Permission Group"
+msgstr ""
+
+#: admin.php:296
+#, php-format
+msgid "shared capability: %s"
+msgstr ""
+
+#: admin.php:328
+msgid "Post Types..."
+msgstr ""
+
+#: admin.php:379
+msgid "Enable / Disable Custom Permissions"
+msgstr ""
+
+#: admin.php:385
+msgid "Customize Permissions"
+msgstr ""
+
+#: admin.php:394
+#, php-format
+msgid "%sAdvanced status control...%s"
+msgstr ""
+
+#: admin.php:400
+#, php-format
+msgid "For more control, <br />enable the PublishPress Permissions <br />%sStatus Control module%s"
+msgstr ""
+
+#: library/edd-sl-plugin-updater/EDD_SL_Plugin_Updater.php:242
+#, php-format
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: library/edd-sl-plugin-updater/EDD_SL_Plugin_Updater.php:250
+#, php-format
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: library/edd-sl-plugin-updater/EDD_SL_Plugin_Updater.php:493
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: library/edd-sl-plugin-updater/EDD_SL_Plugin_Updater.php:493
+msgid "Error"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/License.php:122
+msgid "An error occurred. Please, try again."
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:108
+msgid "Missing license"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:111
+msgid "Your license key is expired"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:114
+msgid "Your license key has been disabled"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:118
+msgid "Invalid license"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:121
+msgid "Your license is not active for this URL"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:124
+msgid "This appears to be an invalid license key for this product"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:127
+msgid "Your license key has reached its activation limit"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:132
+#: settings-ui.php:167
+msgid "Activated"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:135
+msgid "Not validated yet"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:148
+msgid "Status"
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:150
+msgid "Click here to read more about licenses."
+msgstr ""
+
+#: library/wordpress-edd-license-integration/src/core/Setting/Field/License_key.php:151
+msgid "More information"
+msgstr ""
+
+#: manager-ui.php:17 settings-ui.php:253
+msgid "Control selection of custom post statuses."
+msgstr ""
+
+#: manager-ui.php:17 settings-ui.php:251
+msgid "Control Custom Statuses"
+msgstr ""
+
+#: nav-menus.php:26
+msgid "Logged In Users"
+msgstr ""
+
+#: nav-menus.php:26
+msgid "Logged Out Users"
+msgstr ""
+
+#: nav-menus.php:54
+msgid "Navigation Menu Restrictions"
+msgstr ""
+
+#: pro-maint.php:47 pro-maint.php:60
+msgid "An error occurred. Please try again or contact the support team."
+msgstr ""
+
+#: settings-ui.php:20
+msgid "Activate Key"
+msgstr ""
+
+#: settings-ui.php:21
+msgid "Deactivate Key"
+msgstr ""
+
+#: settings-ui.php:22
+msgid "Connecting to publishpress.com server..."
+msgstr ""
+
+#: settings-ui.php:23
+msgid "The request could not be processed due to a connection failure."
+msgstr ""
+
+#: settings-ui.php:24
+msgid "Please enter the license key shown on your order receipt."
+msgstr ""
+
+#: settings-ui.php:25
+msgid "An unidentified error occurred."
+msgstr ""
+
+#: settings-ui.php:27
+msgid "The key has been deactivated."
+msgstr ""
+
+#: settings-ui.php:28
+msgid "The key has been activated."
+msgstr ""
+
+#: settings-ui.php:29
+msgid "The key has expired."
+msgstr ""
+
+#: settings-ui.php:30
+msgid "The key is invalid."
+msgstr ""
+
+#: settings-ui.php:31
+msgid "An unknown activation error occurred."
+msgstr ""
+
+#: settings-ui.php:32
+msgid "The key provided is not valid. Please double-check your entry."
+msgstr ""
+
+#: settings-ui.php:33
+msgid "This site is not valid to activate the key."
+msgstr ""
+
+#: settings-ui.php:34 settings-ui.php:40
+msgid "The key provided could not be validated by publishpress.com."
+msgstr ""
+
+#: settings-ui.php:35
+msgid "The key provided is already active on another site."
+msgstr ""
+
+#: settings-ui.php:36
+msgid "The key has already been activated on the allowed number of sites."
+msgstr ""
+
+#: settings-ui.php:37
+msgid "An unknown deactivation error occurred."
+msgstr ""
+
+#: settings-ui.php:38
+msgid "Unable to deactivate because the provided key is not valid."
+msgstr ""
+
+#: settings-ui.php:39
+msgid "This site is not valid to deactivate the key."
+msgstr ""
+
+#: settings-ui.php:41
+msgid "The key provided is not active on the specified site."
+msgstr ""
+
+#: settings-ui.php:46
+#, php-format
+msgid "If this is incorrect, <a href=\"%s\">request activation help</a>."
+msgstr ""
+
+#: settings-ui.php:47
+msgid "Please save settings before uploading site configuration."
+msgstr ""
+
+#: settings-ui.php:70
+msgid "License Key Activation"
+msgstr ""
+
+#: settings-ui.php:117
+#, php-format
+msgid "Your PublishPress license key has expired. For continued priority support, <a href=\"%s\">please renew</a>."
+msgstr ""
+
+#: settings-ui.php:128
+#, php-format
+msgid "Your PublishPress license key will expire today. For updates and priority support, <a href=\"%s\">please renew</a>."
+msgstr ""
+
+#: settings-ui.php:135
+#, php-format
+msgid "Your PublishPress license key will expire in %d day. For updates and priority support, <a href=\"%s\">please renew</a>."
+msgstr ""
+
+#: settings-ui.php:158
+msgid "Key Expired"
+msgstr ""
+
+#: settings-ui.php:163 settings-ui.php:173
+msgid "Deactivate"
+msgstr ""
+
+#: settings-ui.php:170
+msgid "Enter your license key"
+msgstr ""
+
+#: settings-ui.php:173
+msgid "Activate"
+msgstr ""
+
+#: settings-ui.php:199
+#, php-format
+msgid "view %s&nbsp;details"
+msgstr ""
+
+#: settings-ui.php:212
+msgid "Update&nbsp;Available"
+msgstr ""
+
+#: settings-ui.php:216
+msgid "Update&nbsp;Check"
+msgstr ""
+
+#: settings-ui.php:222
+msgid "Account"
+msgstr ""
+
+#: settings-ui.php:228
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Pricing</a>"
+msgstr ""
+
+#: settings-ui.php:266
+msgid "Display PublishPress Branding"
+msgstr ""
+
+#: settings-ui.php:268
+msgid "Hide the PublishPress footer and other branding."
+msgstr ""
+
+#: settings-ui.php:282
+msgid "Admin Menus: treatment of multiple roles"
+msgstr ""
+
+#: settings-ui.php:284
+msgid "Any non-restricted user role allows access"
+msgstr ""
+
+#: settings-ui.php:285
+msgid "Any restricted user role prevents access"
+msgstr ""
+
+#: settings-ui.php:288
+msgid "How are restrictions applied when a user has multiple roles?"
+msgstr ""

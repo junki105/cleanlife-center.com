@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/confirm.css">
+    <title>confirm</title>
+</head>
+<body>
+    <section class="confirm">
+        <img src="assets/image/confirm_logo.png" alt="">
+        <div class="header-text">
+            送信前にご相談・お問い合わせ内容をご確認ください。<br>
+            お間違えがないようでしたら「送信する」をクリックしてください。
+        </div>
+        <table>
+            <tr>
+                <td>お名前：</td>
+                <td>山田太郎</td>
+            </tr>
+            <tr>
+                <td>フリガナ：</td>
+                <td>ヤマダタロウ</td>
+            </tr>
+            <tr>
+                <td>電話番号：</td>
+                <td>000-0000-0000</td>
+            </tr>
+            <tr>
+                <td>郵便番号：</td>
+                <td>123-4567</td>
+            </tr>
+            <tr>
+                <td>都道府県：</td>
+                <td>東京都</td>
+            </tr>
+            <tr>
+                <td>市区町村：</td>
+                <td>世田谷区</td>
+            </tr>
+            <tr>
+                <td>建物名称：</td>
+                <td>シュバルマラン201</td>
+            </tr>
+            <tr>
+                <td>メールアドレス：</td>
+                <td>abc@gmail.com</td>
+            </tr>
+            <tr>
+                <td>お問い合わせ内容：</td>
+                <td>トイレが詰まりましたトイレが詰まりましたトイレが詰まりましたトイレが詰ま
+                    トイレが詰まりましたトイレが詰まりましたトイレが詰まりましたりました</td>
+            </tr>
+        </table>
+        <input type="submit" value="送信する">
+    </section>
+    <footer>
+        @Copyright クリーンライフ All rights reserved.
+    </footer>
+</body>
+</html></nav>

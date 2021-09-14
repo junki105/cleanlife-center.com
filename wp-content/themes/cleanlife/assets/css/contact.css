@@ -1,0 +1,1006 @@
+/*
+Theme Name: CleanLife-Center
+Author: SmallBaby
+Version: 1.0
+*/
+/*! tailwindcss v2.2.7 | MIT License | https://tailwindcss.com *//*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
+
+/*
+Document
+========
+*/
+
+/**
+Use a better box model (opinionated).
+*/
+
+*,
+::before,
+::after {
+	box-sizing: border-box;
+}
+
+/**
+Use a more readable tab size (opinionated).
+*/
+
+html {
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	   tab-size: 4;
+}
+
+/**
+1. Correct the line height in all browsers.
+2. Prevent adjustments of font size after orientation changes in iOS.
+*/
+
+html {
+	line-height: 1.15; /* 1 */
+	-webkit-text-size-adjust: 100%; /* 2 */
+}
+
+/*
+Sections
+========
+*/
+
+/**
+Remove the margin in all browsers.
+*/
+
+body {
+	margin: 0;
+}
+
+/**
+Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
+*/
+
+body {
+	font-family:
+		system-ui,
+		-apple-system, /* Firefox supports this but not yet `system-ui` */
+		'Segoe UI',
+		Roboto,
+		Helvetica,
+		Arial,
+		sans-serif,
+		'Apple Color Emoji',
+		'Segoe UI Emoji';
+}
+
+/*
+Grouping content
+================
+*/
+
+/**
+1. Add the correct height in Firefox.
+2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)
+*/
+
+hr {
+	height: 0; /* 1 */
+	color: inherit; /* 2 */
+}
+
+/*
+Text-level semantics
+====================
+*/
+
+/**
+Add the correct text decoration in Chrome, Edge, and Safari.
+*/
+
+abbr[title] {
+	-webkit-text-decoration: underline dotted;
+	        text-decoration: underline dotted;
+}
+
+/**
+Add the correct font weight in Edge and Safari.
+*/
+
+b,
+strong {
+	font-weight: bolder;
+}
+
+/**
+1. Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
+2. Correct the odd 'em' font sizing in all browsers.
+*/
+
+code,
+kbd,
+samp,
+pre {
+	font-family:
+		ui-monospace,
+		SFMono-Regular,
+		Consolas,
+		'Liberation Mono',
+		Menlo,
+		monospace; /* 1 */
+	font-size: 1em; /* 2 */
+}
+
+/**
+Add the correct font size in all browsers.
+*/
+
+small {
+	font-size: 80%;
+}
+
+/**
+Prevent 'sub' and 'sup' elements from affecting the line height in all browsers.
+*/
+
+sub,
+sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sub {
+	bottom: -0.25em;
+}
+
+sup {
+	top: -0.5em;
+}
+
+/*
+Tabular data
+============
+*/
+
+/**
+1. Remove text indentation from table contents in Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=999088, https://bugs.webkit.org/show_bug.cgi?id=201297)
+2. Correct table border color inheritance in all Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=935729, https://bugs.webkit.org/show_bug.cgi?id=195016)
+*/
+
+table {
+	text-indent: 0; /* 1 */
+	border-color: inherit; /* 2 */
+}
+
+/*
+Forms
+=====
+*/
+
+
+/**
+Remove the inheritance of text transform in Edge and Firefox.
+1. Remove the inheritance of text transform in Firefox.
+*/
+
+button,
+select { /* 1 */
+	text-transform: none;
+}
+
+/**
+Correct the inability to style clickable types in iOS and Safari.
+*/
+
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+	-webkit-appearance: button;
+}
+
+/**
+Remove the inner border and padding in Firefox.
+*/
+
+::-moz-focus-inner {
+	border-style: none;
+	padding: 0;
+}
+
+/**
+Restore the focus styles unset by the previous rule.
+*/
+
+:-moz-focusring {
+	outline: 1px dotted ButtonText;
+}
+
+/**
+Remove the additional ':invalid' styles in Firefox.
+See: https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d494c9be1/layout/style/res/forms.css#L728-L737
+*/
+
+:-moz-ui-invalid {
+	box-shadow: none;
+}
+
+/**
+Remove the padding so developers are not caught out when they zero out 'fieldset' elements in all browsers.
+*/
+
+legend {
+	padding: 0;
+}
+
+/**
+Add the correct vertical alignment in Chrome and Firefox.
+*/
+
+progress {
+	vertical-align: baseline;
+}
+
+/**
+Correct the cursor style of increment and decrement buttons in Safari.
+*/
+
+::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+	height: auto;
+}
+
+/**
+1. Correct the odd appearance in Chrome and Safari.
+2. Correct the outline style in Safari.
+*/
+
+[type='search'] {
+	-webkit-appearance: textfield; /* 1 */
+	outline-offset: -2px; /* 2 */
+}
+
+/**
+Remove the inner padding in Chrome and Safari on macOS.
+*/
+
+::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+
+/**
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Change font properties to 'inherit' in Safari.
+*/
+
+::-webkit-file-upload-button {
+	-webkit-appearance: button; /* 1 */
+	font: inherit; /* 2 */
+}
+
+/*
+Interactive
+===========
+*/
+
+/*
+Add the correct display in Chrome and Safari.
+*/
+
+summary {
+	display: list-item;
+}/**
+ * Manually forked from SUIT CSS Base: https://github.com/suitcss/base
+ * A thin layer on top of normalize.css that provides a starting point more
+ * suitable for web applications.
+ */
+
+/**
+ * Removes the default spacing and border for appropriate elements.
+ */
+
+blockquote,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+figure,
+p,
+pre {
+  margin: 0;
+}
+
+button {
+  background-color: transparent;
+  background-image: none;
+}
+
+fieldset {
+  margin: 0;
+  padding: 0;
+}
+
+ol,
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/**
+ * Tailwind custom reset styles
+ */
+
+/**
+ * 1. Use the user's configured `sans` font-family (with Tailwind's default
+ *    sans-serif font stack as a fallback) as a sane default.
+ * 2. Use Tailwind's default "normal" line-height so the user isn't forced
+ *    to override it to ensure consistency even when using the default theme.
+ */
+
+html {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
+  line-height: 1.5; /* 2 */
+}
+
+
+/**
+ * Inherit font-family and line-height from `html` so users can set them as
+ * a class directly on the `html` element.
+ */
+
+body {
+  font-family: inherit;
+  line-height: inherit;
+}
+
+/**
+ * 1. Prevent padding and border from affecting element width.
+ *
+ *    We used to set this in the html element and inherit from
+ *    the parent element for everything else. This caused issues
+ *    in shadow-dom-enhanced elements like <details> where the content
+ *    is wrapped by a div with box-sizing set to `content-box`.
+ *
+ *    https://github.com/mozdevs/cssremedy/issues/4
+ *
+ *
+ * 2. Allow adding a border to an element by just adding a border-width.
+ *
+ *    By default, the way the browser specifies that an element should have no
+ *    border is by setting it's border-style to `none` in the user-agent
+ *    stylesheet.
+ *
+ *    In order to easily add borders to elements by just setting the `border-width`
+ *    property, we change the default border-style for all elements to `solid`, and
+ *    use border-width to hide them instead. This way our `border` utilities only
+ *    need to set the `border-width` property instead of the entire `border`
+ *    shorthand, making our border utilities much more straightforward to compose.
+ *
+ *    https://github.com/tailwindcss/tailwindcss/pull/116
+ */
+
+*,
+::before,
+::after {
+  box-sizing: border-box; /* 1 */
+  border-width: 0; /* 2 */
+  border-style: solid; /* 2 */
+  border-color: currentColor; /* 2 */
+}
+
+/*
+ * Ensure horizontal rules are visible by default
+ */
+
+hr {
+  border-top-width: 1px;
+}
+
+/**
+ * Undo the `border-style: none` reset that Normalize applies to images so that
+ * our `border-{width}` utilities have the expected effect.
+ *
+ * The Normalize reset is unnecessary for us since we default the border-width
+ * to 0 on all elements.
+ *
+ * https://github.com/tailwindcss/tailwindcss/issues/362
+ */
+
+img {
+  border-style: solid;
+}
+
+textarea {
+  resize: vertical;
+}
+
+input::-moz-placeholder, textarea::-moz-placeholder {
+  opacity: 1;
+  color: #9ca3af;
+}
+
+input:-ms-input-placeholder, textarea:-ms-input-placeholder {
+  opacity: 1;
+  color: #9ca3af;
+}
+
+input::placeholder,
+textarea::placeholder {
+  opacity: 1;
+  color: #9ca3af;
+}
+
+@font-face {
+    font-family: Impact;
+    src: url('../fonts/impact.ttf');
+}
+@font-face {
+    font-family: Folio-Bold-Condensed;
+    src: url('../fonts/Folio-Bold-Condensed.otf');
+}
+@font-face {
+    font-family: A-OTF-ReimPro-Bold;
+    src: url('../fonts/A-OTF-ReimPro-Bold.otf');
+}
+@font-face {
+    font-family: A-OTF-UDShinGoPro-Medium;
+    src: url('../fonts/A-OTF-UDShinGoPro-Medium.otf');
+}
+@font-face {
+    font-family: hiragino-kaku-gothic-pro-w6;
+    src: url('../fonts/hiragino-kaku-gothic-pro-w6.otf');
+}
+@font-face {
+    font-family: hiragino-kaku-gothic-pro-w3;
+    src: url('../fonts/hiragino-kaku-gothic-pro-w3.otf');
+}
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    background-color: white;
+	font-family: "Yu Gothic", sans-serif;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    background-color: inherit;
+    font-weight: inherit;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+h1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+.contact-content {
+    width: 900px;
+    margin: auto;
+    box-shadow: 0 0 9px rgba(0, 0, 0, .13);
+	background-image: url(../image/contact/bg-contact.png);
+	background-size: cover;
+}
+.logo {
+    width: 100%;
+	text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 28px;
+}
+.logo img {
+    width: 270px;
+    height: auto;
+}
+.banner-section {
+    /* background-image: url(../image/contact/contact_back.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 1px;
+}
+.banner-main-img {
+    text-align: center;
+}
+.inquiry-btn {
+   color: white;
+   background-color: #183494;
+   border-radius: 4px;
+   font-size: 22px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 672px;
+   height: 54px;
+   margin: auto;   
+}
+.contact-back {
+    /* background-color: #e9f6fe; */
+}
+.contact-main {
+    padding-bottom: 50px;
+	position: relative;
+}
+.free {
+    color: #0d75d6;
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: center;
+    padding: 19px 0;
+}
+.phone-container {
+    width: 625px;
+    padding: 15px;
+    background-color: white;
+    margin: auto;
+	font-weight:bold;
+}
+.phone-container div:nth-child(1) {
+    font-size: 21px;
+    text-align: center;
+}
+.phone-container div:nth-child(2) {
+    font-size: 72px;
+    color: #fb9c14;
+    display: inline-block;
+    line-height: 1.1;
+	font-weight:bold;
+}
+.phone-container div:nth-child(2) img {
+    width: 70px;
+    height: auto;
+}
+.phone-container div:nth-child(3) {
+    font-size: 20px;
+    text-align: center;
+}
+.header-text {
+    font-size: 22px;
+    text-align: center;
+    padding: 40px 0;
+    margin-top: -1px;
+}
+.input-container {
+    display: flex;
+    width: 640px;
+    margin: auto;
+    margin-bottom: 10px;
+    align-items:center;
+    font-family: Yu Gothic;
+}
+.necessary::before {
+    content: "必須";
+    font-size: 13px;
+    font-family: Yu Gothic;
+    background-color: #de2222;
+    width: 40px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    color: white;
+    margin-right: 5px;
+}
+.arbitary::before {
+    content: "任意";
+    font-size: 13px;
+    margin-right: 5px;
+    font-family: Yu Gothic;
+    background-color: #bebebe;
+    width: 40px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    color: white;
+}
+.input-container input {
+    border: 1px solid #91c0eb;
+    width: 400px;
+    padding: 10px 15px;
+    font-size: 15px;
+    border-radius: 5px;
+    /*border: none;*/
+	font-family: Yu Gothic;
+}
+.input-information {
+    display: flex;
+    align-items: center;
+    width: 225px;
+	font-weight:bold;
+}
+.num-input {
+    width: 295px !important;
+}
+.position-input input {
+    width: 175px !important;
+    margin: 0 6px;
+}
+.position-input {
+    display: flex;
+    align-items: center;
+}
+.position-input::before {
+    content: "〒";
+    font-size: 18px;
+    font-family: Yu Gothic;
+    color: black;
+}
+.input-container a {
+    color: #2a53df;
+    text-decoration: underline;
+	white-space: nowrap;
+}
+.div-space {
+    width: 225px;
+}
+.search_zipcode {
+	display: none;
+}
+.prefecture-input {
+    display: flex;
+    align-items: center;
+	position: absolute;
+	right: calc(50% - 304px);
+    top: 111px;
+}
+.prefecture-input select {
+    border: 1px solid #91c0eb;
+    width: 114px;
+	padding: 12px 15px;
+    font-size: 15px;
+    font-family: Yu Gothic;
+    border-radius: 5px;
+    /*border: none;*/
+    margin-left: 6px;
+}
+.address-input {
+    display: flex;
+    align-items: center;
+}
+.address-input input {
+    border: 1px solid #91c0eb;
+    width: 330px;
+    padding: 10px 15px;
+    font-size: 15px;
+    border-radius: 5px;
+    /*border: none;*/
+    margin-left: 6px;
+}
+.input-container textarea {
+    border: 1px solid #91c0eb;
+    width: 400px;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 5px;
+    /*border: none;*/
+    resize: none;
+}
+.textarea-input-container {
+    align-items: flex-start !important;
+}
+.confirm-text {
+    width: 400px;
+    padding: 20px 15px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+}
+.check-div input {
+    width: 18px;
+    height: 18px;
+    border-radius: 2px;
+    border: 1px solid #e7e7e7;
+}
+.check-div {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+.submit-btn {
+    cursor: pointer;
+    width: 250px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #183494;
+    font-size: 21px;
+    margin: auto;
+    margin-top: 40px;
+    border: 3px solid #183494;
+    border-radius: 999px;
+    transition: all .4s ease;
+}
+.submit-btn-disable {
+    cursor:not-allowed;
+    width: 250px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    font-size: 21px;
+    margin: auto;
+    margin-top: 40px;
+    color: -internal-light-dark(rgba(16, 16, 16, 0.3), rgba(255, 255, 255, 0.3));
+    background-color: -internal-light-dark(rgba(239, 239, 239, 0.3), rgba(19, 1, 1, 0.3));
+    border-color: -internal-light-dark(rgba(118, 118, 118, 0.3), rgba(195, 195, 195, 0.3));
+}
+.submit-btn:hover {
+    background-color: white;
+    color: #183494;
+}
+footer {
+    font-size: 12px;
+    text-align: center;
+    padding: 40px 0;
+}
+
+@media (max-width: 900px) {
+    .contact-content {
+        width: 100%;
+    }
+    .inquiry-btn {
+        width: 80%;
+    }
+}
+@media (max-width: 745px) {
+    .free {
+        font-size: 20px;
+    }
+}
+@media (max-width: 670px) {
+	body {
+		font-family: sans-serif!important;
+	}
+    .logo img {
+        width: calc(35000vw / 640) !important;
+        height: auto;
+		margin: 1rem 0;
+    }
+	.contact-content {
+		background-image: url('../image/contact/bg-contact-sp.png');
+	}
+    .input-container {
+        display: block;
+    }
+    .contact-main {
+        padding: 0 25px 100px 25px;
+    }
+    footer {
+        padding: 0 0 20px 0;
+        background-color: #f6fbff;
+        margin-top: -1px;
+    }
+    .contact-main {
+        width: 100%;
+    }
+    .phone-container {
+        background-color: #e10f0f;
+        width: calc(100% - 30px);
+        margin: 0 15px;
+        padding: calc(1500vw / 640);
+    }
+    .phone-container div {
+        color: white !important;
+    }
+	.prefecture-input {
+    	position: relative;
+		top: unset;
+		right: unset;
+	}
+    .input-container {
+        width: 100% !important;
+    }
+    .input-container input {
+        width: 100% !important;
+    }
+    .input-information {
+        padding: 10px 0;
+    }
+    .position-input input {
+        width: 85% !important;
+    }
+    .address-input input {
+        width: calc(100% - 17px) !important;
+    }
+    
+    .confirm-text, textarea  {
+        width: 100% !important;
+    }
+    .check-div input {
+        width: 15px !important;
+    }
+    .inquiry-btn {
+        margin: 0 15px;
+        width: calc(100% - 30px) !important;
+        height: calc(6000vw / 640) !important;
+        font-size: calc(2700vw / 640) !important;
+    }
+    .free {
+        font-size: calc(2000vw / 640);
+    }
+    .contact-main {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .header-text {
+        font-size: 22px;
+        font-size: calc(2200vw / 640);
+    }
+    
+    .phone-container div:nth-child(1) {
+        font-size: calc(2100vw / 640);
+    }
+    .phone-container div:nth-child(2) {
+        font-size: calc(6550vw / 640);
+    }
+    .phone-container div:nth-child(2) img {
+        width: calc(6800vw / 640);
+    }
+    .phone-container div:nth-child(3) {
+        font-size: calc(1900vw / 640);
+    }
+    .position-input::before {
+        width: 64px;
+        text-align: right;
+    }
+}
+@media (max-width: 640px){
+    .position-input::before {
+        width: 79px;
+    }
+    .header-text {
+        font-size: 14px;
+    }
+    .input-information, .prefecture-input, .address-input {
+        font-size: 13px;
+		white-space: nowrap;
+		font-family: sans-serif;
+    }
+	.confirm-text {
+		font-size: 13px;
+	}
+
+    .necessary::before, .arbitary::before {
+        font-size: 10px;
+        width:30px;
+        height: 16px;
+    }
+    .input-container input, .input-container select {
+        height: 40px;
+        font-size: 13px;
+        padding: 5px 5px;
+		font-family: sans-serif;
+    }
+	.input-container select {
+		-webkit-appearance: none;
+		background: white;
+	}
+    .input-container a {
+        font-size: 14px;
+		font-family: sans-serif;
+    }
+    .input-container textarea {
+        font-size: 13px;
+        padding: 5px 5px;
+		font-family: sans-serif;
+    }
+ 
+    .check-div {
+        font-size: 14px;
+        justify-content: center;
+		font-family: sans-serif;
+    }
+    .check-div input {
+        width: 14px;
+        height: 14px;
+        width: 20px;
+    }
+    .submit-btn, .submit-btn-disable {
+        width: calc(25000vw / 640);
+        height: calc(6000vw / 640);
+        font-size: calc(2100vw / 640);
+    }
+    .contact-main {
+        padding-bottom: calc(10000vw / 640);
+    }
+	
+	
+}
+
+.screen-reader-response {
+    display: none!important;
+}
+
+.wpcf7-form-control-wrap {
+    display: grid;
+}
+
+.wpcf7-not-valid-tip {
+    color: red;
+}
+
+.wpcf7-response-output {
+    text-align: center;
+}
+@media (max-width: 400px) {
+ 	.header-text {
+ 		font-size: 12px;
+	}
+}
+
+@media(max-width: 640px) {
+	.select-wrapper {
+		position: relative;
+		display: inline-block;
+	}
+	.select-wrapper:after {
+		content: '∨';
+		font-size: 3.5vw;
+		color: black !important;
+		right: 2vw;
+		top: 3vw;
+		position: absolute;
+		font-weight: bolder;
+	}
+}
+/* CTA style start */
+
+@media (max-width: 600px) {
+
+	.note-tel-main a {
+		white-space: nowrap!important;
+	}
+	.coupon-tel-main01 a {
+		white-space: nowrap!important;
+	}
+	.note-tel-main a span {
+		font-size: 31px!important;
+	}
+	.coupon-tel-main01 a span {
+		font-size: 29px!important;
+	}
+}
+@media (max-width: 500px) {
+	.coupon-tel-main01 a span {
+		font-size: 27px!important;
+	}
+	.note-tel-main a span {
+		font-size: 27px!important;
+	}
+}
+@media (max-width: 400px) {
+
+	.coupon-tel-main01 a span {
+		font-size: 25px!important;
+	}
+	.note-tel-main a span {
+		font-size: 26px!important;
+	}
+
+}
+/* CTA style end */

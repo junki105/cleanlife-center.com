@@ -1,0 +1,235 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c3a93d5741ca370989baedc411e7029e",
+    "packages": [
+        {
+            "name": "alledia/edd-sl-plugin-updater",
+            "version": "1.6.19",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/publishpress/EDD-SL-Plugin-Updater.git",
+                "reference": "35458adae3c1cb4f8e173805d5ecedb9c33c7fb1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/publishpress/EDD-SL-Plugin-Updater/zipball/35458adae3c1cb4f8e173805d5ecedb9c33c7fb1",
+                "reference": "35458adae3c1cb4f8e173805d5ecedb9c33c7fb1",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=5.6.20"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "EDD_SL_Plugin_Updater.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "EasyDigitalDownloads",
+                    "email": "contact@easydigitaldownloads.com"
+                },
+                {
+                    "name": "PublishPress",
+                    "email": "help@publishpress.com"
+                },
+                {
+                    "name": "Alledia",
+                    "email": "help@alledia.com"
+                }
+            ],
+            "description": "EDD Updates Handler for WordPress Plugins",
+            "keywords": [
+                "edd",
+                "updates",
+                "wordpress"
+            ],
+            "time": "2020-04-13T15:50:18+00:00"
+        },
+        {
+            "name": "alledia/wordpress-edd-license-integration",
+            "version": "v2.3.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/publishpress/WordPress-EDD-License-Integration.git",
+                "reference": "d6111cead86a2b362b4d3caa84c45e518462da21"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/publishpress/WordPress-EDD-License-Integration/zipball/d6111cead86a2b362b4d3caa84c45e518462da21",
+                "reference": "d6111cead86a2b362b4d3caa84c45e518462da21",
+                "shasum": ""
+            },
+            "require": {
+                "alledia/edd-sl-plugin-updater": "^1.6",
+                "ext-json": "*",
+                "php": ">=5.6.20",
+                "pimple/pimple": "~3.2"
+            },
+            "require-dev": {
+                "codeception/domain-assert": "^1.0",
+                "codeception/module-asserts": "^1.2",
+                "codeception/module-cli": "^1.0",
+                "codeception/module-db": "^1.0",
+                "codeception/module-filesystem": "^1.0",
+                "codeception/module-phpbrowser": "^1.0",
+                "codeception/module-webdriver": "^1.0",
+                "codeception/util-universalframework": "^1.0",
+                "lucatume/wp-browser": "^2.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PublishPress\\EDD_License\\Core\\": "src/core/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "PublishPress",
+                    "email": "help@publishpress.com"
+                },
+                {
+                    "name": "Alledia",
+                    "email": "help@alledia.com"
+                },
+                {
+                    "name": "Anderson Grudtner Martins",
+                    "email": "anderson@grudtner.me",
+                    "homepage": "http://anderson.grudtner.me",
+                    "role": "Lead Developer"
+                }
+            ],
+            "description": "EDD license integration library for WordPress plugins",
+            "keywords": [
+                "edd",
+                "license",
+                "wordpress"
+            ],
+            "time": "2020-09-17T19:15:01+00:00"
+        },
+        {
+            "name": "pimple/pimple",
+            "version": "v3.2.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/silexphp/Pimple.git",
+                "reference": "9e403941ef9d65d20cba7d54e29fe906db42cf32"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/silexphp/Pimple/zipball/9e403941ef9d65d20cba7d54e29fe906db42cf32",
+                "reference": "9e403941ef9d65d20cba7d54e29fe906db42cf32",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0",
+                "psr/container": "^1.0"
+            },
+            "require-dev": {
+                "symfony/phpunit-bridge": "^3.2"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.2.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Pimple": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                }
+            ],
+            "description": "Pimple, a simple Dependency Injection Container",
+            "homepage": "http://pimple.sensiolabs.org",
+            "keywords": [
+                "container",
+                "dependency injection"
+            ],
+            "time": "2018-01-21T07:42:36+00:00"
+        },
+        {
+            "name": "psr/container",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/container.git",
+                "reference": "b7ce3b176482dbbc1245ebf52b181af44c2cf55f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/b7ce3b176482dbbc1245ebf52b181af44c2cf55f",
+                "reference": "b7ce3b176482dbbc1245ebf52b181af44c2cf55f",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Container\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "http://www.php-fig.org/"
+                }
+            ],
+            "description": "Common Container Interface (PHP FIG PSR-11)",
+            "homepage": "https://github.com/php-fig/container",
+            "keywords": [
+                "PSR-11",
+                "container",
+                "container-interface",
+                "container-interop",
+                "psr"
+            ],
+            "time": "2017-02-14T16:28:37+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.6.20"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
